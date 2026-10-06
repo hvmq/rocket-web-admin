@@ -1,0 +1,44 @@
+.admin-config-card {
+  min-width: 0;
+  padding: 22px;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 14px;
+  background: var(--admin-paper);
+  box-shadow: var(--admin-shadow);
+}
+.admin-config-platform {
+  margin: 0 0 20px;
+  color: var(--admin-ink);
+  font-size: 16px;
+  font-weight: 700;
+}
+.admin-config-card .admin-field input,
+.admin-config-card .admin-field textarea {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+  background: var(--admin-paper);
+  color: var(--admin-ink);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.5;
+  transition: var(--admin-motion-interactive-transition);
+}
+.admin-config-card .admin-field textarea {
+  min-height: 90px;
+  padding: 10px 12px;
+  resize: vertical;
+}
+.admin-config-card .admin-field textarea:focus-visible {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 3px;
+}
+.admin-config-card .admin-field [aria-invalid='true'] {
+  border-color: #b91c1c;
+}
+.admin-config-field-error {
+  color: #b91c1c;
+  font-size: 12px;
+  font-weight: 400;
+}

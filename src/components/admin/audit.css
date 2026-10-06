@@ -1,0 +1,221 @@
+.audit-page {
+  min-width: 0;
+  overflow: hidden;
+}
+.audit-panel {
+  min-width: 0;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+  box-shadow: var(--admin-shadow);
+  overflow: hidden;
+  animation-delay: var(--admin-motion-stagger-1);
+}
+.audit-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 10px;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--admin-chalk);
+}
+.audit-search {
+  display: grid;
+  flex: 1 1 210px;
+  grid-template-columns: 20px minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  min-width: 240px;
+  height: 38px;
+  padding: 0 12px;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+  background: var(--admin-paper);
+}
+.audit-search input {
+  min-width: 0;
+  height: 34px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--admin-ink);
+  font-size: 13px;
+}
+.audit-search:focus-within {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 2px;
+}
+.audit-search input::placeholder {
+  color: var(--admin-pebble);
+}
+.audit-filter {
+  display: grid;
+  gap: 4px;
+  color: var(--admin-ashen);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.audit-filter select,
+.audit-filter input {
+  max-width: 145px;
+  height: 38px;
+  padding: 0 10px;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+  background: var(--admin-paper);
+  color: var(--admin-ink);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-transform: none;
+}
+.audit-filter select:focus-visible,
+.audit-filter input:focus-visible {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 2px;
+}
+.audit-table-wrap {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.audit-table {
+  width: 100%;
+  min-width: 780px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  text-align: left;
+}
+.audit-table th,
+.audit-table td {
+  padding: 12px 6px;
+  overflow-wrap: anywhere;
+}
+.audit-table th:first-child,
+.audit-table td:first-child {
+  padding-left: 18px;
+}
+.audit-table th:last-child,
+.audit-table td:last-child {
+  width: 108px;
+  padding-right: 18px;
+}
+.audit-table th:nth-child(1) {
+  width: 22%;
+}
+.audit-table th:nth-child(2) {
+  width: 15%;
+}
+.audit-table th:nth-child(3) {
+  width: 18%;
+}
+.audit-table th:nth-child(4) {
+  width: 15%;
+}
+.audit-table thead {
+  height: 42px;
+  border-bottom: 1px solid var(--admin-chalk);
+  background: var(--admin-stone);
+  color: var(--admin-ashen);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.audit-table tbody tr {
+  height: 56px;
+  border-top: 1px solid var(--admin-stone);
+  color: var(--admin-graphite);
+  font-size: 13px;
+  transition: var(--admin-motion-interactive-transition);
+}
+.audit-table tbody tr:hover,
+.audit-table tbody tr.is-selected {
+  background: var(--admin-stone);
+}
+.audit-table strong {
+  color: var(--admin-ink);
+  font-weight: 600;
+}
+.audit-table small {
+  display: block;
+  margin-top: 2px;
+  color: var(--admin-ashen);
+  font-size: 11px;
+}
+.audit-table button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #2563eb;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: right;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  transition: var(--admin-motion-interactive-transition);
+}
+.audit-table button:hover {
+  color: #1d4ed8;
+}
+.audit-panel .admin-list-state {
+  border: 0;
+  border-radius: 0;
+}
+.audit-date-error {
+  padding: 24px 18px;
+  color: #b91c1c;
+}
+.audit-loading {
+  padding: 28px;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+  color: var(--admin-ashen);
+}
+.audit-skeleton {
+  display: grid;
+  gap: 14px;
+}
+.audit-skeleton span {
+  height: 28px;
+  border-radius: 7px;
+  background: var(--admin-stone);
+  animation: audit-skeleton 800ms ease-in-out infinite alternate;
+}
+@keyframes audit-skeleton {
+  from {
+    opacity: 0.55;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.audit-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+@media (width <= 680px) {
+  .audit-search {
+    min-width: 0;
+    flex-basis: 100%;
+  }
+  .audit-filter {
+    flex: 1 1 110px;
+  }
+  .audit-filter select,
+  .audit-filter input {
+    width: 100%;
+    max-width: none;
+  }
+}

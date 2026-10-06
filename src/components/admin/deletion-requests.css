@@ -1,0 +1,373 @@
+.deletion-page {
+  position: relative;
+  min-height: calc(100dvh - 128px);
+}
+.deletion-stack {
+  display: grid;
+  min-width: 0;
+  gap: 18px;
+}
+.deletion-panel {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+  box-shadow: var(--admin-shadow);
+}
+.deletion-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 18px 20px 14px;
+}
+.deletion-heading h2 {
+  margin: 0;
+  color: var(--admin-ink);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.deletion-heading > span {
+  color: var(--admin-ashen);
+  font-size: 12px;
+}
+.deletion-filters {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--admin-chalk);
+}
+.deletion-search {
+  display: flex;
+  flex: 1 1 250px;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  height: 38px;
+  padding: 0 12px;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+}
+.deletion-search input {
+  flex: 1;
+  width: 100%;
+  min-width: 0;
+  height: 34px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--admin-ink);
+  font-size: 13px;
+}
+.deletion-search input::placeholder {
+  color: var(--admin-pebble);
+}
+.deletion-search:focus-within {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 3px;
+}
+.deletion-filter {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+  color: var(--admin-ashen);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.deletion-filter select {
+  max-width: 100%;
+  height: 38px;
+  padding: 0 10px;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+  background: var(--admin-paper);
+  color: var(--admin-ink);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  cursor: pointer;
+}
+.deletion-page select:focus-visible {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 3px;
+}
+.deletion-table-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.deletion-table {
+  width: 100%;
+  min-width: 900px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 13px;
+}
+.deletion-table th,
+.deletion-table td {
+  height: 56px;
+  padding: 8px 6px;
+  border-top: 1px solid var(--admin-stone);
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+.deletion-table th {
+  height: 42px;
+  border-top: 0;
+  border-bottom: 1px solid var(--admin-chalk);
+  background: var(--admin-stone);
+  color: var(--admin-ashen);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.deletion-table th:nth-child(1) {
+  width: 15%;
+}
+.deletion-table th:nth-child(2) {
+  width: 23%;
+}
+.deletion-table th:nth-child(3) {
+  width: 25%;
+}
+.deletion-table th:nth-child(4) {
+  width: auto;
+}
+.deletion-table th:nth-child(5) {
+  width: 103px;
+}
+.deletion-table th:first-child,
+.deletion-table td:first-child {
+  padding-left: 18px;
+}
+.deletion-table th:last-child,
+.deletion-table td:last-child {
+  padding-right: 18px;
+  text-align: right;
+}
+.deletion-table td strong {
+  display: block;
+  color: var(--admin-ink);
+  font-weight: 600;
+}
+.deletion-table small {
+  display: block;
+  margin-top: 2px;
+  color: var(--admin-ashen);
+  font-size: 11px;
+}
+.deletion-table tbody tr {
+  transition: background var(--admin-motion-interaction-duration) ease;
+}
+.deletion-table tbody tr:hover,
+.deletion-table .is-selected {
+  background: var(--admin-stone);
+}
+.deletion-view {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #2563eb;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+.deletion-view:hover {
+  color: #1d4ed8;
+}
+.deletion-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  padding: 3px 9px;
+  border: 1px solid #fed7aa;
+  border-radius: 999px;
+  background: #fff7ed;
+  color: #9a3412;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.deletion-status i {
+  flex: none;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.deletion-page .admin-detail-panel {
+  top: 72px;
+  width: min(480px, 100vw);
+  height: calc(100dvh - 72px);
+}
+.deletion-page .admin-detail-panel > header {
+  padding: 20px 24px;
+}
+.deletion-page .admin-detail-panel__body {
+  padding: 20px 24px;
+}
+.deletion-page .admin-detail-panel > footer {
+  justify-content: flex-start;
+  padding: 16px 24px;
+}
+.deletion-detail-stack {
+  display: grid;
+  gap: 16px;
+}
+.deletion-policy,
+.deletion-card {
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 4%);
+}
+.deletion-policy {
+  display: flex;
+  align-items: start;
+  gap: 14px;
+  padding: 18px 20px;
+}
+.deletion-policy > .admin-icon {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  margin-top: 2px;
+}
+.deletion-policy strong {
+  color: var(--admin-ink);
+  font-size: 14px;
+  font-weight: 600;
+}
+.deletion-policy p {
+  margin: 4px 0 0;
+  color: var(--admin-ashen);
+  font-size: 12px;
+}
+.deletion-card {
+  min-width: 0;
+  padding: 22px;
+}
+.deletion-card h3 {
+  margin: 0 0 12px;
+  color: var(--admin-ink);
+  font-size: 15px;
+  font-weight: 600;
+}
+.deletion-card p {
+  overflow-wrap: anywhere;
+}
+.deletion-card-heading {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 16px;
+}
+.deletion-card-heading > div {
+  min-width: 0;
+}
+.deletion-card-heading .deletion-status {
+  max-width: 170px;
+}
+.deletion-timeline {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 12px;
+}
+.deletion-timeline li + li {
+  margin-top: 10px;
+}
+.deletion-detail-stack > :nth-child(2) {
+  animation-delay: var(--admin-motion-stagger-1);
+}
+.deletion-detail-stack > :nth-child(3) {
+  animation-delay: var(--admin-motion-stagger-2);
+}
+.deletion-detail-stack > :nth-child(4) {
+  animation-delay: var(--admin-motion-stagger-3);
+}
+.deletion-detail-stack > :nth-child(n + 5) {
+  animation-delay: var(--admin-motion-stagger-4);
+}
+.deletion-page button,
+.deletion-page a {
+  transition: var(--admin-motion-interactive-transition);
+}
+.deletion-page a.admin-secondary-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.deletion-page button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+.deletion-loading {
+  padding: 34px 24px;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+  color: var(--admin-ashen);
+}
+.deletion-skeleton {
+  display: grid;
+  gap: 14px;
+}
+.deletion-skeleton span {
+  height: 34px;
+  border-radius: 8px;
+  background: var(--admin-stone);
+  animation: deletion-skeleton 850ms ease-in-out infinite alternate;
+}
+@keyframes deletion-skeleton {
+  from {
+    opacity: 0.55;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.deletion-sr-only {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+@media (max-width: 680px) {
+  .deletion-heading {
+    align-items: start;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .deletion-filters {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .deletion-search {
+    flex: auto;
+  }
+  .deletion-card-heading {
+    flex-wrap: wrap;
+  }
+  .deletion-card-heading .deletion-status {
+    max-width: 100%;
+  }
+  .deletion-page .admin-detail-panel__body {
+    padding: 20px 16px;
+  }
+}

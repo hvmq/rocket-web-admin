@@ -1,0 +1,764 @@
+[
+  {
+    "source": "1. Find care nearby",
+    "vi": "1. Tìm care gần đây",
+    "en": "1. Find care nearby",
+    "ko": "1. 찾기 care 주변"
+  },
+  {
+    "source": "2. Plan your next session",
+    "vi": "2. Plan của bạn tiếp theo phiên",
+    "en": "2. Plan your next session",
+    "ko": "2. Plan 내 다음 세션"
+  },
+  {
+    "source": "Accessibility label",
+    "vi": "Nhãn hỗ trợ tiếp cận (Alt text)",
+    "en": "Accessibility label",
+    "ko": "접근성 대체 텍스트"
+  },
+  {
+    "source": "Active",
+    "vi": "Đang hiển thị",
+    "en": "Active",
+    "ko": "게시 중"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "All states",
+    "vi": "Tất cả trạng thái",
+    "en": "All states",
+    "ko": "전체 상태"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "APP HOME · INFORMATIONAL BANNER",
+    "vi": "TRANG CHỦ ỨNG DỤNG · BANNER THÔNG TIN",
+    "en": "APP HOME · INFORMATIONAL BANNER",
+    "ko": "앱 홈 화면 · 안내 배너 프리뷰"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "Audit history",
+    "vi": "Lịch sử kiểm toán",
+    "en": "Audit history",
+    "ko": "감사 이력"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Back to Details",
+    "vi": "Quay lại tab Chi tiết",
+    "en": "Back to Details",
+    "ko": "상세 탭으로 돌아가기"
+  },
+  {
+    "source": "Banner",
+    "vi": "Banner",
+    "en": "Banner",
+    "ko": "배너"
+  },
+  {
+    "source": "Banner details",
+    "vi": "Chi tiết banner",
+    "en": "Banner details",
+    "ko": "배너 상세 정보"
+  },
+  {
+    "source": "Banner editor tabs",
+    "vi": "Các tab chỉnh sửa banner",
+    "en": "Banner editor tabs",
+    "ko": "배너 편집 탭"
+  },
+  {
+    "source": "Banner Management",
+    "vi": "Quản lý banner thông tin",
+    "en": "Banner Management",
+    "ko": "인앱 안내 배너 관리"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Banners unavailable",
+    "vi": "Không thể tải danh sách banner",
+    "en": "Banners unavailable",
+    "ko": "배너 목록을 불러올 수 없음"
+  },
+  {
+    "source": "BN-301",
+    "vi": "BN-301",
+    "en": "BN-301",
+    "ko": "BN-301"
+  },
+  {
+    "source": "Booking chat",
+    "vi": "Đặt lịch trò chuyện",
+    "en": "Booking chat",
+    "ko": "예약 채팅"
+  },
+  {
+    "source": "Browse nearby providers",
+    "vi": "Browse gần đây nhà cung cấp",
+    "en": "Browse nearby providers",
+    "ko": "Browse 주변 제공자"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Close banner editor",
+    "vi": "Đóng trình sửa banner",
+    "en": "Close banner editor",
+    "ko": "배너 편집기 닫기"
+  },
+  {
+    "source": "Close details",
+    "vi": "Đóng chi tiết",
+    "en": "Close details",
+    "ko": "상세 닫기"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Confirm Delete",
+    "vi": "Xác nhận xóa banner",
+    "en": "Confirm Delete",
+    "ko": "배너 삭제 확정"
+  },
+  {
+    "source": "Confirm Hide",
+    "vi": "Xác nhận ẩn banner",
+    "en": "Confirm Hide",
+    "ko": "배너 숨김 확정"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Create Banner",
+    "vi": "Tạo banner mới",
+    "en": "Create Banner",
+    "ko": "새 배너 등록"
+  },
+  {
+    "source": "Current app placement",
+    "vi": "Vị trí hiển thị hiện tại trên app",
+    "en": "Current app placement",
+    "ko": "현재 앱 노출 배치 순서"
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Delete Banner",
+    "vi": "Xóa banner",
+    "en": "Delete Banner",
+    "ko": "배너 삭제"
+  },
+  {
+    "source": "Delete Banner?",
+    "vi": "Xóa banner này?",
+    "en": "Delete Banner?",
+    "ko": "해당 배너를 삭제하시겠습니까?"
+  },
+  {
+    "source": "Deleted",
+    "vi": "Đã xóa",
+    "en": "Deleted",
+    "ko": "삭제됨"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Details",
+    "vi": "Chi tiết",
+    "en": "Details",
+    "ko": "상세 정보"
+  },
+  {
+    "source": "Display order",
+    "vi": "Thứ tự hiển thị",
+    "en": "Display order",
+    "ko": "노출 순서"
+  },
+  {
+    "source": "Edit",
+    "vi": "Chỉnh sửa",
+    "en": "Edit",
+    "ko": "수정"
+  },
+  {
+    "source": "Edit Banner",
+    "vi": "Chỉnh sửa banner",
+    "en": "Edit Banner",
+    "ko": "배너 정보 수정"
+  },
+  {
+    "source": "Effective end",
+    "vi": "Thời điểm kết thúc",
+    "en": "Effective end",
+    "ko": "게시 종료 일시"
+  },
+  {
+    "source": "Effective period",
+    "vi": "Thời gian hiệu lực",
+    "en": "Effective period",
+    "ko": "게시 유효 기간"
+  },
+  {
+    "source": "Effective start",
+    "vi": "Thời điểm bắt đầu",
+    "en": "Effective start",
+    "ko": "게시 시작 일시"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Expired",
+    "vi": "Đã hết hạn",
+    "en": "Expired",
+    "ko": "기간 만료"
+  },
+  {
+    "source": "Explore appointment options",
+    "vi": "Explore lịch hẹn options",
+    "en": "Explore appointment options",
+    "ko": "Explore 예약 options"
+  },
+  {
+    "source": "Find care nearby",
+    "vi": "Tìm care gần đây",
+    "en": "Find care nearby",
+    "ko": "찾기 care 주변"
+  },
+  {
+    "source": "Find local service providers",
+    "vi": "Tìm cục bộ dịch vụ nhà cung cấp",
+    "en": "Find local service providers",
+    "ko": "찾기 로컬 서비스 제공자"
+  },
+  {
+    "source": "Hidden",
+    "vi": "Đã ẩn",
+    "en": "Hidden",
+    "ko": "숨김"
+  },
+  {
+    "source": "Hide Banner",
+    "vi": "Ẩn banner",
+    "en": "Hide Banner",
+    "ko": "배너 숨기기"
+  },
+  {
+    "source": "Hide Banner?",
+    "vi": "Ẩn banner này?",
+    "en": "Hide Banner?",
+    "ko": "해당 배너를 숨김 처리하시겠습니까?"
+  },
+  {
+    "source": "Hide this banner from the app after the next refresh. You may edit and show it again later.",
+    "vi": "Tạm ẩn banner này khỏi ứng dụng sau lần làm mới tiếp theo. Bạn có thể bật hiển thị lại sau này.",
+    "en": "Hide this banner from the app after the next refresh. You may edit and show it again later.",
+    "ko": "다음 앱 새로고침 시 배너가 숨겨집니다. 추후 다시 노출하도록 수정할 수 있습니다."
+  },
+  {
+    "source": "Image unavailable — return to Details to choose a valid image.",
+    "vi": "Không thể tải hình ảnh — vui lòng quay lại tab Chi tiết để chọn ảnh hợp lệ.",
+    "en": "Image unavailable — return to Details to choose a valid image.",
+    "ko": "이미지를 불러올 수 없습니다. 상세 탭으로 돌아가 올바른 이미지를 선택하세요."
+  },
+  {
+    "source": "Image URL or approved media reference",
+    "vi": "Đường dẫn ảnh hoặc mã tài nguyên đã phê duyệt",
+    "en": "Image URL or approved media reference",
+    "ko": "이미지 URL 또는 승인된 미디어 참조"
+  },
+  {
+    "source": "Informational banners",
+    "vi": "Banner thông tin trên ứng dụng",
+    "en": "Informational banners",
+    "ko": "인앱 안내 배너"
+  },
+  {
+    "source": "Internal destination",
+    "vi": "Điểm đến nội bộ ứng dụng (Deep link)",
+    "en": "Internal destination",
+    "ko": "인앱 연결 화면 (딥링크)"
+  },
+  {
+    "source": "Latest activity",
+    "vi": "Hoạt động mới nhất",
+    "en": "Latest activity",
+    "ko": "최근 활동"
+  },
+  {
+    "source": "Loading banners…",
+    "vi": "Đang tải danh sách banner…",
+    "en": "Loading banners…",
+    "ko": "배너 목록 불러오는 중…"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "No banners found",
+    "vi": "Không tìm thấy banner nào",
+    "en": "No banners found",
+    "ko": "등록된 배너가 없습니다"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Opens",
+    "vi": "Mở đến",
+    "en": "Opens",
+    "ko": "연결 화면"
+  },
+  {
+    "source": "Opens Provider search",
+    "vi": "Opens nhà cung cấp tìm kiếm",
+    "en": "Opens Provider search",
+    "ko": "Opens 제공자 검색"
+  },
+  {
+    "source": "Order",
+    "vi": "Thứ tự",
+    "en": "Order",
+    "ko": "정렬 순서"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Plan your next session",
+    "vi": "Plan của bạn tiếp theo phiên",
+    "en": "Plan your next session",
+    "ko": "Plan 내 다음 세션"
+  },
+  {
+    "source": "Preview",
+    "vi": "Xem trước",
+    "en": "Preview",
+    "ko": "미리보기"
+  },
+  {
+    "source": "Previous season",
+    "vi": "Trước season",
+    "en": "Previous season",
+    "ko": "이전 season"
+  },
+  {
+    "source": "Provider profile",
+    "vi": "Hồ sơ đối tác",
+    "en": "Provider profile",
+    "ko": "제공자 프로필"
+  },
+  {
+    "source": "Provider search",
+    "vi": "Nhà cung cấp tìm kiếm",
+    "en": "Provider search",
+    "ko": "제공자 검색"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Published · Ava Morgan",
+    "vi": "Đã xuất bản · Ava Morgan",
+    "en": "Published · Ava Morgan",
+    "ko": "게시됨 · Ava Morgan"
+  },
+  {
+    "source": "Reason",
+    "vi": "Căn cứ / Lý do",
+    "en": "Reason",
+    "ko": "사유"
+  },
+  {
+    "source": "Record changed",
+    "vi": "Dữ liệu bản ghi đã thay đổi",
+    "en": "Record changed",
+    "ko": "데이터 변경 감지"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Reload Details",
+    "vi": "Tải lại chi tiết",
+    "en": "Reload Details",
+    "ko": "최신 정보 새로고침"
+  },
+  {
+    "source": "Remove this banner from the catalogue and app placement. Its audit reference remains.",
+    "vi": "Gỡ bỏ banner này khỏi danh mục và màn hình app. Bản ghi kiểm toán vẫn được lưu trữ nguyên vẹn.",
+    "en": "Remove this banner from the catalogue and app placement. Its audit reference remains.",
+    "ko": "배너를 목록 및 앱 노출에서 영구 제거합니다. 감사 로그 기록은 유지됩니다."
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "Retry",
+    "vi": "Thử lại",
+    "en": "Retry",
+    "ko": "다시 시도"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Save Banner",
+    "vi": "Lưu banner",
+    "en": "Save Banner",
+    "ko": "배너 정보 저장"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  },
+  {
+    "source": "Scheduled",
+    "vi": "Đã lên lịch",
+    "en": "Scheduled",
+    "ko": "발송 예약됨"
+  },
+  {
+    "source": "Search banner, label or destination",
+    "vi": "Tìm theo tiêu đề banner, nhãn hoặc điểm đến",
+    "en": "Search banner, label or destination",
+    "ko": "배너 제목, 대체 텍스트, 연결 화면 검색"
+  },
+  {
+    "source": "Search banners",
+    "vi": "Tìm kiếm banner",
+    "en": "Search banners",
+    "ko": "배너 검색"
+  },
+  {
+    "source": "Select an approved image",
+    "vi": "Chọn một hình ảnh hợp lệ đã được phê duyệt",
+    "en": "Select an approved image",
+    "ko": "승인된 이미지를 선택하세요"
+  },
+  {
+    "source": "Select an internal destination",
+    "vi": "Chọn điểm đến nội bộ trong ứng dụng",
+    "en": "Select an internal destination",
+    "ko": "인앱 연결 화면을 선택하세요"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "State",
+    "vi": "Trạng thái",
+    "en": "State",
+    "ko": "게시 상태"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "The banner changed after this view opened. Reload before making a decision.",
+    "vi": "Banner đã thay đổi sau khi mở. Vui lòng tải lại trước khi quyết định.",
+    "en": "The banner changed after this view opened. Reload before making a decision.",
+    "ko": "열람 후 배너 정보가 변경되었습니다. 조치 전 다시 불러오세요."
+  },
+  {
+    "source": "Title",
+    "vi": "Tiêu đề thông báo",
+    "en": "Title",
+    "ko": "알림 제목"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "View provider profiles",
+    "vi": "Xem nhà cung cấp profiles",
+    "en": "View provider profiles",
+    "ko": "보기 제공자 profiles"
+  },
+  {
+    "source": "Visible during effective period",
+    "vi": "Hiển thị công khai trong thời gian hiệu lực",
+    "en": "Visible during effective period",
+    "ko": "게시 기간 동안 노출 활성화"
+  },
+  {
+    "source": "Your wellness space",
+    "vi": "Của bạn wellness khoảng trống",
+    "en": "Your wellness space",
+    "ko": "내 wellness 공간"
+  },
+  {
+    "vi": "Không thể tải ảnh",
+    "source": "Image unavailable",
+    "en": "Image unavailable",
+    "ko": "이미지를 불러올 수 없습니다"
+  },
+  {
+    "vi": "Banner chưa có tiêu đề",
+    "source": "Untitled banner",
+    "en": "Untitled banner",
+    "ko": "제목 없는 배너"
+  },
+  {
+    "vi": "chưa chọn điểm đến",
+    "source": "no destination selected",
+    "en": "no destination selected",
+    "ko": "연결 화면 미선택"
+  },
+  {
+    "vi": "Múi giờ",
+    "source": "Time zone",
+    "en": "Time zone",
+    "ko": "시간대"
+  },
+  {
+    "vi": "Nhập tiêu đề và nhãn hỗ trợ tiếp cận.",
+    "source": "Enter a title and accessibility label.",
+    "en": "Enter a title and accessibility label.",
+    "ko": "제목과 접근성 대체 텍스트를 입력하세요."
+  },
+  {
+    "vi": "Chọn URL ảnh HTTPS hợp lệ hoặc ảnh trong assets.",
+    "source": "Choose a valid HTTPS image or approved media reference.",
+    "en": "Choose a valid HTTPS image or approved media reference.",
+    "ko": "올바른 HTTPS 이미지 또는 승인된 미디어를 선택하세요."
+  },
+  {
+    "vi": "Chọn điểm đến nội bộ hợp lệ.",
+    "source": "Choose a valid internal destination.",
+    "en": "Choose a valid internal destination.",
+    "ko": "올바른 인앱 연결 화면을 선택하세요."
+  },
+  {
+    "vi": "Thời gian kết thúc phải sau thời gian bắt đầu.",
+    "source": "End time must be after start time.",
+    "en": "End time must be after start time.",
+    "ko": "종료 시간은 시작 시간 이후여야 합니다."
+  },
+  {
+    "vi": "Nhập thứ tự hiển thị là số nguyên dương.",
+    "source": "Enter a positive display order.",
+    "en": "Enter a positive display order.",
+    "ko": "노출 순서에 양의 정수를 입력하세요."
+  },
+  {
+    "vi": "Dùng thao tác Ẩn banner để ghi lại lý do bắt buộc.",
+    "source": "Use Hide Banner to record a required reason.",
+    "en": "Use Hide Banner to record a required reason.",
+    "ko": "배너 숨기기 기능으로 필수 사유를 기록하세요."
+  },
+  {
+    "vi": "Tải lại dữ liệu hiện tại trước khi lưu.",
+    "source": "Reload current data before saving.",
+    "en": "Reload current data before saving.",
+    "ko": "저장 전에 최신 데이터를 다시 불러오세요."
+  },
+  {
+    "vi": "Đã cập nhật banner",
+    "source": "Banner updated",
+    "en": "Banner updated",
+    "ko": "배너가 업데이트되었습니다"
+  },
+  {
+    "vi": "Đã lưu banner. Hiển thị theo thứ tự và thời gian hiệu lực.",
+    "source": "Banner saved. Effective display follows order and visibility.",
+    "en": "Banner saved. Effective display follows order and visibility.",
+    "ko": "배너를 저장했습니다. 순서와 공개 설정에 따라 표시됩니다."
+  },
+  {
+    "vi": "Đã xóa banner và ghi lại lý do.",
+    "source": "Banner deleted. Reason recorded.",
+    "en": "Banner deleted. Reason recorded.",
+    "ko": "배너를 삭제하고 사유를 기록했습니다."
+  },
+  {
+    "vi": "Đã ẩn banner và ghi lại lý do.",
+    "source": "Banner hidden. Reason recorded.",
+    "en": "Banner hidden. Reason recorded.",
+    "ko": "배너를 숨기고 사유를 기록했습니다."
+  },
+  {
+    "vi": "Không có banner đang hiển thị",
+    "source": "No active banners",
+    "en": "No active banners",
+    "ko": "게시 중인 배너 없음"
+  },
+  {
+    "vi": "Banner đã xóa · chỉ giữ lịch sử kiểm toán.",
+    "source": "Deleted banner · audit record only.",
+    "en": "Deleted banner · audit record only.",
+    "ko": "삭제된 배너 · 감사 기록만 유지됩니다."
+  },
+  {
+    "vi": "Đã đăng",
+    "source": "Published",
+    "en": "Published",
+    "ko": "게시됨"
+  },
+  {
+    "vi": "Đã chỉnh sửa",
+    "source": "Edited",
+    "en": "Edited",
+    "ko": "수정됨"
+  },
+  {
+    "vi": "Đã tạo",
+    "source": "Created",
+    "en": "Created",
+    "ko": "생성됨"
+  },
+  {
+    "vi": "Xóa bộ lọc",
+    "source": "Clear Filters",
+    "en": "Clear Filters",
+    "ko": "필터 초기화"
+  },
+  {
+    "vi": "Đóng",
+    "source": "Close",
+    "en": "Close",
+    "ko": "닫기"
+  }
+]

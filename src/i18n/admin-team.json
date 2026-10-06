@@ -1,0 +1,812 @@
+[
+  {
+    "source": "Admin Accounts & Roles",
+    "vi": "Tài khoản & Vai trò quản trị",
+    "en": "Admin Accounts & Roles",
+    "ko": "관리자 계정 및 역할"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Accounts",
+    "vi": "Tài khoản",
+    "en": "Accounts",
+    "ko": "계정"
+  },
+  {
+    "source": "Roles & Permissions",
+    "vi": "Vai trò & Phân quyền",
+    "en": "Roles & Permissions",
+    "ko": "역할 및 권한"
+  },
+  {
+    "source": "Create Account",
+    "vi": "Tạo tài khoản",
+    "en": "Create Account",
+    "ko": "계정 만들기"
+  },
+  {
+    "source": "Admin",
+    "vi": "Quản trị viên",
+    "en": "Admin",
+    "ko": "관리자"
+  },
+  {
+    "source": "Role",
+    "vi": "Vai trò",
+    "en": "Role",
+    "ko": "회원 역할"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "Actions",
+    "vi": "Thao tác",
+    "en": "Actions",
+    "ko": "작업"
+  },
+  {
+    "source": "admin@rocket.demo",
+    "vi": "admin@rocket.demo",
+    "en": "admin@rocket.demo",
+    "ko": "admin@rocket.demo"
+  },
+  {
+    "source": "Active",
+    "vi": "Đang hiển thị",
+    "en": "Active",
+    "ko": "게시 중"
+  },
+  {
+    "source": "Change Role",
+    "vi": "Thay đổi vai trò",
+    "en": "Change Role",
+    "ko": "변경 역할"
+  },
+  {
+    "source": "Deactivate",
+    "vi": "Vô hiệu hóa",
+    "en": "Deactivate",
+    "ko": "비활성화"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Admin management",
+    "vi": "Quản lý quản trị viên",
+    "en": "Admin management",
+    "ko": "관리자 관리"
+  },
+  {
+    "source": "Search Admin accounts",
+    "vi": "Tìm kiếm tài khoản quản trị",
+    "en": "Search Admin accounts",
+    "ko": "관리자 계정 검색"
+  },
+  {
+    "source": "Search name, email or role",
+    "vi": "Tìm kiếm tên, email hoặc vai trò",
+    "en": "Search name, email or role",
+    "ko": "검색 이름, 이메일 또는 역할"
+  },
+  {
+    "source": "Admin accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "Create a role, choose its allowed functions, then assign it to accounts.",
+    "vi": "Tạo một vai trò, chọn các tính năng được cấp quyền, sau đó gán vai trò này cho tài khoản.",
+    "en": "Create a role, choose its allowed functions, then assign it to accounts.",
+    "ko": "역할을 생성하고 허용할 기능을 선택한 후 계정에 배정하세요."
+  },
+  {
+    "source": "Create Role",
+    "vi": "Tạo vai trò",
+    "en": "Create Role",
+    "ko": "만들기 역할"
+  },
+  {
+    "source": "Allowed functions",
+    "vi": "Các tính năng được phép",
+    "en": "Allowed functions",
+    "ko": "허용된 기능"
+  },
+  {
+    "source": "Protected system role",
+    "vi": "Protected hệ thống vai trò",
+    "en": "Protected system role",
+    "ko": "Protected 시스템 역할"
+  },
+  {
+    "source": "All functions + Admin management",
+    "vi": "Tất cả tính năng + Quản lý quản trị viên",
+    "en": "All functions + Admin management",
+    "ko": "모든 기능 + 관리자 관리"
+  },
+  {
+    "source": "Dashboard, Users, Provider Verification +13 more",
+    "vi": "Bảng điều khiển, Người dùng, Xét duyệt đối tác + 13 mục khác",
+    "en": "Dashboard, Users, Provider Verification +13 more",
+    "ko": "대시보드, 사용자, 제공자 심사 외 13개"
+  },
+  {
+    "source": "1 assigned",
+    "vi": "Đã gán cho 1 người",
+    "en": "1 assigned",
+    "ko": "1명에게 배정됨"
+  },
+  {
+    "source": "View Permissions",
+    "vi": "Xem quyền hạn",
+    "en": "View Permissions",
+    "ko": "권한 보기"
+  },
+  {
+    "source": "Operator",
+    "vi": "Nhân viên vận hành",
+    "en": "Operator",
+    "ko": "운영자"
+  },
+  {
+    "source": "14 allowed functions",
+    "vi": "14 tính năng được phép",
+    "en": "14 allowed functions",
+    "ko": "허용된 기능 14개"
+  },
+  {
+    "source": "Dashboard, Users, Provider Verification +11 more",
+    "vi": "Bảng điều khiển, Người dùng, Xét duyệt đối tác + 11 mục khác",
+    "en": "Dashboard, Users, Provider Verification +11 more",
+    "ko": "대시보드, 사용자, 제공자 심사 외 11개"
+  },
+  {
+    "source": "0 assigned",
+    "vi": "Chưa gán",
+    "en": "0 assigned",
+    "ko": "배정 인원 없음"
+  },
+  {
+    "source": "Edit Role",
+    "vi": "Chỉnh sửa vai trò",
+    "en": "Edit Role",
+    "ko": "수정 역할"
+  },
+  {
+    "source": "Delete",
+    "vi": "Xóa",
+    "en": "Delete",
+    "ko": "삭제"
+  },
+  {
+    "source": "Viewer",
+    "vi": "Người xem",
+    "en": "Viewer",
+    "ko": "조회자"
+  },
+  {
+    "source": "2 allowed functions",
+    "vi": "2 tính năng được phép",
+    "en": "2 allowed functions",
+    "ko": "허용된 기능 2개"
+  },
+  {
+    "source": "Dashboard, Appointments",
+    "vi": "Dashboard, lịch hẹn",
+    "en": "Dashboard, Appointments",
+    "ko": "Dashboard, 예약"
+  },
+  {
+    "source": "Owner cannot be edited or deleted. Reassign all accounts before deleting another role.",
+    "vi": "Không thể chỉnh sửa hoặc xóa vai trò Chủ sở hữu. Hãy chuyển vai trò cho tất cả tài khoản trước khi xóa vai trò khác.",
+    "en": "Owner cannot be edited or deleted. Reassign all accounts before deleting another role.",
+    "ko": "소유자 역할은 수정하거나 삭제할 수 없습니다. 다른 역할을 삭제하기 전에 모든 계정의 역할을 재배정하세요."
+  },
+  {
+    "source": "Admin roles",
+    "vi": "Vai trò quản trị",
+    "en": "Admin roles",
+    "ko": "관리자 역할"
+  },
+  {
+    "source": "Create Admin Account",
+    "vi": "Tạo tài khoản quản trị",
+    "en": "Create Admin Account",
+    "ko": "관리자 계정 생성"
+  },
+  {
+    "source": "Choose one role for this account. You can change it later.",
+    "vi": "Chọn một vai trò cho này tài khoản. Bạn có thể thay đổi nội dung này sau.",
+    "en": "Choose one role for this account. You can change it later.",
+    "ko": "선택 하나 역할 위한 이 계정. 사용자 가능 변경 그것 나중에."
+  },
+  {
+    "source": "Full name",
+    "vi": "Đầy đủ tên",
+    "en": "Full name",
+    "ko": "전체 이름"
+  },
+  {
+    "source": "Email",
+    "vi": "Email",
+    "en": "Email",
+    "ko": "이메일"
+  },
+  {
+    "source": "Choose a role",
+    "vi": "Chọn một vai trò",
+    "en": "Choose a role",
+    "ko": "선택 하나의 역할"
+  },
+  {
+    "source": "Initial password",
+    "vi": "Mật khẩu khởi tạo",
+    "en": "Initial password",
+    "ko": "초기 비밀번호"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Select the functions this role can use. Each selection includes the actions described below. Assign this role to an account to use these permissions.",
+    "vi": "Chọn các tính năng mà vai trò này có thể sử dụng. Mỗi lựa chọn sẽ bao gồm các thao tác được mô tả bên dưới. Gán vai trò này cho tài khoản để áp dụng các quyền hạn trên.",
+    "en": "Select the functions this role can use. Each selection includes the actions described below. Assign this role to an account to use these permissions.",
+    "ko": "이 역할이 사용할 기능을 선택하세요. 각 선택 항목에는 아래 설명된 작업 권한이 포함됩니다. 이 역할을 계정에 배정하여 권한을 적용하세요."
+  },
+  {
+    "source": "Role name",
+    "vi": "Tên vai trò",
+    "en": "Role name",
+    "ko": "역할 이름"
+  },
+  {
+    "source": "Dashboard · Required",
+    "vi": "Bảng điều khiển · Bắt buộc",
+    "en": "Dashboard · Required",
+    "ko": "대시보드 · 필수"
+  },
+  {
+    "source": "View operational statistics.",
+    "vi": "Xem số liệu thống kê vận hành.",
+    "en": "View operational statistics.",
+    "ko": "운영 통계를 확인합니다."
+  },
+  {
+    "source": "View profiles and lock or unlock accounts.",
+    "vi": "Xem hồ sơ và khóa hoặc mở khóa tài khoản.",
+    "en": "View profiles and lock or unlock accounts.",
+    "ko": "프로필을 확인하고 계정을 잠금 또는 잠금 해제합니다."
+  },
+  {
+    "source": "Review, approve or reject provider profiles.",
+    "vi": "Xét duyệt, phê duyệt hoặc từ chối hồ sơ đối tác.",
+    "en": "Review, approve or reject provider profiles.",
+    "ko": "제공자 프로필을 검토, 승인 또는 거절합니다."
+  },
+  {
+    "source": "View basic booking information and status.",
+    "vi": "Xem thông tin lịch hẹn cơ bản và trạng thái.",
+    "en": "View basic booking information and status.",
+    "ko": "기본 예약 정보 및 상태를 확인합니다."
+  },
+  {
+    "source": "Booking Details & History",
+    "vi": "Chi tiết & Lịch sử đặt lịch",
+    "en": "Booking Details & History",
+    "ko": "예약 상세 및 기록"
+  },
+  {
+    "source": "View booking addresses, private notes, reasons and history.",
+    "vi": "Xem địa chỉ đặt lịch, ghi chú nội bộ, lý do và lịch sử.",
+    "en": "View booking addresses, private notes, reasons and history.",
+    "ko": "예약 주소, 비공개 메모, 사유 및 이력을 확인합니다."
+  },
+  {
+    "source": "View case evidence and record a decision.",
+    "vi": "Xem bằng chứng vụ việc và ghi nhận quyết định xử lý.",
+    "en": "View case evidence and record a decision.",
+    "ko": "안건 증거를 확인하고 처리 결정을 기록합니다."
+  },
+  {
+    "source": "Review complaints, add notes and close cases.",
+    "vi": "Kiểm tra khiếu nại, thêm ghi chú và đóng vụ việc.",
+    "en": "Review complaints, add notes and close cases.",
+    "ko": "민원을 검토하고 메모를 추가하며 안건을 종결합니다."
+  },
+  {
+    "source": "View evidence and handle reported content or accounts.",
+    "vi": "Xem bằng chứng và xử lý nội dung hoặc tài khoản bị báo cáo.",
+    "en": "View evidence and handle reported content or accounts.",
+    "ko": "증거를 확인하고 신고된 콘텐츠 또는 계정을 처리합니다."
+  },
+  {
+    "source": "Chat Evidence",
+    "vi": "Bằng chứng hội thoại",
+    "en": "Chat Evidence",
+    "ko": "채팅 증거 내역"
+  },
+  {
+    "source": "Read booking conversations and their evidence.",
+    "vi": "Đọc các đoạn hội thoại của lịch hẹn và bằng chứng kèm theo.",
+    "en": "Read booking conversations and their evidence.",
+    "ko": "예약 대화 내용 및 증거를 확인합니다."
+  },
+  {
+    "source": "View and moderate customer reviews.",
+    "vi": "Xem và kiểm duyệt đánh giá của khách hàng.",
+    "en": "View and moderate customer reviews.",
+    "ko": "고객 리뷰를 확인하고 검수합니다."
+  },
+  {
+    "source": "Create, edit, reorder and deactivate regions.",
+    "vi": "Tạo, chỉnh sửa, sắp xếp lại thứ tự và vô hiệu hóa khu vực.",
+    "en": "Create, edit, reorder and deactivate regions.",
+    "ko": "지역을 생성, 수정, 순서 변경 및 비활성화합니다."
+  },
+  {
+    "source": "Compose, send, schedule and view notifications.",
+    "vi": "Soạn thảo, gửi, lên lịch và xem thông báo.",
+    "en": "Compose, send, schedule and view notifications.",
+    "ko": "알림을 작성, 발송, 예약 및 확인합니다."
+  },
+  {
+    "source": "Create, edit, hide and delete banners.",
+    "vi": "Tạo, chỉnh sửa, ẩn và xóa banner.",
+    "en": "Create, edit, hide and delete banners.",
+    "ko": "배너를 생성, 수정, 숨김 및 삭제합니다."
+  },
+  {
+    "source": "Read activity history and event details.",
+    "vi": "Xem lịch sử hoạt động và chi tiết sự kiện.",
+    "en": "Read activity history and event details.",
+    "ko": "활동 기록 및 이벤트 세부 정보를 확인합니다."
+  },
+  {
+    "source": "Edit app update settings and release information.",
+    "vi": "Chỉnh sửa cài đặt cập nhật ứng dụng và thông tin bản phát hành.",
+    "en": "Edit app update settings and release information.",
+    "ko": "앱 업데이트 설정 및 릴리스 정보를 편집합니다."
+  },
+  {
+    "source": "Review account deletion requests under the approved policy.",
+    "vi": "Xem xét các yêu cầu xóa tài khoản theo chính sách đã phê duyệt.",
+    "en": "Review account deletion requests under the approved policy.",
+    "ko": "승인된 정책에 따라 계정 탈퇴 요청을 검토합니다."
+  },
+  {
+    "source": "Admin account and role management is reserved for Owner.",
+    "vi": "Việc quản lý tài khoản quản trị và vai trò chỉ dành riêng cho Chủ sở hữu.",
+    "en": "Admin account and role management is reserved for Owner.",
+    "ko": "관리자 계정 및 역할 관리는 소유자 전용 권한입니다."
+  },
+  {
+    "source": "Save Role",
+    "vi": "Lưu vai trò",
+    "en": "Save Role",
+    "ko": "역할 저장"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "Select the functions this role can use. Each selection includes the actions described below.",
+    "vi": "Chọn các chức năng vai trò này có thể sử dụng. Mỗi lựa chọn bao gồm các thao tác mô tả bên dưới.",
+    "en": "Select the functions this role can use. Each selection includes the actions described below.",
+    "ko": "이 역할이 사용할 기능을 선택하세요. 각 선택에는 아래 설명된 작업이 포함됩니다."
+  },
+  {
+    "source": "Assign this role to an account to use these permissions.",
+    "vi": "Gán vai trò này cho tài khoản để sử dụng các quyền này.",
+    "en": "Assign this role to an account to use these permissions.",
+    "ko": "계정에 이 역할을 할당하여 권한을 사용하세요."
+  },
+  {
+    "source": "Saving applies immediately to {count} assigned accounts.",
+    "vi": "Thay đổi áp dụng ngay cho {count} tài khoản được gán.",
+    "en": "Saving applies immediately to {count} assigned accounts.",
+    "ko": "저장 즉시 할당된 계정 {count}개에 적용됩니다."
+  },
+  {
+    "source": "Owner has every permission, including Admin account and role management. This system role cannot be changed.",
+    "vi": "Owner có mọi quyền, bao gồm quản lý tài khoản quản trị và vai trò. Không thể thay đổi vai trò hệ thống này.",
+    "en": "Owner has every permission, including Admin account and role management. This system role cannot be changed.",
+    "ko": "소유자는 관리자 계정 및 역할 관리를 포함한 모든 권한을 가집니다. 이 시스템 역할은 변경할 수 없습니다."
+  },
+  {
+    "source": "Delete Role",
+    "vi": "Xóa vai trò",
+    "en": "Delete Role",
+    "ko": "역할 삭제"
+  },
+  {
+    "source": "Delete {name}? This role is not assigned to any account.",
+    "vi": "Xóa {name}? Vai trò này chưa được gán cho tài khoản nào.",
+    "en": "Delete {name}? This role is not assigned to any account.",
+    "ko": "{name} 역할을 삭제할까요? 이 역할이 할당된 계정이 없습니다."
+  },
+  {
+    "source": "Deactivate Account",
+    "vi": "Vô hiệu hóa tài khoản",
+    "en": "Deactivate Account",
+    "ko": "계정 비활성화"
+  },
+  {
+    "source": "Activate Account",
+    "vi": "Kích hoạt tài khoản",
+    "en": "Activate Account",
+    "ko": "계정 활성화"
+  },
+  {
+    "source": "Activate",
+    "vi": "Kích hoạt",
+    "en": "Activate",
+    "ko": "활성화"
+  },
+  {
+    "source": "Inactive",
+    "vi": "Không hoạt động",
+    "en": "Inactive",
+    "ko": "비활성"
+  },
+  {
+    "source": "Confirm",
+    "vi": "Xác nhận",
+    "en": "Confirm",
+    "ko": "확인"
+  },
+  {
+    "source": "Close",
+    "vi": "Đóng",
+    "en": "Close",
+    "ko": "닫기"
+  },
+  {
+    "source": "Access will be disabled until this account is activated again.",
+    "vi": "Quyền truy cập bị vô hiệu hóa cho đến khi tài khoản được kích hoạt lại.",
+    "en": "Access will be disabled until this account is activated again.",
+    "ko": "이 계정을 다시 활성화할 때까지 접근이 비활성화됩니다."
+  },
+  {
+    "source": "They can sign in again with their existing role.",
+    "vi": "Tài khoản có thể đăng nhập lại với vai trò hiện tại.",
+    "en": "They can sign in again with their existing role.",
+    "ko": "기존 역할로 다시 로그인할 수 있습니다."
+  },
+  {
+    "source": "No accounts match this search.",
+    "vi": "Không có tài khoản khớp với tìm kiếm.",
+    "en": "No accounts match this search.",
+    "ko": "검색과 일치하는 계정이 없습니다."
+  },
+  {
+    "source": "Clear search",
+    "vi": "Xóa tìm kiếm",
+    "en": "Clear search",
+    "ko": "검색 지우기"
+  },
+  {
+    "source": "{count} allowed functions",
+    "vi": "{count} chức năng được phép",
+    "en": "{count} allowed functions",
+    "ko": "허용된 기능 {count}개"
+  },
+  {
+    "source": "{count} assigned",
+    "vi": "{count} được gán",
+    "en": "{count} assigned",
+    "ko": "{count}개 할당됨"
+  },
+  {
+    "source": " +{count} more",
+    "vi": " +{count} nữa",
+    "en": " +{count} more",
+    "ko": " 외 {count}개"
+  },
+  {
+    "source": "Enter a full name.",
+    "vi": "Nhập họ tên.",
+    "en": "Enter a full name.",
+    "ko": "이름을 입력하세요."
+  },
+  {
+    "source": "Enter a valid email address.",
+    "vi": "Nhập địa chỉ email hợp lệ.",
+    "en": "Enter a valid email address.",
+    "ko": "올바른 이메일 주소를 입력하세요."
+  },
+  {
+    "source": "An Admin account already uses this email.",
+    "vi": "Email này đã được tài khoản quản trị khác sử dụng.",
+    "en": "An Admin account already uses this email.",
+    "ko": "이 이메일을 사용하는 관리자 계정이 이미 있습니다."
+  },
+  {
+    "source": "Choose a valid role.",
+    "vi": "Chọn vai trò hợp lệ.",
+    "en": "Choose a valid role.",
+    "ko": "유효한 역할을 선택하세요."
+  },
+  {
+    "source": "Use at least 8 characters for the initial password.",
+    "vi": "Mật khẩu ban đầu phải có ít nhất 8 ký tự.",
+    "en": "Use at least 8 characters for the initial password.",
+    "ko": "초기 비밀번호는 8자 이상이어야 합니다."
+  },
+  {
+    "source": "Enter a role name.",
+    "vi": "Nhập tên vai trò.",
+    "en": "Enter a role name.",
+    "ko": "역할 이름을 입력하세요."
+  },
+  {
+    "source": "Use 40 characters or fewer for the role name.",
+    "vi": "Tên vai trò không được quá 40 ký tự.",
+    "en": "Use 40 characters or fewer for the role name.",
+    "ko": "역할 이름은 40자 이하여야 합니다."
+  },
+  {
+    "source": "A role already uses this name.",
+    "vi": "Tên vai trò này đã tồn tại.",
+    "en": "A role already uses this name.",
+    "ko": "이 이름의 역할이 이미 있습니다."
+  },
+  {
+    "source": "Reassign all accounts before deleting this role.",
+    "vi": "Gán lại vai trò cho tất cả tài khoản trước khi xóa vai trò này.",
+    "en": "Reassign all accounts before deleting this role.",
+    "ko": "이 역할을 삭제하기 전에 모든 계정을 다시 할당하세요."
+  },
+  {
+    "source": "Owner cannot be edited or deleted.",
+    "vi": "Không thể sửa hoặc xóa Owner.",
+    "en": "Owner cannot be edited or deleted.",
+    "ko": "소유자는 수정하거나 삭제할 수 없습니다."
+  },
+  {
+    "source": "Your own account cannot be changed.",
+    "vi": "Không thể thay đổi tài khoản đang sử dụng.",
+    "en": "Your own account cannot be changed.",
+    "ko": "자신의 계정은 변경할 수 없습니다."
+  },
+  {
+    "source": "The selected record is unavailable.",
+    "vi": "Không tìm thấy bản ghi đã chọn.",
+    "en": "The selected record is unavailable.",
+    "ko": "선택한 기록을 사용할 수 없습니다."
+  },
+  {
+    "source": "{name} was created as {role}.",
+    "vi": "Đã tạo {name} với vai trò {role}.",
+    "en": "{name} was created as {role}.",
+    "ko": "{name} 계정이 {role} 역할로 생성되었습니다."
+  },
+  {
+    "source": "{name} now has the {role} role.",
+    "vi": "{name} hiện có vai trò {role}.",
+    "en": "{name} now has the {role} role.",
+    "ko": "{name}의 역할이 {role}(으)로 변경되었습니다."
+  },
+  {
+    "source": "{name} is now {status}.",
+    "vi": "{name} hiện có trạng thái {status}.",
+    "en": "{name} is now {status}.",
+    "ko": "{name}의 상태가 {status}(으)로 변경되었습니다."
+  },
+  {
+    "source": "{name} was updated.",
+    "vi": "Đã cập nhật {name}.",
+    "en": "{name} was updated.",
+    "ko": "{name}이(가) 업데이트되었습니다."
+  },
+  {
+    "source": "{name} was created.",
+    "vi": "Đã tạo {name}.",
+    "en": "{name} was created.",
+    "ko": "{name}이(가) 생성되었습니다."
+  },
+  {
+    "source": "{name} was deleted.",
+    "vi": "Đã xóa {name}.",
+    "en": "{name} was deleted.",
+    "ko": "{name}이(가) 삭제되었습니다."
+  },
+  {
+    "source": "Permissions apply to {count} assigned accounts.",
+    "vi": "Quyền áp dụng cho {count} tài khoản được gán.",
+    "en": "Permissions apply to {count} assigned accounts.",
+    "ko": "권한이 할당된 계정 {count}개에 적용됩니다."
+  },
+  {
+    "source": "Owner Permissions",
+    "vi": "Quyền của Owner",
+    "en": "Owner Permissions",
+    "ko": "소유자 권한"
+  },
+  {
+    "source": "You can now assign it to accounts.",
+    "vi": "Bạn có thể gán vai trò này cho các tài khoản.",
+    "en": "You can now assign it to accounts.",
+    "ko": "이제 계정에 이 역할을 할당할 수 있습니다."
+  }
+]

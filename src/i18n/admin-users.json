@@ -1,0 +1,740 @@
+[
+  {
+    "source": "Unified Users",
+    "vi": "Quản lý người dùng",
+    "en": "Unified Users",
+    "ko": "사용자 통합 관리"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Role",
+    "vi": "Vai trò",
+    "en": "Role",
+    "ko": "회원 역할"
+  },
+  {
+    "source": "All roles",
+    "vi": "Tất cả vai trò",
+    "en": "All roles",
+    "ko": "모든 역할"
+  },
+  {
+    "source": "Customer",
+    "vi": "Khách hàng",
+    "en": "Customer",
+    "ko": "고객"
+  },
+  {
+    "source": "Service Provider",
+    "vi": "Nhà cung cấp dịch vụ",
+    "en": "Service Provider",
+    "ko": "서비스 제공자"
+  },
+  {
+    "source": "Account",
+    "vi": "Tài khoản liên quan",
+    "en": "Account",
+    "ko": "해당 계정"
+  },
+  {
+    "source": "All statuses",
+    "vi": "Tất cả trạng thái",
+    "en": "All statuses",
+    "ko": "전체 상태"
+  },
+  {
+    "source": "Active",
+    "vi": "Đang hiển thị",
+    "en": "Active",
+    "ko": "게시 중"
+  },
+  {
+    "source": "Locked",
+    "vi": "Đã khóa",
+    "en": "Locked",
+    "ko": "정지됨"
+  },
+  {
+    "source": "Deleted",
+    "vi": "Đã xóa",
+    "en": "Deleted",
+    "ko": "삭제됨"
+  },
+  {
+    "source": "Region",
+    "vi": "Khu vực",
+    "en": "Region",
+    "ko": "지역"
+  },
+  {
+    "source": "All regions",
+    "vi": "Tất cả khu vực",
+    "en": "All regions",
+    "ko": "전체 지역"
+  },
+  {
+    "source": "Ho Chi Minh City",
+    "vi": "Thành phố Hồ Chí Minh",
+    "en": "Ho Chi Minh City",
+    "ko": "호찌민시"
+  },
+  {
+    "source": "Da Nang",
+    "vi": "Đà Nẵng",
+    "en": "Da Nang",
+    "ko": "다낭"
+  },
+  {
+    "source": "Ha Noi",
+    "vi": "Hà Nội",
+    "en": "Ha Noi",
+    "ko": "하노이"
+  },
+  {
+    "source": "Name",
+    "vi": "Họ tên",
+    "en": "Name",
+    "ko": "이름"
+  },
+  {
+    "source": "Role / type",
+    "vi": "Vai trò / Phân loại",
+    "en": "Role / type",
+    "ko": "역할 및 유형"
+  },
+  {
+    "source": "Provider profile",
+    "vi": "Hồ sơ đối tác",
+    "en": "Provider profile",
+    "ko": "제공자 프로필"
+  },
+  {
+    "source": "Joined",
+    "vi": "Ngày tham gia",
+    "en": "Joined",
+    "ko": "가입 일자"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "Individual Therapist",
+    "vi": "KTV cá nhân",
+    "en": "Individual Therapist",
+    "ko": "개인 테라피스트"
+  },
+  {
+    "source": "Pending Review",
+    "vi": "Chờ xét duyệt",
+    "en": "Pending Review",
+    "ko": "심사 대기"
+  },
+  {
+    "source": "Sep 18, 2026",
+    "vi": "18/09/2026",
+    "en": "Sep 18, 2026",
+    "ko": "2026. 9. 18."
+  },
+  {
+    "source": "View Details",
+    "vi": "Xem chi tiết",
+    "en": "View Details",
+    "ko": "상세 보기"
+  },
+  {
+    "source": "Lotus Wellness",
+    "vi": "Lotus Wellness",
+    "en": "Lotus Wellness",
+    "ko": "Lotus Wellness"
+  },
+  {
+    "source": "Massage Business",
+    "vi": "Cơ sở massage",
+    "en": "Massage Business",
+    "ko": "마사지 업체"
+  },
+  {
+    "source": "Approved",
+    "vi": "Đã duyệt",
+    "en": "Approved",
+    "ko": "승인됨"
+  },
+  {
+    "source": "Aug 04, 2026",
+    "vi": "04/08/2026",
+    "en": "Aug 04, 2026",
+    "ko": "2026. 8. 4."
+  },
+  {
+    "source": "River Spa Studio",
+    "vi": "River Spa Studio",
+    "en": "River Spa Studio",
+    "ko": "River Spa Studio"
+  },
+  {
+    "source": "Unavailable in demo",
+    "vi": "Không khả dụng trong minh họa",
+    "en": "Unavailable in demo",
+    "ko": "이용 불가 에서 데모"
+  },
+  {
+    "source": "Serene Hands",
+    "vi": "Serene Hands",
+    "en": "Serene Hands",
+    "ko": "Serene Hands"
+  },
+  {
+    "source": "An An Studio",
+    "vi": "Một một Studio",
+    "en": "An An Studio",
+    "ko": "하나의 하나의 Studio"
+  },
+  {
+    "source": "Rejected",
+    "vi": "Bị từ chối",
+    "en": "Rejected",
+    "ko": "거절됨"
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "Jul 22, 2026",
+    "vi": "22/07/2026",
+    "en": "Jul 22, 2026",
+    "ko": "2026. 7. 22."
+  },
+  {
+    "source": "Alex Morgan",
+    "vi": "Alex Morgan",
+    "en": "Alex Morgan",
+    "ko": "Alex Morgan"
+  },
+  {
+    "source": "Jun 11, 2026",
+    "vi": "11/06/2026",
+    "en": "Jun 11, 2026",
+    "ko": "2026. 6. 11."
+  },
+  {
+    "source": "Linh Nguyen",
+    "vi": "Linh Nguyen",
+    "en": "Linh Nguyen",
+    "ko": "Linh Nguyen"
+  },
+  {
+    "source": "May 08, 2026",
+    "vi": "tháng 5 08, 2026",
+    "en": "May 08, 2026",
+    "ko": "5월 08, 2026"
+  },
+  {
+    "source": "Service Provider · Individual Therapist",
+    "vi": "Nhà cung cấp dịch vụ · KTV cá nhân",
+    "en": "Service Provider · Individual Therapist",
+    "ko": "서비스 제공자 · 개인 테라피스트"
+  },
+  {
+    "source": "Access & profile states",
+    "vi": "Trạng thái truy cập & Hồ sơ",
+    "en": "Access & profile states",
+    "ko": "계정 및 프로필 상태"
+  },
+  {
+    "source": "Permitted contact details",
+    "vi": "Thông tin liên hệ được phép xem",
+    "en": "Permitted contact details",
+    "ko": "열람 가능한 연락처 정보"
+  },
+  {
+    "source": "Email",
+    "vi": "Email",
+    "en": "Email",
+    "ko": "이메일"
+  },
+  {
+    "source": "maya@rocket.demo",
+    "vi": "maya@rocket.demo",
+    "en": "maya@rocket.demo",
+    "ko": "maya@rocket.demo"
+  },
+  {
+    "source": "Phone",
+    "vi": "Điện thoại",
+    "en": "Phone",
+    "ko": "전화번호"
+  },
+  {
+    "source": "Related activity",
+    "vi": "Hoạt động liên quan",
+    "en": "Related activity",
+    "ko": "관련 이용 내역"
+  },
+  {
+    "source": "Bookings",
+    "vi": "Lịch hẹn",
+    "en": "Bookings",
+    "ko": "예약"
+  },
+  {
+    "source": "38 total · 2 upcoming",
+    "vi": "38 tổng · 2 sắp tới",
+    "en": "38 total · 2 upcoming",
+    "ko": "전체 38건 · 예정 2건"
+  },
+  {
+    "source": "Cases",
+    "vi": "Hồ sơ vụ việc",
+    "en": "Cases",
+    "ko": "처리 안건"
+  },
+  {
+    "source": "1 open verification",
+    "vi": "1 xác minh đang mở",
+    "en": "1 open verification",
+    "ko": "진행 중인 검증 1건"
+  },
+  {
+    "source": "View Bookings",
+    "vi": "Xem danh sách lịch hẹn",
+    "en": "View Bookings",
+    "ko": "예약 목록 보기"
+  },
+  {
+    "source": "Account deletion",
+    "vi": "Xóa tài khoản",
+    "en": "Account deletion",
+    "ko": "계정 탈퇴(삭제)"
+  },
+  {
+    "source": "A deletion request is awaiting an approved handling policy.",
+    "vi": "Yêu cầu xóa tài khoản đang chờ quy trình xử lý được phê duyệt.",
+    "en": "A deletion request is awaiting an approved handling policy.",
+    "ko": "계정 탈퇴 요청이 승인된 처리 정책을 기다리고 있습니다."
+  },
+  {
+    "source": "View Deletion Request",
+    "vi": "Xem yêu cầu xóa tài khoản",
+    "en": "View Deletion Request",
+    "ko": "탈퇴 요청 보기"
+  },
+  {
+    "source": "Recent Admin actions",
+    "vi": "Thao tác quản trị gần đây",
+    "en": "Recent Admin actions",
+    "ko": "최근 관리자 조치 이력"
+  },
+  {
+    "source": "Profile opened for review",
+    "vi": "Hồ sơ đã được mở xét duyệt",
+    "en": "Profile opened for review",
+    "ko": "프로필 심사 진행 중"
+  },
+  {
+    "source": "No account changes made",
+    "vi": "Không có thay đổi tài khoản",
+    "en": "No account changes made",
+    "ko": "계정 변경 없음"
+  },
+  {
+    "source": "Sep 24, 2026 · 3:48 PM ICT",
+    "vi": "24/09/2026 · 15:48 ICT",
+    "en": "Sep 24, 2026 · 3:48 PM ICT",
+    "ko": "2026. 9. 24. · 오후 3:48 ICT"
+  },
+  {
+    "source": "Open Provider Profile",
+    "vi": "Mở hồ sơ đối tác",
+    "en": "Open Provider Profile",
+    "ko": "제공자 프로필 열기"
+  },
+  {
+    "source": "Lock Account",
+    "vi": "Khóa tài khoản",
+    "en": "Lock Account",
+    "ko": "계정 이용 정지"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search users",
+    "vi": "Tìm kiếm người dùng",
+    "en": "Search users",
+    "ko": "사용자 검색"
+  },
+  {
+    "source": "Search name or region",
+    "vi": "Tìm theo tên hoặc khu vực",
+    "en": "Search name or region",
+    "ko": "이름 또는 지역 검색"
+  },
+  {
+    "source": "User details",
+    "vi": "Chi tiết người dùng",
+    "en": "User details",
+    "ko": "사용자 상세 정보"
+  },
+  {
+    "source": "Close details",
+    "vi": "Đóng chi tiết",
+    "en": "Close details",
+    "ko": "상세 닫기"
+  },
+  {
+    "source": "Provider type",
+    "vi": "Loại hình đối tác",
+    "en": "Provider type",
+    "ko": "제공자 유형"
+  },
+  {
+    "source": "All types",
+    "vi": "Tất cả loại hình",
+    "en": "All types",
+    "ko": "전체 유형"
+  },
+  {
+    "source": "Confirm account decision",
+    "vi": "Xác nhận quyết định tài khoản",
+    "en": "Confirm account decision",
+    "ko": "계정 조치 확인"
+  },
+  {
+    "source": "Lock Maya Chen?",
+    "vi": "Khóa tài khoản Maya Chen?",
+    "en": "Lock Maya Chen?",
+    "ko": "Maya Chen 계정을 정지하시겠습니까?"
+  },
+  {
+    "source": "This prevents sign-in and new actions. Existing bookings, chat, and evidence remain available under policy.",
+    "vi": "Thao tác này sẽ chặn đăng nhập và đặt lịch mới. Lịch hẹn cũ, tin nhắn trò chuyện và bằng chứng vụ việc vẫn được lưu giữ an toàn theo chính sách.",
+    "en": "This prevents sign-in and new actions. Existing bookings, chat, and evidence remain available under policy.",
+    "ko": "로그인 및 신규 활동이 차단됩니다. 기존 예약 내역, 대화 및 증거 데이터는 정책에 따라 안전하게 보존됩니다."
+  },
+  {
+    "source": "Reason",
+    "vi": "Căn cứ / Lý do",
+    "en": "Reason",
+    "ko": "사유"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "Go Back",
+    "vi": "Quay lại",
+    "en": "Go Back",
+    "ko": "돌아가기"
+  },
+  {
+    "source": "Confirm Lock",
+    "vi": "Xác nhận khóa tài khoản",
+    "en": "Confirm Lock",
+    "ko": "계정 정지 확정"
+  },
+  {
+    "source": "Not applicable",
+    "vi": "Không áp dụng",
+    "en": "Not applicable",
+    "ko": "해당 없음"
+  },
+  {
+    "source": "alex@rocket.demo",
+    "vi": "alex@rocket.demo",
+    "en": "alex@rocket.demo",
+    "ko": "alex@rocket.demo"
+  },
+  {
+    "source": "7 total · none upcoming",
+    "vi": "7 tổng · không có lịch sắp tới",
+    "en": "7 total · none upcoming",
+    "ko": "전체 7건 · 예정 없음"
+  },
+  {
+    "source": "Lock reviewed Sep 21",
+    "vi": "Đã xem xét khóa ngày 21/09",
+    "en": "Lock reviewed Sep 21",
+    "ko": "9월 21일 잠금 검토"
+  },
+  {
+    "source": "Account locked",
+    "vi": "Tài khoản đã bị khóa",
+    "en": "Account locked",
+    "ko": "계정 이용 정지됨"
+  },
+  {
+    "source": "Reason recorded by Ava Morgan",
+    "vi": "Lý do do Ava Morgan ghi nhận",
+    "en": "Reason recorded by Ava Morgan",
+    "ko": "Ava Morgan이 사유 기록"
+  },
+  {
+    "source": "Unlock Account",
+    "vi": "Mở khóa tài khoản",
+    "en": "Unlock Account",
+    "ko": "계정 정지 해제"
+  },
+  {
+    "source": "Unlock Alex Morgan?",
+    "vi": "Mở khóa tài khoản Alex Morgan?",
+    "en": "Unlock Alex Morgan?",
+    "ko": "Alex Morgan 계정 정지를 해제하시겠습니까?"
+  },
+  {
+    "source": "This restores sign-in under current permissions. It does not approve a pending Provider profile.",
+    "vi": "Thao tác này khôi phục quyền đăng nhập theo phân quyền hiện tại. Hồ sơ đối tác đang chờ duyệt vẫn phải được xét duyệt riêng.",
+    "en": "This restores sign-in under current permissions. It does not approve a pending Provider profile.",
+    "ko": "로그인이 정상 복원됩니다. 단, 심사 대기 중인 제공자 프로필이 자동으로 승인되지는 않습니다."
+  },
+  {
+    "source": "Confirm Unlock",
+    "vi": "Xác nhận mở khóa",
+    "en": "Confirm Unlock",
+    "ko": "정지 해제 확정"
+  },
+  {
+    "source": "No users match these filters",
+    "vi": "Không tìm thấy người dùng phù hợp với bộ lọc",
+    "en": "No users match these filters",
+    "ko": "해당 필터 조건과 일치하는 사용자가 없습니다"
+  },
+  {
+    "source": "Clear Filters",
+    "vi": "Xóa bộ lọc",
+    "en": "Clear Filters",
+    "ko": "필터 초기화"
+  },
+  {
+    "source": "We couldn’t save this decision. Your reason is preserved. Try again.",
+    "vi": "Không thể lưu quyết định. Nội dung lý do của bạn đã được giữ lại an toàn. Vui lòng thử lại.",
+    "en": "We couldn’t save this decision. Your reason is preserved. Try again.",
+    "ko": "결정을 저장하지 못했습니다. 입력하신 사유는 보존되니 다시 시도해 주세요."
+  },
+  {
+    "source": "Permission changed",
+    "vi": "Quyền truy cập đã thay đổi",
+    "en": "Permission changed",
+    "ko": "접근 권한 변경됨"
+  },
+  {
+    "source": "Action Permission Lost",
+    "vi": "Mất quyền thực hiện thao tác",
+    "en": "Action Permission Lost",
+    "ko": "작업 권한이 상실되었습니다"
+  },
+  {
+    "source": "Your access changed during this session. Sensitive user details and actions have been removed.",
+    "vi": "Quyền truy cập của bạn đã thay đổi trong phiên này. Các thông tin nhạy cảm và nút thao tác đã được thu hồi an toàn.",
+    "en": "Your access changed during this session. Sensitive user details and actions have been removed.",
+    "ko": "현재 세션 권한이 변경되어 민감한 개인정보와 실행 기능이 회수되었습니다."
+  },
+  {
+    "source": "Back to Dashboard",
+    "vi": "Về Bảng điều khiển",
+    "en": "Back to Dashboard",
+    "ko": "대시보드로 돌아가기"
+  },
+  {
+    "source": "Record changed",
+    "vi": "Dữ liệu bản ghi đã thay đổi",
+    "en": "Record changed",
+    "ko": "데이터 변경 감지"
+  },
+  {
+    "source": "This user changed after you opened the details. Reload before making a decision.",
+    "vi": "Thông tin người dùng này đã được cập nhật sau khi bạn mở trang. Vui lòng tải lại trước khi quyết định.",
+    "en": "This user changed after you opened the details. Reload before making a decision.",
+    "ko": "상세 정보를 연 후 사용자 정보가 변경되었습니다. 최신 정보를 다시 불러온 후 결정하세요."
+  },
+  {
+    "source": "Reload Details",
+    "vi": "Tải lại chi tiết",
+    "en": "Reload Details",
+    "ko": "최신 정보 새로고침"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "source": "Booking Chat Evidence",
+    "vi": "Bằng chứng hội thoại lịch hẹn",
+    "en": "Booking Chat Evidence",
+    "ko": "예약 채팅 증거 열람"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Chat Evidence",
+    "vi": "Bằng chứng hội thoại",
+    "en": "Chat Evidence",
+    "ko": "채팅 증거 내역"
+  },
+  {
+    "source": "RPT-4106 · original evidence preserved",
+    "vi": "RPT-4106 · bản gốc bằng chứng được giữ nguyên",
+    "en": "RPT-4106 · original evidence preserved",
+    "ko": "RPT-4106 · 원본 증거 유지됨"
+  },
+  {
+    "source": "Booking conversation",
+    "vi": "Hội thoại trao đổi lịch hẹn",
+    "en": "Booking conversation",
+    "ko": "예약 대화 내역"
+  },
+  {
+    "source": "Jamie Rivera · Customer ↔ Maya Chen · Individual Therapist",
+    "vi": "Jamie Rivera · khách hàng ↔ Maya Chen · cá nhân KTV",
+    "en": "Jamie Rivera · Customer ↔ Maya Chen · Individual Therapist",
+    "ko": "Jamie Rivera · 고객 ↔ Maya Chen · 개인 테라피스트"
+  },
+  {
+    "source": "Accepted",
+    "vi": "Đã chấp nhận",
+    "en": "Accepted",
+    "ko": "수락됨"
+  },
+  {
+    "source": "Active",
+    "vi": "Đang hiển thị",
+    "en": "Active",
+    "ko": "게시 중"
+  },
+  {
+    "source": "Booking reference",
+    "vi": "Mã lịch hẹn",
+    "en": "Booking reference",
+    "ko": "예약 참조 번호"
+  },
+  {
+    "source": "BK-48291",
+    "vi": "BK-48291",
+    "en": "BK-48291",
+    "ko": "BK-48291"
+  },
+  {
+    "source": "View Booking",
+    "vi": "Xem lịch hẹn",
+    "en": "View Booking",
+    "ko": "예약 내역 보기"
+  },
+  {
+    "source": "Participants",
+    "vi": "Thành viên tham gia",
+    "en": "Participants",
+    "ko": "대화 참여자"
+  },
+  {
+    "source": "2 verified accounts",
+    "vi": "2 tài khoản đã xác thực",
+    "en": "2 verified accounts",
+    "ko": "인증된 계정 2명"
+  },
+  {
+    "source": "Booking status",
+    "vi": "Trạng thái lịch hẹn",
+    "en": "Booking status",
+    "ko": "예약 상태"
+  },
+  {
+    "source": "Chat status",
+    "vi": "Trạng thái hội thoại",
+    "en": "Chat status",
+    "ko": "채팅방 상태"
+  },
+  {
+    "source": "Reported message",
+    "vi": "Tin nhắn bị báo cáo",
+    "en": "Reported message",
+    "ko": "신고 접수된 메시지"
+  },
+  {
+    "source": "MSG-8842",
+    "vi": "MSG-8842",
+    "en": "MSG-8842",
+    "ko": "MSG-8842"
+  },
+  {
+    "source": "Permission-aware evidence",
+    "vi": "Chứng cứ được kiểm soát quyền truy cập",
+    "en": "Permission-aware evidence",
+    "ko": "권한 제어 기반 증거 자료"
+  },
+  {
+    "source": "Private address and direct contact details stay masked. Attachment access is checked separately.",
+    "vi": "Địa chỉ cụ thể và thông tin liên hệ được che bảo mật. Quyền mở tệp đính kèm được kiểm tra riêng.",
+    "en": "Private address and direct contact details stay masked. Attachment access is checked separately.",
+    "ko": "상세 주소와 직접 연락처는 마스킹 처리되며, 첨부 파일 열람 권한은 별도로 확인됩니다."
+  },
+  {
+    "source": "Back to Report",
+    "vi": "Quay lại Báo cáo",
+    "en": "Back to Report",
+    "ko": "신고 화면으로 돌아가기"
+  },
+  {
+    "source": "Accepted booking · Admin view is read-only",
+    "vi": "Lịch hẹn đã chấp nhận · Quản trị viên chỉ có quyền xem",
+    "en": "Accepted booking · Admin view is read-only",
+    "ko": "확정된 예약 · 관리자 열람 전용 모드"
+  },
+  {
+    "source": "Show translations",
+    "vi": "Hiện bản dịch máy",
+    "en": "Show translations",
+    "ko": "자동 번역문 함께 보기"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "2:54 PM",
+    "vi": "2:54 PM",
+    "en": "2:54 PM",
+    "ko": "2:54 PM"
+  },
+  {
+    "source": "Original",
+    "vi": "Nguyên văn bản gốc",
+    "en": "Original",
+    "ko": "원문 (공식 증거)"
+  },
+  {
+    "source": "Hello Jamie, I can meet you in the building lobby.",
+    "vi": "Hello Jamie, I có thể đáp ứng bạn trong building lobby.",
+    "en": "Hello Jamie, I can meet you in the building lobby.",
+    "ko": "Hello Jamie, I 가능 충족 사용자 에서 building lobby."
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "2:56 PM",
+    "vi": "2:56 PM",
+    "en": "2:56 PM",
+    "ko": "2:56 PM"
+  },
+  {
+    "source": "Okay. I will message when I arrive.",
+    "vi": "Okay. I sẽ tin nhắn khi I arrive.",
+    "en": "Okay. I will message when I arrive.",
+    "ko": "Okay. I 예정 메시지 때 I arrive."
+  },
+  {
+    "source": "3:02 PM",
+    "vi": "3:02 PM",
+    "en": "3:02 PM",
+    "ko": "3:02 PM"
+  },
+  {
+    "source": "Please keep all booking communication here.",
+    "vi": "Vui lòng giữ mọi trao đổi về lịch hẹn tại đây.",
+    "en": "Please keep all booking communication here.",
+    "ko": "모든 예약 관련 대화는 여기에서 진행해 주세요."
+  },
+  {
+    "source": "Machine Translation",
+    "vi": "Bản dịch máy tham khảo",
+    "en": "Machine Translation",
+    "ko": "자동 번역 (참고용)"
+  },
+  {
+    "source": "Vui lòng giữ mọi trao đổi về lịch hẹn tại đây.",
+    "vi": "Vui lòng giữ mọi trao đổi về lịch hẹn tại đây.",
+    "en": "Please keep all appointment discussions here.",
+    "ko": "예약 관련 모든 대화는 여기에서 진행해 주세요."
+  },
+  {
+    "source": "3:05 PM",
+    "vi": "3:05 PM",
+    "en": "3:05 PM",
+    "ko": "3:05 PM"
+  },
+  {
+    "source": "Reported original",
+    "vi": "Tin nhắn gốc bị báo cáo",
+    "en": "Reported original",
+    "ko": "신고 접수된 원본 메시지"
+  },
+  {
+    "source": "If you do not share your private number, I will keep contacting your business account.",
+    "vi": "Nếu bạn thực hiện không chia sẻ của bạn riêng tư số, I sẽ giữ contacting của bạn business tài khoản.",
+    "en": "If you do not share your private number, I will keep contacting your business account.",
+    "ko": "경우 사용자 하기 아님 공유 내 비공개 번호, I 예정 유지 contacting 내 business 계정."
+  },
+  {
+    "source": "Nếu bạn không cung cấp số riêng, tôi sẽ tiếp tục liên hệ tài khoản doanh nghiệp của bạn.",
+    "vi": "Nếu bạn không cung cấp số riêng, tôi sẽ tiếp tục liên hệ tài khoản doanh nghiệp của bạn.",
+    "en": "If you do not provide a personal number, I will continue contacting your business account.",
+    "ko": "개인 번호를 알려주지 않으시면 비즈니스 계정으로 계속 연락드리겠습니다."
+  },
+  {
+    "source": "3:08 PM",
+    "vi": "3:08 PM",
+    "en": "3:08 PM",
+    "ko": "3:08 PM"
+  },
+  {
+    "source": "I will only communicate through the booking chat.",
+    "vi": "I sẽ chỉ giao tiếp thông qua đặt lịch trò chuyện.",
+    "en": "I will only communicate through the booking chat.",
+    "ko": "I 예정 만 소통 통해 예약 채팅."
+  },
+  {
+    "source": "Tôi sẽ chỉ trao đổi qua cuộc trò chuyện của lịch hẹn.",
+    "vi": "Tôi sẽ chỉ trao đổi qua cuộc trò chuyện của lịch hẹn.",
+    "en": "I will only communicate through the appointment chat.",
+    "ko": "예약 채팅을 통해서만 대화하겠습니다."
+  },
+  {
+    "source": "Read-only Admin evidence view · users continue to communicate only through the accepted booking chat.",
+    "vi": "Chế độ xem chứng cứ chỉ đọc dành cho Quản trị viên · hai bên chỉ trò chuyện qua lịch hẹn hợp lệ.",
+    "en": "Read-only Admin evidence view · users continue to communicate only through the accepted booking chat.",
+    "ko": "관리자 증거 열람 전용 모드입니다. 회원은 수락된 예약 대화방을 통해서만 소통할 수 있습니다."
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Read-only booking chat",
+    "vi": "Hội thoại lịch hẹn (Chỉ đọc)",
+    "en": "Read-only booking chat",
+    "ko": "예약 대화 내역 (읽기 전용)"
+  }
+]

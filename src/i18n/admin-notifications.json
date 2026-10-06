@@ -1,0 +1,608 @@
+[
+  {
+    "source": "Compose and Schedule Notification",
+    "vi": "Soạn & Lên lịch gửi thông báo",
+    "en": "Compose and Schedule Notification",
+    "ko": "공지 알림 작성 및 예약"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Compose Notification",
+    "vi": "Soạn thông báo",
+    "en": "Compose Notification",
+    "ko": "공지 알림 작성"
+  },
+  {
+    "source": "View History",
+    "vi": "Xem lịch sử gửi",
+    "en": "View History",
+    "ko": "발송 이력 보기"
+  },
+  {
+    "source": "Message",
+    "vi": "Nội dung",
+    "en": "Message",
+    "ko": "메시지 입력"
+  },
+  {
+    "source": "Audience",
+    "vi": "Đối tượng nhận",
+    "en": "Audience",
+    "ko": "발송 대상"
+  },
+  {
+    "source": "Preview",
+    "vi": "Xem trước",
+    "en": "Preview",
+    "ko": "미리보기"
+  },
+  {
+    "source": "Delivery",
+    "vi": "Phương thức phát hành",
+    "en": "Delivery",
+    "ko": "발송 설정"
+  },
+  {
+    "source": "Step 1 of 4",
+    "vi": "Bước 1/4",
+    "en": "Step 1 of 4",
+    "ko": "4단계 중 1단계"
+  },
+  {
+    "source": "Title",
+    "vi": "Tiêu đề thông báo",
+    "en": "Title",
+    "ko": "알림 제목"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "Body",
+    "vi": "Nội dung thông báo",
+    "en": "Body",
+    "ko": "알림 본문"
+  },
+  {
+    "source": "Notification image",
+    "vi": "Hình ảnh thông báo",
+    "en": "Notification image",
+    "ko": "알림 이미지"
+  },
+  {
+    "source": "Optional",
+    "vi": "Không bắt buộc",
+    "en": "Optional",
+    "ko": "선택 사항"
+  },
+  {
+    "source": "Add an image to your notification",
+    "vi": "Thêm hình ảnh cho thông báo",
+    "en": "Add an image to your notification",
+    "ko": "알림에 이미지를 추가하세요"
+  },
+  {
+    "source": "JPG, PNG or WebP · Maximum 5 MB",
+    "vi": "JPG, PNG hoặc WebP · Tối đa 5 MB",
+    "en": "JPG, PNG or WebP · Maximum 5 MB",
+    "ko": "JPG, PNG 또는 WebP · 최대 5 MB"
+  },
+  {
+    "source": "Upload Image",
+    "vi": "Tải ảnh lên",
+    "en": "Upload Image",
+    "ko": "이미지 업로드"
+  },
+  {
+    "source": "Channels",
+    "vi": "Kênh phát thông báo",
+    "en": "Channels",
+    "ko": "발송 채널"
+  },
+  {
+    "source": "In-App",
+    "vi": "Trong ứng dụng (In-App)",
+    "en": "In-App",
+    "ko": "인앱 알림"
+  },
+  {
+    "source": "Push",
+    "vi": "Thông báo đẩy (Push)",
+    "en": "Push",
+    "ko": "푸시 알림"
+  },
+  {
+    "source": "Internal destination",
+    "vi": "Điểm đến nội bộ ứng dụng (Deep link)",
+    "en": "Internal destination",
+    "ko": "인앱 연결 화면 (딥링크)"
+  },
+  {
+    "source": "Select an internal destination",
+    "vi": "Chọn điểm đến nội bộ trong ứng dụng",
+    "en": "Select an internal destination",
+    "ko": "인앱 연결 화면을 선택하세요"
+  },
+  {
+    "source": "Provider search",
+    "vi": "Nhà cung cấp tìm kiếm",
+    "en": "Provider search",
+    "ko": "제공자 검색"
+  },
+  {
+    "source": "Provider profile",
+    "vi": "Hồ sơ đối tác",
+    "en": "Provider profile",
+    "ko": "제공자 프로필"
+  },
+  {
+    "source": "Booking chat",
+    "vi": "Đặt lịch trò chuyện",
+    "en": "Booking chat",
+    "ko": "예약 채팅"
+  },
+  {
+    "source": "Only configured internal app destinations are available. External URLs are not accepted.",
+    "vi": "Chỉ hỗ trợ các điểm đến nội bộ ứng dụng đã được cấu hình. Hệ thống không chấp nhận đường dẫn URL bên ngoài.",
+    "en": "Only configured internal app destinations are available. External URLs are not accepted.",
+    "ko": "사전에 등록된 인앱 화면 딥링크만 지정할 수 있습니다. 외부 임의 웹 링크는 허용되지 않습니다."
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Continue",
+    "vi": "Tiếp tục",
+    "en": "Continue",
+    "ko": "계속"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Message title",
+    "vi": "Nhập tiêu đề thông báo",
+    "en": "Message title",
+    "ko": "메시지 제목을 입력하세요"
+  },
+  {
+    "source": "Step 2 of 4",
+    "vi": "Bước 2/4",
+    "en": "Step 2 of 4",
+    "ko": "4단계 중 2단계"
+  },
+  {
+    "source": "Choose an audience",
+    "vi": "Chọn phân khúc đối tượng nhận",
+    "en": "Choose an audience",
+    "ko": "발송 대상 선택"
+  },
+  {
+    "source": "By role",
+    "vi": "Theo vai trò tài khoản",
+    "en": "By role",
+    "ko": "회원 역할별"
+  },
+  {
+    "source": "By region",
+    "vi": "Theo khu vực địa lý",
+    "en": "By region",
+    "ko": "활동 지역별"
+  },
+  {
+    "source": "Specific accounts",
+    "vi": "Danh sách tài khoản cụ thể",
+    "en": "Specific accounts",
+    "ko": "특정 계정 직접 지정"
+  },
+  {
+    "source": "Role · Required",
+    "vi": "Vai trò · bắt buộc",
+    "en": "Role · Required",
+    "ko": "역할 · 필수"
+  },
+  {
+    "source": "Select a role",
+    "vi": "Chọn vai trò",
+    "en": "Select a role",
+    "ko": "역할을 선택하세요"
+  },
+  {
+    "source": "Customer",
+    "vi": "Khách hàng",
+    "en": "Customer",
+    "ko": "고객"
+  },
+  {
+    "source": "Service Provider",
+    "vi": "Nhà cung cấp dịch vụ",
+    "en": "Service Provider",
+    "ko": "서비스 제공자"
+  },
+  {
+    "source": "Customer & Service Provider",
+    "vi": "Khách hàng & Nhà cung cấp dịch vụ",
+    "en": "Customer & Service Provider",
+    "ko": "고객 및 서비스 제공자"
+  },
+  {
+    "source": "Exact target rule",
+    "vi": "Quy tắc nhắm đối tượng chính xác",
+    "en": "Exact target rule",
+    "ko": "선택된 발송 타깃 규칙"
+  },
+  {
+    "source": "Estimated eligible accounts · 1.284",
+    "vi": "Ước tính tài khoản đủ điều kiện · 1.284",
+    "en": "Estimated eligible accounts · 1.284",
+    "ko": "예상 대상 계정 수 · 1.284"
+  },
+  {
+    "source": "Back",
+    "vi": "Quay lại",
+    "en": "Back",
+    "ko": "뒤로"
+  },
+  {
+    "source": "Role · Optional",
+    "vi": "Vai trò · không bắt buộc",
+    "en": "Role · Optional",
+    "ko": "역할 · 선택 사항"
+  },
+  {
+    "source": "All eligible roles",
+    "vi": "Tất cả vai trò đủ điều kiện",
+    "en": "All eligible roles",
+    "ko": "대상 역할을 가진 전체 회원"
+  },
+  {
+    "source": "Region",
+    "vi": "Khu vực",
+    "en": "Region",
+    "ko": "지역"
+  },
+  {
+    "source": "Select active region",
+    "vi": "Chọn khu vực đang hoạt động",
+    "en": "Select active region",
+    "ko": "활성 지역을 선택하세요"
+  },
+  {
+    "source": "Ho Chi Minh City",
+    "vi": "Thành phố Hồ Chí Minh",
+    "en": "Ho Chi Minh City",
+    "ko": "호찌민시"
+  },
+  {
+    "source": "Ha Noi",
+    "vi": "Hà Nội",
+    "en": "Ha Noi",
+    "ko": "하노이"
+  },
+  {
+    "source": "Da Nang",
+    "vi": "Đà Nẵng",
+    "en": "Da Nang",
+    "ko": "다낭"
+  },
+  {
+    "source": "Customer · Ho Chi Minh City",
+    "vi": "Khách hàng · Ho Chi Minh thành phố",
+    "en": "Customer · Ho Chi Minh City",
+    "ko": "고객 · Ho Chi Minh 도시"
+  },
+  {
+    "source": "Estimated eligible accounts · 420",
+    "vi": "Ước tính tài khoản đủ điều kiện · 420",
+    "en": "Estimated eligible accounts · 420",
+    "ko": "예상 대상 계정 수 · 420"
+  },
+  {
+    "source": "Account references",
+    "vi": "Mã tham chiếu tài khoản",
+    "en": "Account references",
+    "ko": "계정 식별 번호"
+  },
+  {
+    "source": "Specific accounts · 2",
+    "vi": "Tài khoản chỉ định · 2",
+    "en": "Specific accounts · 2",
+    "ko": "지정 계정 · 2"
+  },
+  {
+    "source": "Estimated eligible accounts · 2",
+    "vi": "Ước tính tài khoản đủ điều kiện · 2",
+    "en": "Estimated eligible accounts · 2",
+    "ko": "예상 대상 계정 수 · 2"
+  },
+  {
+    "source": "Step 3 of 4",
+    "vi": "Bước 3/4",
+    "en": "Step 3 of 4",
+    "ko": "4단계 중 3단계"
+  },
+  {
+    "source": "APP PREVIEW",
+    "vi": "MÔ PHỎNG TRÊN ỨNG DỤNG",
+    "en": "APP PREVIEW",
+    "ko": "앱 노출 화면 미리보기"
+  },
+  {
+    "source": "Service update",
+    "vi": "Dịch vụ cập nhật",
+    "en": "Service update",
+    "ko": "서비스 업데이트"
+  },
+  {
+    "source": "Your appointment details have been updated.",
+    "vi": "Chi tiết lịch hẹn của bạn đã được cập nhật.",
+    "en": "Your appointment details have been updated.",
+    "ko": "예약 상세 정보가 업데이트되었습니다."
+  },
+  {
+    "source": "Open Appointments",
+    "vi": "Mở Lịch hẹn",
+    "en": "Open Appointments",
+    "ko": "예약 열기"
+  },
+  {
+    "source": "Estimated eligible accounts",
+    "vi": "Số tài khoản ước tính đủ điều kiện",
+    "en": "Estimated eligible accounts",
+    "ko": "예상 수신 대상 계정 수"
+  },
+  {
+    "source": "Step 4 of 4",
+    "vi": "Bước 4/4",
+    "en": "Step 4 of 4",
+    "ko": "4단계 중 4단계"
+  },
+  {
+    "source": "Send Now",
+    "vi": "Gửi ngay",
+    "en": "Send Now",
+    "ko": "즉시 발송"
+  },
+  {
+    "source": "Schedule",
+    "vi": "Hẹn giờ gửi",
+    "en": "Schedule",
+    "ko": "예약 발송"
+  },
+  {
+    "source": "Scheduled date and time",
+    "vi": "Ngày giờ hẹn phát thông báo",
+    "en": "Scheduled date and time",
+    "ko": "발송 예약 일시"
+  },
+  {
+    "source": "Future time required",
+    "vi": "Bắt buộc chọn thời điểm trong tương lai",
+    "en": "Future time required",
+    "ko": "현재 이후의 미래 시간만 지정 가능"
+  },
+  {
+    "source": "Configured time zone",
+    "vi": "Múi giờ cấu hình hệ thống",
+    "en": "Configured time zone",
+    "ko": "시스템 기준 표준시"
+  },
+  {
+    "source": "Asia/Ho_Chi_Minh · ICT (UTC+7)",
+    "vi": "Asia/Ho_Chi_Minh · Giờ Đông Dương (UTC+7)",
+    "en": "Asia/Ho_Chi_Minh · ICT (UTC+7)",
+    "ko": "아시아/호찌민 · ICT (UTC+7)"
+  },
+  {
+    "source": "Customer · 1.284 estimated eligible accounts",
+    "vi": "Khách hàng · Ước tính 1.284 tài khoản đủ điều kiện",
+    "en": "Customer · 1.284 estimated eligible accounts",
+    "ko": "고객 · 예상 대상 1.284개 계정"
+  },
+  {
+    "source": "Confirm delivery",
+    "vi": "Xác nhận phát hành thông báo",
+    "en": "Confirm delivery",
+    "ko": "발송 내용 최종 확인"
+  },
+  {
+    "source": "Send Now?",
+    "vi": "Gửi bây giờ?",
+    "en": "Send Now?",
+    "ko": "보내기 지금?"
+  },
+  {
+    "source": "Send request starts now",
+    "vi": "Lệnh gửi thông báo sẽ được kích hoạt ngay",
+    "en": "Send request starts now",
+    "ko": "즉시 발송 요청이 시작됩니다"
+  },
+  {
+    "source": "Go Back",
+    "vi": "Quay lại",
+    "en": "Go Back",
+    "ko": "돌아가기"
+  },
+  {
+    "source": "Confirm",
+    "vi": "Xác nhận",
+    "en": "Confirm",
+    "ko": "확인"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  }
+]

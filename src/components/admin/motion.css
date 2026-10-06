@@ -1,0 +1,138 @@
+:root {
+  --admin-motion-enter-duration: 280ms;
+  --admin-motion-drawer-duration: 280ms;
+  --admin-motion-dialog-duration: 250ms;
+  --admin-motion-backdrop-duration: 220ms;
+  --admin-motion-exit-duration: 180ms;
+  --admin-motion-interaction-duration: 180ms;
+  --admin-motion-stagger-0: 0ms;
+  --admin-motion-stagger-1: 55ms;
+  --admin-motion-stagger-2: 110ms;
+  --admin-motion-stagger-3: 165ms;
+  --admin-motion-stagger-4: 220ms;
+  --admin-motion-ease-enter: cubic-bezier(0.2, 0.75, 0.3, 1);
+  --admin-motion-ease-exit: ease-in;
+  --admin-motion-interactive-transition:
+    background var(--admin-motion-interaction-duration) ease,
+    border-color var(--admin-motion-interaction-duration) ease,
+    color var(--admin-motion-interaction-duration) ease,
+    box-shadow var(--admin-motion-interaction-duration) ease,
+    transform var(--admin-motion-interaction-duration) ease;
+}
+
+@keyframes admin-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes admin-drawer-in {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes admin-drawer-out {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes admin-backdrop-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes admin-backdrop-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes admin-dialog-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes admin-dialog-out {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+}
+
+.admin-motion-enter {
+  animation: admin-fade-up var(--admin-motion-enter-duration)
+    var(--admin-motion-ease-enter) backwards;
+}
+
+.admin-motion-drawer {
+  animation: admin-drawer-in var(--admin-motion-drawer-duration)
+    var(--admin-motion-ease-enter) backwards;
+}
+
+.admin-motion-drawer.is-closing {
+  animation: admin-drawer-out var(--admin-motion-exit-duration)
+    var(--admin-motion-ease-exit) forwards;
+}
+
+.admin-motion-backdrop {
+  animation: admin-backdrop-in var(--admin-motion-backdrop-duration) ease-out
+    backwards;
+}
+
+.admin-motion-backdrop.is-closing {
+  animation: admin-backdrop-out var(--admin-motion-exit-duration)
+    var(--admin-motion-ease-exit) forwards;
+}
+
+.admin-motion-dialog {
+  animation: admin-dialog-in var(--admin-motion-dialog-duration)
+    var(--admin-motion-ease-enter) backwards;
+}
+
+.is-closing > .admin-motion-dialog {
+  animation: admin-dialog-out var(--admin-motion-exit-duration)
+    var(--admin-motion-ease-exit) forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .admin-theme *,
+  .admin-motion-enter,
+  .admin-motion-drawer,
+  .admin-motion-drawer *,
+  .admin-motion-backdrop,
+  .admin-motion-backdrop * {
+    animation-duration: 0.01ms !important;
+    animation-delay: 0ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

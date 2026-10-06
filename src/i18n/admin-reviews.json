@@ -1,0 +1,572 @@
+[
+  {
+    "source": "Review Moderation",
+    "vi": "Kiểm duyệt đánh giá dịch vụ",
+    "en": "Review Moderation",
+    "ko": "이용 후기(리뷰) 관리"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Rating",
+    "vi": "Số sao đánh giá",
+    "en": "Rating",
+    "ko": "별점"
+  },
+  {
+    "source": "All ratings",
+    "vi": "Tất cả mức sao",
+    "en": "All ratings",
+    "ko": "전체 별점"
+  },
+  {
+    "source": "5 stars",
+    "vi": "5 sao",
+    "en": "5 stars",
+    "ko": "5점"
+  },
+  {
+    "source": "4 stars",
+    "vi": "4 sao",
+    "en": "4 stars",
+    "ko": "4점"
+  },
+  {
+    "source": "3 stars",
+    "vi": "3 sao",
+    "en": "3 stars",
+    "ko": "3점"
+  },
+  {
+    "source": "2 stars",
+    "vi": "2 sao",
+    "en": "2 stars",
+    "ko": "2점"
+  },
+  {
+    "source": "1 stars",
+    "vi": "1 sao",
+    "en": "1 stars",
+    "ko": "1점"
+  },
+  {
+    "source": "Date",
+    "vi": "Ngày",
+    "en": "Date",
+    "ko": "일자"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "All reviews",
+    "vi": "Tất cả đánh giá",
+    "en": "All reviews",
+    "ko": "전체 리뷰"
+  },
+  {
+    "source": "Reported only",
+    "vi": "Chỉ hiển thị bài bị báo cáo",
+    "en": "Reported only",
+    "ko": "신고된 리뷰만 보기"
+  },
+  {
+    "source": "No reports",
+    "vi": "Không bị báo cáo",
+    "en": "No reports",
+    "ko": "신고 없음"
+  },
+  {
+    "source": "Visibility",
+    "vi": "Khả năng hiển thị",
+    "en": "Visibility",
+    "ko": "노출 상태"
+  },
+  {
+    "source": "All states",
+    "vi": "Tất cả trạng thái",
+    "en": "All states",
+    "ko": "전체 상태"
+  },
+  {
+    "source": "Visible",
+    "vi": "Hiển thị",
+    "en": "Visible",
+    "ko": "표시됨"
+  },
+  {
+    "source": "Hidden",
+    "vi": "Đã ẩn",
+    "en": "Hidden",
+    "ko": "숨김"
+  },
+  {
+    "source": "Removed",
+    "vi": "Đã gỡ bỏ",
+    "en": "Removed",
+    "ko": "삭제됨"
+  },
+  {
+    "source": "Provider type",
+    "vi": "Loại hình đối tác",
+    "en": "Provider type",
+    "ko": "제공자 유형"
+  },
+  {
+    "source": "All types",
+    "vi": "Tất cả loại hình",
+    "en": "All types",
+    "ko": "전체 유형"
+  },
+  {
+    "source": "Individual Therapist",
+    "vi": "KTV cá nhân",
+    "en": "Individual Therapist",
+    "ko": "개인 테라피스트"
+  },
+  {
+    "source": "Massage Business",
+    "vi": "Cơ sở massage",
+    "en": "Massage Business",
+    "ko": "마사지 업체"
+  },
+  {
+    "source": "Reviewer",
+    "vi": "Người đánh giá",
+    "en": "Reviewer",
+    "ko": "작성자 (고객)"
+  },
+  {
+    "source": "Provider",
+    "vi": "Đối tác dịch vụ",
+    "en": "Provider",
+    "ko": "제공자 (파트너)"
+  },
+  {
+    "source": "Completed booking",
+    "vi": "Lịch hẹn đã hoàn tất",
+    "en": "Completed booking",
+    "ko": "이용 완료 예약"
+  },
+  {
+    "source": "Review",
+    "vi": "Xét duyệt",
+    "en": "Review",
+    "ko": "심사하기"
+  },
+  {
+    "source": "Public state",
+    "vi": "Trạng thái công khai",
+    "en": "Public state",
+    "ko": "공개 상태"
+  },
+  {
+    "source": "Priya Shah",
+    "vi": "Priya Shah",
+    "en": "Priya Shah",
+    "ko": "Priya Shah"
+  },
+  {
+    "source": "River Spa Studio",
+    "vi": "River Spa Studio",
+    "en": "River Spa Studio",
+    "ko": "River Spa Studio"
+  },
+  {
+    "source": "BK-48263",
+    "vi": "BK-48263",
+    "en": "BK-48263",
+    "ko": "BK-48263"
+  },
+  {
+    "source": "Calm space and a thoughtful session from start to finish.",
+    "vi": "Calm khoảng trống và một tận tâm phiên từ bắt đầu đến hoàn tất.",
+    "en": "Calm space and a thoughtful session from start to finish.",
+    "ko": "Calm 공간 및 하나의 세심한 세션 에서 시작 마침."
+  },
+  {
+    "source": "View Review",
+    "vi": "Xem đánh giá",
+    "en": "View Review",
+    "ko": "리뷰 상세 보기"
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "BK-48255",
+    "vi": "BK-48255",
+    "en": "BK-48255",
+    "ko": "BK-48255"
+  },
+  {
+    "source": "The session was professional and the booking details were clear.",
+    "vi": "Phiên đã professional và đặt lịch chi tiết were xóa.",
+    "en": "The session was professional and the booking details were clear.",
+    "ko": "세션 이었음 professional 및 예약 상세 were 지우기."
+  },
+  {
+    "source": "Anh Pham",
+    "vi": "Anh Pham",
+    "en": "Anh Pham",
+    "ko": "Anh Pham"
+  },
+  {
+    "source": "Lotus Wellness",
+    "vi": "Lotus Wellness",
+    "en": "Lotus Wellness",
+    "ko": "Lotus Wellness"
+  },
+  {
+    "source": "BK-48192",
+    "vi": "BK-48192",
+    "en": "BK-48192",
+    "ko": "BK-48192"
+  },
+  {
+    "source": "The public description did not match my appointment experience.",
+    "vi": "Mô tả công khai không đúng với trải nghiệm thực tế trong lịch hẹn của tôi.",
+    "en": "The public description did not match my appointment experience.",
+    "ko": "공개된 설명이 실제 예약 경험과 일치하지 않았습니다."
+  },
+  {
+    "source": "Linh Nguyen",
+    "vi": "Linh Nguyen",
+    "en": "Linh Nguyen",
+    "ko": "Linh Nguyen"
+  },
+  {
+    "source": "Serene Hands",
+    "vi": "Serene Hands",
+    "en": "Serene Hands",
+    "ko": "Serene Hands"
+  },
+  {
+    "source": "BK-48084",
+    "vi": "BK-48084",
+    "en": "BK-48084",
+    "ko": "BK-48084"
+  },
+  {
+    "source": "Removed review retained only in restricted moderation evidence.",
+    "vi": "Đánh giá đã gỡ chỉ được lưu trong bằng chứng kiểm duyệt bảo mật.",
+    "en": "Removed review retained only in restricted moderation evidence.",
+    "ko": "삭제된 리뷰는 비공개 검수 증거로만 보관됩니다."
+  },
+  {
+    "source": "RV-6208 · BK-48263",
+    "vi": "RV-6208 · BK-48263",
+    "en": "RV-6208 · BK-48263",
+    "ko": "RV-6208 · BK-48263"
+  },
+  {
+    "source": "Priya Shah’s review",
+    "vi": "Priya Shah’s đánh giá",
+    "en": "Priya Shah’s review",
+    "ko": "Priya Shah’s 검토"
+  },
+  {
+    "source": "For River Spa Studio · Sep 23, 2026",
+    "vi": "Cho River Spa Studio · Sep 23, 2026",
+    "en": "For River Spa Studio · Sep 23, 2026",
+    "ko": "위한 River Spa Studio · Sep 23, 2026"
+  },
+  {
+    "source": "Linked records",
+    "vi": "Bản ghi liên kết",
+    "en": "Linked records",
+    "ko": "연계 정보"
+  },
+  {
+    "source": "2 linked reports",
+    "vi": "2 báo cáo liên quan",
+    "en": "2 linked reports",
+    "ko": "연결된 신고 2건"
+  },
+  {
+    "source": "Misleading Information",
+    "vi": "Thông tin sai lệch",
+    "en": "Misleading Information",
+    "ko": "허위 또는 오해 소지 정보"
+  },
+  {
+    "source": "Inappropriate Content",
+    "vi": "Nội dung không phù hợp",
+    "en": "Inappropriate Content",
+    "ko": "부적절한 유해 콘텐츠"
+  },
+  {
+    "source": "Provider public rating",
+    "vi": "Điểm đánh giá công khai của đối tác",
+    "en": "Provider public rating",
+    "ko": "파트너 공식 평균 평점"
+  },
+  {
+    "source": "4.7 from 86 public reviews",
+    "vi": "4.7 từ 86 công khai đánh giá",
+    "en": "4.7 from 86 public reviews",
+    "ko": "4.7 에서 86 공개 리뷰"
+  },
+  {
+    "source": "Moderation timeline",
+    "vi": "Lịch sử kiểm duyệt đánh giá",
+    "en": "Moderation timeline",
+    "ko": "리뷰 검수 타임라인"
+  },
+  {
+    "source": "Review submitted · Priya Shah",
+    "vi": "Đánh giá đã gửi · Priya Shah",
+    "en": "Review submitted · Priya Shah",
+    "ko": "검토 제출됨 · Priya Shah"
+  },
+  {
+    "source": "Latest activity",
+    "vi": "Hoạt động mới nhất",
+    "en": "Latest activity",
+    "ko": "최근 활동"
+  },
+  {
+    "source": "Report received · Customer",
+    "vi": "Báo cáo đã nhận · khách hàng",
+    "en": "Report received · Customer",
+    "ko": "신고 수신됨 · 고객"
+  },
+  {
+    "source": "Recorded in case history",
+    "vi": "Đã ghi trong lịch sử hồ sơ",
+    "en": "Recorded in case history",
+    "ko": "사례 이력에 기록됨"
+  },
+  {
+    "source": "Second report linked · Customer",
+    "vi": "Second báo cáo được liên kết · khách hàng",
+    "en": "Second report linked · Customer",
+    "ko": "Second 신고 연결됨 · 고객"
+  },
+  {
+    "source": "Dismiss Report",
+    "vi": "Bác bỏ báo cáo",
+    "en": "Dismiss Report",
+    "ko": "신고 기각"
+  },
+  {
+    "source": "Hide Review",
+    "vi": "Ẩn đánh giá",
+    "en": "Hide Review",
+    "ko": "리뷰 숨기기"
+  },
+  {
+    "source": "Remove Review",
+    "vi": "Gỡ bỏ đánh giá vi phạm",
+    "en": "Remove Review",
+    "ko": "리뷰 영구 삭제"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search reviews",
+    "vi": "Tìm kiếm đánh giá",
+    "en": "Search reviews",
+    "ko": "리뷰 검색"
+  },
+  {
+    "source": "Search review, person or booking",
+    "vi": "Tìm theo nội dung đánh giá, người dùng hoặc mã lịch hẹn",
+    "en": "Search review, person or booking",
+    "ko": "리뷰 내용, 작성자, 예약 번호 검색"
+  },
+  {
+    "source": "Review moderation",
+    "vi": "Kiểm duyệt đánh giá",
+    "en": "Review moderation",
+    "ko": "리뷰 검수 관리"
+  },
+  {
+    "source": "5 out of 5 stars",
+    "vi": "5/5 sao",
+    "en": "5 out of 5 stars",
+    "ko": "5점 만점에 5점"
+  },
+  {
+    "source": "4 out of 5 stars",
+    "vi": "4/5 sao",
+    "en": "4 out of 5 stars",
+    "ko": "5점 만점에 4점"
+  },
+  {
+    "source": "2 out of 5 stars",
+    "vi": "2/5 sao",
+    "en": "2 out of 5 stars",
+    "ko": "5점 만점에 2점"
+  },
+  {
+    "source": "1 out of 5 stars",
+    "vi": "1/5 sao",
+    "en": "1 out of 5 stars",
+    "ko": "5점 만점에 1점"
+  },
+  {
+    "source": "Close review details",
+    "vi": "Đóng chi tiết xét duyệt",
+    "en": "Close review details",
+    "ko": "검토 상세 닫기"
+  }
+]

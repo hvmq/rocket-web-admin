@@ -1,0 +1,872 @@
+[
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Pending",
+    "vi": "Đang chờ",
+    "en": "Pending",
+    "ko": "대기 중"
+  },
+  {
+    "source": "Approved",
+    "vi": "Đã duyệt",
+    "en": "Approved",
+    "ko": "승인됨"
+  },
+  {
+    "source": "Rejected",
+    "vi": "Bị từ chối",
+    "en": "Rejected",
+    "ko": "거절됨"
+  },
+  {
+    "source": "Provider type",
+    "vi": "Loại hình đối tác",
+    "en": "Provider type",
+    "ko": "제공자 유형"
+  },
+  {
+    "source": "All types",
+    "vi": "Tất cả loại hình",
+    "en": "All types",
+    "ko": "전체 유형"
+  },
+  {
+    "source": "Individual Therapist",
+    "vi": "KTV cá nhân",
+    "en": "Individual Therapist",
+    "ko": "개인 테라피스트"
+  },
+  {
+    "source": "Massage Business",
+    "vi": "Cơ sở massage",
+    "en": "Massage Business",
+    "ko": "마사지 업체"
+  },
+  {
+    "source": "Region",
+    "vi": "Khu vực",
+    "en": "Region",
+    "ko": "지역"
+  },
+  {
+    "source": "All regions",
+    "vi": "Tất cả khu vực",
+    "en": "All regions",
+    "ko": "전체 지역"
+  },
+  {
+    "source": "Ho Chi Minh City",
+    "vi": "Thành phố Hồ Chí Minh",
+    "en": "Ho Chi Minh City",
+    "ko": "호찌민시"
+  },
+  {
+    "source": "Da Nang",
+    "vi": "Đà Nẵng",
+    "en": "Da Nang",
+    "ko": "다낭"
+  },
+  {
+    "source": "Ha Noi",
+    "vi": "Hà Nội",
+    "en": "Ha Noi",
+    "ko": "하노이"
+  },
+  {
+    "source": "Submitted",
+    "vi": "Thời điểm nộp",
+    "en": "Submitted",
+    "ko": "제출 일시"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Provider",
+    "vi": "Đối tác dịch vụ",
+    "en": "Provider",
+    "ko": "제공자 (파트너)"
+  },
+  {
+    "source": "Type",
+    "vi": "Loại hình",
+    "en": "Type",
+    "ko": "유형"
+  },
+  {
+    "source": "Submission",
+    "vi": "Nội dung phản ánh",
+    "en": "Submission",
+    "ko": "신청 내용"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "PV-2048 · v3",
+    "vi": "PV-2048 · v3",
+    "en": "PV-2048 · v3",
+    "ko": "PV-2048 · v3"
+  },
+  {
+    "source": "Profile Update",
+    "vi": "Cập nhật hồ sơ",
+    "en": "Profile Update",
+    "ko": "프로필 수정 요청"
+  },
+  {
+    "source": "Sep 24, 2026 · 09:18 ICT",
+    "vi": "24/09/2026 · 09:18 ICT",
+    "en": "Sep 24, 2026 · 09:18 ICT",
+    "ko": "2026. 9. 24. · 오전 9:18 ICT"
+  },
+  {
+    "source": "Review",
+    "vi": "Xét duyệt",
+    "en": "Review",
+    "ko": "심사하기"
+  },
+  {
+    "source": "River Spa Studio",
+    "vi": "River Spa Studio",
+    "en": "River Spa Studio",
+    "ko": "River Spa Studio"
+  },
+  {
+    "source": "PV-2046 · v1",
+    "vi": "PV-2046 · v1",
+    "en": "PV-2046 · v1",
+    "ko": "PV-2046 · v1"
+  },
+  {
+    "source": "New Profile",
+    "vi": "Hồ sơ đăng ký mới",
+    "en": "New Profile",
+    "ko": "신규 입점 프로필"
+  },
+  {
+    "source": "Sep 23, 2026 · 16:42 ICT",
+    "vi": "23/09/2026 · 16:42 ICT",
+    "en": "Sep 23, 2026 · 16:42 ICT",
+    "ko": "2026. 9. 23. · 오후 4:42 ICT"
+  },
+  {
+    "source": "Individual Therapist · Ho Chi Minh City",
+    "vi": "KTV cá nhân · Thành phố Hồ Chí Minh",
+    "en": "Individual Therapist · Ho Chi Minh City",
+    "ko": "개인 테라피스트 · 호찌민시"
+  },
+  {
+    "source": "Submitted identity",
+    "vi": "Thông tin danh tính đã nộp",
+    "en": "Submitted identity",
+    "ko": "제출된 신원 정보"
+  },
+  {
+    "source": "Version comparison",
+    "vi": "So sánh phiên bản",
+    "en": "Version comparison",
+    "ko": "버전별 변경 비교"
+  },
+  {
+    "source": "Currently Published & Proposed Changes",
+    "vi": "Bản đang công khai & Bản đề xuất thay đổi",
+    "en": "Currently Published & Proposed Changes",
+    "ko": "현재 노출 프로필 및 제안된 변경 사항"
+  },
+  {
+    "source": "Changed field",
+    "vi": "Trường dữ liệu thay đổi",
+    "en": "Changed field",
+    "ko": "변경된 항목"
+  },
+  {
+    "source": "Currently Published",
+    "vi": "Bản đang công khai",
+    "en": "Currently Published",
+    "ko": "현재 노출 중"
+  },
+  {
+    "source": "Restorative massage therapist",
+    "vi": "KTV massage phục hồi",
+    "en": "Restorative massage therapist",
+    "ko": "회복 마사지 테라피스트"
+  },
+  {
+    "source": "Grounded, attentive sessions focused on mobility and everyday comfort.",
+    "vi": "Các buổi trị liệu chỉn chu, tập trung vào khả năng vận động và sự thoải mái hằng ngày.",
+    "en": "Grounded, attentive sessions focused on mobility and everyday comfort.",
+    "ko": "움직임과 일상의 편안함에 집중하는 안정적이고 세심한 세션입니다."
+  },
+  {
+    "source": "District 1, Ho Chi Minh City",
+    "vi": "Quận 1, Thành phố Hồ Chí Minh",
+    "en": "District 1, Ho Chi Minh City",
+    "ko": "호찌민시 1군"
+  },
+  {
+    "source": "Service",
+    "vi": "Dịch vụ",
+    "en": "Service",
+    "ko": "서비스"
+  },
+  {
+    "source": "Relaxation Massage · $85",
+    "vi": "Massage thư giãn · 85 USD",
+    "en": "Relaxation Massage · $85",
+    "ko": "릴랙세이션 마사지 · US$85"
+  },
+  {
+    "source": "Submitted v3",
+    "vi": "Đã gửi v3",
+    "en": "Submitted v3",
+    "ko": "제출됨 v3"
+  },
+  {
+    "source": "Restorative massage & mobility care",
+    "vi": "Massage phục hồi & chăm sóc vận động",
+    "en": "Restorative massage & mobility care",
+    "ko": "회복 마사지 및 움직임 케어"
+  },
+  {
+    "source": "Personalized sessions for recovery, movement, and lasting ease. Each visit is adapted to your comfort and mobility goals.",
+    "vi": "Các buổi trị liệu cá nhân hóa để phục hồi, cải thiện vận động và tạo cảm giác dễ chịu lâu dài. Mỗi lần ghé đều được điều chỉnh theo mức độ thoải mái và mục tiêu vận động của bạn.",
+    "en": "Personalized sessions for recovery, movement, and lasting ease. Each visit is adapted to your comfort and mobility goals.",
+    "ko": "회복과 움직임, 지속적인 편안함을 위한 맞춤형 세션입니다. 매 방문은 편안함과 움직임 목표에 맞춰 조정됩니다."
+  },
+  {
+    "source": "District 1 & District 3, Ho Chi Minh City",
+    "vi": "Quận 1 & Quận 3, Thành phố Hồ Chí Minh",
+    "en": "District 1 & District 3, Ho Chi Minh City",
+    "ko": "호찌민시 1군 및 3군"
+  },
+  {
+    "source": "Relaxation Massage · $92",
+    "vi": "Massage thư giãn · 92 USD",
+    "en": "Relaxation Massage · $92",
+    "ko": "릴랙세이션 마사지 · US$92"
+  },
+  {
+    "source": "Profile description",
+    "vi": "Mô tả hồ sơ",
+    "en": "Profile description",
+    "ko": "프로필 소개"
+  },
+  {
+    "source": "4 submitted",
+    "vi": "Đã gửi 4 ảnh",
+    "en": "4 submitted",
+    "ko": "4개 제출"
+  },
+  {
+    "source": "Images",
+    "vi": "Hình ảnh",
+    "en": "Images",
+    "ko": "등록 이미지"
+  },
+  {
+    "source": "Profile portrait",
+    "vi": "Ảnh chân dung hồ sơ",
+    "en": "Profile portrait",
+    "ko": "프로필 인물 사진"
+  },
+  {
+    "source": "Treatment room",
+    "vi": "Phòng trị liệu",
+    "en": "Treatment room",
+    "ko": "트리트먼트룸"
+  },
+  {
+    "source": "Massage session",
+    "vi": "Buổi massage",
+    "en": "Massage session",
+    "ko": "마사지 세션"
+  },
+  {
+    "source": "Studio details",
+    "vi": "Chi tiết cơ sở",
+    "en": "Studio details",
+    "ko": "스튜디오 세부 공간"
+  },
+  {
+    "source": "3 submitted",
+    "vi": "3 đã gửi",
+    "en": "3 submitted",
+    "ko": "3 제출됨"
+  },
+  {
+    "source": "Services & prices",
+    "vi": "Dịch vụ & Bảng giá",
+    "en": "Services & prices",
+    "ko": "제공 서비스 및 가격"
+  },
+  {
+    "source": "Relaxation Massage",
+    "vi": "Massage thư giãn",
+    "en": "Relaxation Massage",
+    "ko": "릴랙세이션 마사지"
+  },
+  {
+    "source": "60 min",
+    "vi": "60 phút",
+    "en": "60 min",
+    "ko": "60분"
+  },
+  {
+    "source": "Mobility Recovery",
+    "vi": "Phục hồi vận động",
+    "en": "Mobility Recovery",
+    "ko": "움직임 회복"
+  },
+  {
+    "source": "90 min",
+    "vi": "90 phút",
+    "en": "90 min",
+    "ko": "90분"
+  },
+  {
+    "source": "Focused Shoulder Care",
+    "vi": "Chăm sóc chuyên sâu vùng vai",
+    "en": "Focused Shoulder Care",
+    "ko": "어깨 집중 케어"
+  },
+  {
+    "source": "45 min",
+    "vi": "45 phút",
+    "en": "45 min",
+    "ko": "45분"
+  },
+  {
+    "source": "Working hours",
+    "vi": "Giờ làm việc",
+    "en": "Working hours",
+    "ko": "영업 시간"
+  },
+  {
+    "source": "Monday–Friday",
+    "vi": "Thứ Hai–Thứ Sáu",
+    "en": "Monday–Friday",
+    "ko": "월요일–금요일"
+  },
+  {
+    "source": "Saturday–Sunday",
+    "vi": "Thứ Bảy–Chủ Nhật",
+    "en": "Saturday–Sunday",
+    "ko": "토요일–일요일"
+  },
+  {
+    "source": "Closed",
+    "vi": "Đã đóng",
+    "en": "Closed",
+    "ko": "종료됨"
+  },
+  {
+    "source": "Service region",
+    "vi": "Khu vực phục vụ",
+    "en": "Service region",
+    "ko": "서비스 제공 지역"
+  },
+  {
+    "source": "Public service area; exact coordinates remain private.",
+    "vi": "Chỉ hiển thị khu vực phục vụ; tọa độ chính xác được giữ riêng tư.",
+    "en": "Public service area; exact coordinates remain private.",
+    "ko": "서비스 지역만 공개되며 정확한 좌표는 비공개로 유지됩니다."
+  },
+  {
+    "source": "Review history",
+    "vi": "Lịch sử xét duyệt",
+    "en": "Review history",
+    "ko": "심사 이력"
+  },
+  {
+    "source": "v3 submitted · Sep 24, 2026 · 09:18 ICT",
+    "vi": "v3 đã gửi · Sep 24, 2026 · 09:18 ICT",
+    "en": "v3 submitted · Sep 24, 2026 · 09:18 ICT",
+    "ko": "v3 제출됨 · Sep 24, 2026 · 09:18 ICT"
+  },
+  {
+    "source": "Latest activity",
+    "vi": "Hoạt động mới nhất",
+    "en": "Latest activity",
+    "ko": "최근 활동"
+  },
+  {
+    "source": "v2 approved · Sep 18, 2026",
+    "vi": "v2 đã duyệt · Sep 18, 2026",
+    "en": "v2 approved · Sep 18, 2026",
+    "ko": "v2 승인됨 · Sep 18, 2026"
+  },
+  {
+    "source": "Recorded in case history",
+    "vi": "Đã ghi trong lịch sử hồ sơ",
+    "en": "Recorded in case history",
+    "ko": "사례 이력에 기록됨"
+  },
+  {
+    "source": "Reject",
+    "vi": "Từ chối",
+    "en": "Reject",
+    "ko": "거절"
+  },
+  {
+    "source": "Approve",
+    "vi": "Phê duyệt",
+    "en": "Approve",
+    "ko": "승인"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Provider verification status",
+    "vi": "Trạng thái xét duyệt đối tác",
+    "en": "Provider verification status",
+    "ko": "제공자 입점 심사 상태"
+  },
+  {
+    "source": "Search verification queue",
+    "vi": "Tìm trong hàng chờ xét duyệt",
+    "en": "Search verification queue",
+    "ko": "심사 대기열 검색"
+  },
+  {
+    "source": "Search provider or reference",
+    "vi": "Tìm đối tác hoặc mã tham chiếu",
+    "en": "Search provider or reference",
+    "ko": "제공자 또는 참조 번호 검색"
+  },
+  {
+    "source": "Provider verification queue",
+    "vi": "Hàng chờ xét duyệt đối tác",
+    "en": "Provider verification queue",
+    "ko": "제공자 입점 심사 대기열"
+  },
+  {
+    "source": "Provider review",
+    "vi": "Xét duyệt nhà cung cấp",
+    "en": "Provider review",
+    "ko": "제공자 검토"
+  },
+  {
+    "source": "Close review",
+    "vi": "Đóng xét duyệt",
+    "en": "Close review",
+    "ko": "검토 닫기"
+  },
+  {
+    "source": "Submitted profile",
+    "vi": "Hồ sơ đã nộp",
+    "en": "Submitted profile",
+    "ko": "제출된 프로필"
+  },
+  {
+    "source": "Serene Hands",
+    "vi": "Serene Hands",
+    "en": "Serene Hands",
+    "ko": "Serene Hands"
+  },
+  {
+    "source": "PV-2039 · v2",
+    "vi": "PV-2039 · v2",
+    "en": "PV-2039 · v2",
+    "ko": "PV-2039 · v2"
+  },
+  {
+    "source": "Sep 21, 2026 · 11:04 ICT",
+    "vi": "21/09/2026 · 11:04 ICT",
+    "en": "Sep 21, 2026 · 11:04 ICT",
+    "ko": "2026. 9. 21. · 오전 11:04 ICT"
+  },
+  {
+    "source": "An An Studio",
+    "vi": "Một một Studio",
+    "en": "An An Studio",
+    "ko": "하나의 하나의 Studio"
+  },
+  {
+    "source": "PV-2034 · v1",
+    "vi": "PV-2034 · v1",
+    "en": "PV-2034 · v1",
+    "ko": "PV-2034 · v1"
+  },
+  {
+    "source": "Sep 19, 2026 · 14:26 ICT",
+    "vi": "19/09/2026 · 14:26 ICT",
+    "en": "Sep 19, 2026 · 14:26 ICT",
+    "ko": "2026. 9. 19. · 오후 2:26 ICT"
+  },
+  {
+    "source": "submitted images",
+    "vi": "ảnh đã nộp",
+    "en": "submitted images",
+    "ko": "제출된 이미지"
+  },
+  {
+    "source": "Previous",
+    "vi": "Trang trước",
+    "en": "Previous",
+    "ko": "이전"
+  },
+  {
+    "source": "Next",
+    "vi": "Trang sau",
+    "en": "Next",
+    "ko": "다음"
+  },
+  {
+    "source": "Close image",
+    "vi": "Đóng ảnh",
+    "en": "Close image",
+    "ko": "이미지 닫기"
+  },
+  {
+    "source": "Approve this exact profile version?",
+    "vi": "Phê duyệt chính xác phiên bản hồ sơ này?",
+    "en": "Approve this exact profile version?",
+    "ko": "해당 버전의 프로필을 승인하시겠습니까?"
+  },
+  {
+    "source": "Only v3 for Maya Chen will become eligible for public display under current account rules.",
+    "vi": "Chỉ phiên bản v3 của Maya Chen mới đủ điều kiện hiển thị công khai theo quy định tài khoản hiện hành.",
+    "en": "Only v3 for Maya Chen will become eligible for public display under current account rules.",
+    "ko": "Maya Chen의 v3 버전만 현행 계정 정책에 따라 공개 노출 대상으로 전환됩니다."
+  },
+  {
+    "source": "Decision target",
+    "vi": "Đối tượng quyết định",
+    "en": "Decision target",
+    "ko": "심사 대상"
+  },
+  {
+    "source": "Maya Chen · Profile Update",
+    "vi": "Maya Chen · Cập nhật hồ sơ",
+    "en": "Maya Chen · Profile Update",
+    "ko": "Maya Chen · 프로필 수정 요청"
+  },
+  {
+    "source": "Go Back",
+    "vi": "Quay lại",
+    "en": "Go Back",
+    "ko": "돌아가기"
+  },
+  {
+    "source": "Confirm Approval",
+    "vi": "Xác nhận phê duyệt",
+    "en": "Confirm Approval",
+    "ko": "승인 확정"
+  },
+  {
+    "source": "Reject this profile proposal?",
+    "vi": "Từ chối đề xuất hồ sơ này?",
+    "en": "Reject this profile proposal?",
+    "ko": "해당 프로필 제안을 반려하시겠습니까?"
+  },
+  {
+    "source": "The proposal remains nonpublic. The Provider will receive the reason and can correct and resubmit from the app.",
+    "vi": "Bản đề xuất sẽ không được công khai. Đối tác sẽ nhận được lý do từ chối cụ thể để chỉnh sửa và nộp lại trên ứng dụng.",
+    "en": "The proposal remains nonpublic. The Provider will receive the reason and can correct and resubmit from the app.",
+    "ko": "제안된 내용은 비공개 유지됩니다. 파트너에게 반려 사유가 안내되며 앱에서 수정 후 재제출할 수 있습니다."
+  },
+  {
+    "source": "Reason",
+    "vi": "Căn cứ / Lý do",
+    "en": "Reason",
+    "ko": "사유"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "Confirm Rejection",
+    "vi": "Xác nhận từ chối",
+    "en": "Confirm Rejection",
+    "ko": "반려 확정"
+  },
+  {
+    "source": "Image unavailable",
+    "vi": "Không thể tải hình ảnh",
+    "en": "Image unavailable",
+    "ko": "이미지를 불러올 수 없음"
+  },
+  {
+    "source": "Permission changed",
+    "vi": "Quyền truy cập đã thay đổi",
+    "en": "Permission changed",
+    "ko": "접근 권한 변경됨"
+  },
+  {
+    "source": "Access Denied",
+    "vi": "Từ chối truy cập",
+    "en": "Access Denied",
+    "ko": "접근 권한 없음"
+  },
+  {
+    "source": "Submitted identity, images, and decision controls have been removed from this session.",
+    "vi": "Thông tin danh tính, hình ảnh và nút quyết định đã được thu hồi khỏi phiên này.",
+    "en": "Submitted identity, images, and decision controls have been removed from this session.",
+    "ko": "제출된 신원 정보, 이미지 및 결정 버튼이 현재 세션에서 제거되었습니다."
+  },
+  {
+    "source": "Back to Dashboard",
+    "vi": "Về Bảng điều khiển",
+    "en": "Back to Dashboard",
+    "ko": "대시보드로 돌아가기"
+  },
+  {
+    "source": "Record changed",
+    "vi": "Dữ liệu bản ghi đã thay đổi",
+    "en": "Record changed",
+    "ko": "데이터 변경 감지"
+  },
+  {
+    "source": "Another Admin updated this proposal. Your pending decision was not applied or audited as successful.",
+    "vi": "Một Quản trị viên khác đã xử lý đề xuất này. Quyết định của bạn chưa được áp dụng.",
+    "en": "Another Admin updated this proposal. Your pending decision was not applied or audited as successful.",
+    "ko": "다른 관리자가 이 제안을 이미 처리했습니다. 대기 중이던 결정은 적용되지 않았습니다."
+  },
+  {
+    "source": "Reload Details",
+    "vi": "Tải lại chi tiết",
+    "en": "Reload Details",
+    "ko": "최신 정보 새로고침"
+  },
+  {
+    "source": "Published at Submission & Proposed Changes",
+    "vi": "Bản công khai tại thời điểm nộp & Bản đề xuất thay đổi",
+    "en": "Published at Submission & Proposed Changes",
+    "ko": "제출 당시 공개 프로필 및 제안된 변경 사항"
+  },
+  {
+    "source": "Published at Submission",
+    "vi": "Bản công khai tại thời điểm nộp",
+    "en": "Published at Submission",
+    "ko": "제출 당시 공개 프로필"
+  },
+  {
+    "source": "v3 approved · Sep 25, 2026 · 09:42 ICT",
+    "vi": "v3 đã duyệt · Sep 25, 2026 · 09:42 ICT",
+    "en": "v3 approved · Sep 25, 2026 · 09:42 ICT",
+    "ko": "v3 승인됨 · Sep 25, 2026 · 09:42 ICT"
+  },
+  {
+    "source": "Decision already recorded",
+    "vi": "Quyết định đã được ghi nhận",
+    "en": "Decision already recorded",
+    "ko": "조치가 이미 완료되었습니다"
+  },
+  {
+    "source": "Approved by Another Admin · Sep 25, 2026 · 09:42 ICT. Decision controls are no longer available.",
+    "vi": "Đã được phê duyệt bởi Quản trị viên khác · Sep 25, 2026 · 09:42 ICT. Các thao tác quyết định không còn khả dụng.",
+    "en": "Approved by Another Admin · Sep 25, 2026 · 09:42 ICT. Decision controls are no longer available.",
+    "ko": "다른 관리자가 이미 승인함 · Sep 25, 2026 · 09:42 ICT. 처리 작업이 비활성화되었습니다."
+  },
+  {
+    "source": "Reason: Submitted profile verified.",
+    "vi": "Lý do: đã gửi hồ sơ đã xác minh.",
+    "en": "Reason: Submitted profile verified.",
+    "ko": "사유: 제출됨 프로필 인증됨."
+  },
+  {
+    "source": "View Provider Account",
+    "vi": "Xem tài khoản đối tác",
+    "en": "View Provider Account",
+    "ko": "제공자 계정 보기"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  }
+]

@@ -1,0 +1,31 @@
+body {
+  --font-ui: var(--font-google-sans-flex);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: var(--font-ui);
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid #0f172a;
+  outline-offset: 3px;
+}

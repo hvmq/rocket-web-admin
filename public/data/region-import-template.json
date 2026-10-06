@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "countryCode": "VN"
+  },
+  "provinces": [
+    {
+      "code": "79",
+      "name": "Thành phố Hồ Chí Minh",
+      "wards": [
+        {
+          "code": "26740",
+          "name": "Phường Sài Gòn"
+        }
+      ]
+    }
+  ]
+}

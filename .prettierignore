@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+build
+coverage
+pnpm-lock.yaml
+prompt_setup_repo.md
+next-env.d.ts

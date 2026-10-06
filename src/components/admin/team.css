@@ -1,0 +1,326 @@
+.admin-team-layout {
+  display: grid;
+  gap: 20px;
+  width: 100%;
+  min-width: 0;
+}
+.admin-team-panel {
+  overflow: hidden;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+  box-shadow: var(--admin-shadow);
+  animation-delay: var(--admin-motion-stagger-1);
+}
+.admin-team-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 20px 22px;
+  border-bottom: 1px solid var(--admin-chalk);
+}
+.admin-team-toolbar h2 {
+  margin: 0;
+  color: var(--admin-ink);
+  font-size: 18px;
+  font-weight: 600;
+}
+.admin-team-toolbar p {
+  margin: 4px 0 0;
+  color: var(--admin-ashen);
+  font-size: 12px;
+}
+.admin-team-toolbar .admin-primary-button,
+.admin-team-empty .admin-secondary-button {
+  width: auto;
+  min-height: 38px;
+  flex: none;
+}
+.admin-team-search {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  width: min(360px, 100%);
+  min-width: 0;
+  height: 38px;
+  padding: 0 12px;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+  transition: var(--admin-motion-interactive-transition);
+}
+.admin-team-search:focus-within {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 3px;
+}
+.admin-team-search input {
+  width: 100%;
+  min-width: 0;
+  height: 34px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--admin-ink);
+  font-size: 13px;
+}
+.admin-team-search input::placeholder {
+  color: var(--admin-pebble);
+}
+.admin-team-table-wrap {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.admin-team-table {
+  width: 100%;
+  min-width: 650px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  text-align: left;
+  font-size: 13px;
+}
+.admin-team-table th {
+  height: 42px;
+  padding: 0 18px;
+  border-bottom: 1px solid var(--admin-chalk);
+  background: var(--admin-stone);
+  color: var(--admin-ashen);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.admin-team-table td {
+  height: 56px;
+  padding: 10px 18px;
+  border-top: 1px solid var(--admin-stone);
+  overflow-wrap: anywhere;
+}
+.admin-team-table tr {
+  transition: var(--admin-motion-interactive-transition);
+}
+.admin-team-table tbody tr:hover {
+  background: var(--admin-stone);
+}
+.admin-team-table th:nth-child(1) {
+  width: 35%;
+}
+.admin-team-table th:nth-child(2),
+.admin-team-table th:nth-child(3) {
+  width: 18%;
+}
+.admin-team-table th:nth-child(4) {
+  width: 29%;
+}
+.admin-team-table strong,
+.admin-team-table small {
+  display: block;
+}
+.admin-team-table strong {
+  color: var(--admin-ink);
+  font-size: 13px;
+  font-weight: 600;
+}
+.admin-team-table small {
+  margin-top: 2px;
+  color: var(--admin-ashen);
+  font-size: 11px;
+}
+.admin-role-table {
+  min-width: 740px;
+}
+.admin-role-table th:nth-child(1) {
+  width: 22%;
+}
+.admin-role-table th:nth-child(2) {
+  width: 43%;
+}
+.admin-role-table th:nth-child(3) {
+  width: 12%;
+}
+.admin-role-table th:nth-child(4) {
+  width: 23%;
+}
+.admin-team-row-actions {
+  display: flex;
+  gap: 14px;
+}
+.admin-team-row-actions button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #2563eb;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  transition: var(--admin-motion-interactive-transition);
+}
+.admin-team-row-actions button:disabled {
+  color: var(--admin-pebble);
+  cursor: not-allowed;
+  text-decoration: none;
+}
+.admin-team-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  width: max-content;
+  max-width: 100%;
+  padding: 3px 9px;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 999px;
+  background: var(--admin-stone);
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.admin-team-badge > span {
+  flex: none;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--admin-pebble);
+}
+.admin-team-badge--positive {
+  border-color: #a7f3d0;
+  background: #ecfdf5;
+  color: #065f46;
+}
+.admin-team-badge--positive > span {
+  background: #10b981;
+}
+.admin-role-help {
+  margin: 0;
+  padding: 16px 20px;
+  color: var(--admin-ashen);
+  font-size: 12px;
+}
+.admin-team-notice {
+  margin: 0;
+  padding: 12px 16px;
+  border: 1px solid #a7f3d0;
+  border-radius: 8px;
+  background: #ecfdf5;
+  color: #065f46;
+}
+.admin-team-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 20px;
+  color: var(--admin-ashen);
+}
+.admin-team-dialog .admin-dialog__actions {
+  margin-top: 8px;
+}
+.admin-team-form {
+  display: grid;
+  gap: 16px;
+}
+.admin-team-form .admin-field select {
+  width: 100%;
+  height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--admin-mist);
+  border-radius: 8px;
+  background: var(--admin-paper);
+  color: var(--admin-ink);
+}
+.admin-team-form input:disabled {
+  color: var(--admin-ashen);
+}
+.admin-role-dialog {
+  width: min(760px, 100%);
+  max-height: min(880px, 100%);
+}
+.admin-role-permissions {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.admin-role-permissions legend {
+  margin-bottom: 12px;
+  color: var(--admin-ink);
+  font-weight: 600;
+}
+.admin-role-permission-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  max-height: 420px;
+  overflow-y: auto;
+  padding: 2px;
+}
+.admin-role-permission {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  min-height: 64px;
+  padding: 14px;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 10px;
+  background: var(--admin-paper);
+  cursor: pointer;
+  transition: var(--admin-motion-interactive-transition);
+}
+.admin-role-permission:hover {
+  border-color: var(--admin-mist);
+  background: var(--admin-stone);
+}
+.admin-role-permission:has(input:checked) {
+  border-color: #fdba74;
+  background: #fff7ed;
+}
+.admin-role-permission:has(input:disabled) {
+  cursor: default;
+}
+.admin-role-permission input {
+  flex: none;
+  width: 16px;
+  height: 16px;
+  margin: 2px 0 0;
+  accent-color: var(--admin-clay);
+}
+.admin-role-permission strong {
+  display: block;
+  color: var(--admin-ink);
+  font-size: 12px;
+  font-weight: 600;
+}
+.admin-role-permission small {
+  display: block;
+  margin-top: 4px;
+  color: var(--admin-ashen);
+  font-size: 11px;
+}
+.admin-permission-note {
+  margin: 0;
+  color: var(--admin-ashen);
+  font-size: 12px;
+}
+@media (max-width: 680px) {
+  .admin-team-toolbar {
+    flex-wrap: wrap;
+    padding: 16px;
+  }
+  .admin-team-toolbar .admin-team-search {
+    width: 100%;
+  }
+  .admin-team-tabs {
+    max-width: 100%;
+  }
+  .admin-team-tabs button {
+    padding: 0 10px !important;
+  }
+  .admin-role-permission-grid {
+    grid-template-columns: 1fr;
+  }
+  .admin-team-dialog {
+    padding: 20px;
+  }
+}

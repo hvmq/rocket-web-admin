@@ -1,0 +1,836 @@
+[
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Actor",
+    "vi": "Người thực hiện",
+    "en": "Actor",
+    "ko": "작업 관리자"
+  },
+  {
+    "source": "All actors",
+    "vi": "Tất cả quản trị viên",
+    "en": "All actors",
+    "ko": "전체 작업자"
+  },
+  {
+    "source": "Action",
+    "vi": "Hành động thực hiện",
+    "en": "Action",
+    "ko": "수행 작업"
+  },
+  {
+    "source": "All actions",
+    "vi": "Tất cả hành động",
+    "en": "All actions",
+    "ko": "전체 작업"
+  },
+  {
+    "source": "Approve profile",
+    "vi": "Duyệt hồ sơ",
+    "en": "Approve profile",
+    "ko": "프로필 승인"
+  },
+  {
+    "source": "Lock account",
+    "vi": "Khóa tài khoản",
+    "en": "Lock account",
+    "ko": "계정 잠금"
+  },
+  {
+    "source": "Resolve no-show",
+    "vi": "Resolve không-hiển thị",
+    "en": "Resolve no-show",
+    "ko": "Resolve 없음-표시"
+  },
+  {
+    "source": "Close complaint",
+    "vi": "Đóng khiếu nại",
+    "en": "Close complaint",
+    "ko": "민원 종결"
+  },
+  {
+    "source": "Hide review",
+    "vi": "Ẩn đánh giá",
+    "en": "Hide review",
+    "ko": "숨기기 검토"
+  },
+  {
+    "source": "Dismiss report",
+    "vi": "Dismiss báo cáo",
+    "en": "Dismiss report",
+    "ko": "Dismiss 신고"
+  },
+  {
+    "source": "Deactivate region",
+    "vi": "Vô hiệu hóa khu vực",
+    "en": "Deactivate region",
+    "ko": "지역 비활성화"
+  },
+  {
+    "source": "Schedule notification",
+    "vi": "Lịch thông báo",
+    "en": "Schedule notification",
+    "ko": "일정 알림"
+  },
+  {
+    "source": "Hide banner",
+    "vi": "Ẩn banner",
+    "en": "Hide banner",
+    "ko": "배너 숨기기"
+  },
+  {
+    "source": "Target type",
+    "vi": "Loại đối tượng bị báo cáo",
+    "en": "Target type",
+    "ko": "신고 대상 유형"
+  },
+  {
+    "source": "All targets",
+    "vi": "Tất cả đối tượng",
+    "en": "All targets",
+    "ko": "전체 대상"
+  },
+  {
+    "source": "Provider",
+    "vi": "Đối tác dịch vụ",
+    "en": "Provider",
+    "ko": "제공자 (파트너)"
+  },
+  {
+    "source": "Account",
+    "vi": "Tài khoản liên quan",
+    "en": "Account",
+    "ko": "해당 계정"
+  },
+  {
+    "source": "No-show",
+    "vi": "Không-hiển thị",
+    "en": "No-show",
+    "ko": "없음-표시"
+  },
+  {
+    "source": "Complaint",
+    "vi": "Khiếu nại dịch vụ",
+    "en": "Complaint",
+    "ko": "고객 민원 건"
+  },
+  {
+    "source": "Review",
+    "vi": "Xét duyệt",
+    "en": "Review",
+    "ko": "심사하기"
+  },
+  {
+    "source": "Report",
+    "vi": "Báo cáo",
+    "en": "Report",
+    "ko": "신고"
+  },
+  {
+    "source": "Region",
+    "vi": "Khu vực",
+    "en": "Region",
+    "ko": "지역"
+  },
+  {
+    "source": "Notification",
+    "vi": "Thông báo",
+    "en": "Notification",
+    "ko": "알림"
+  },
+  {
+    "source": "Banner",
+    "vi": "Banner",
+    "en": "Banner",
+    "ko": "배너"
+  },
+  {
+    "source": "From",
+    "vi": "Từ ngày",
+    "en": "From",
+    "ko": "시작일"
+  },
+  {
+    "source": "To",
+    "vi": "Đến ngày",
+    "en": "To",
+    "ko": "종료일"
+  },
+  {
+    "source": "Event time",
+    "vi": "Thời điểm ghi nhận",
+    "en": "Event time",
+    "ko": "발생 일시"
+  },
+  {
+    "source": "Admin actor",
+    "vi": "Quản trị viên thực hiện",
+    "en": "Admin actor",
+    "ko": "작업 관리자"
+  },
+  {
+    "source": "Target",
+    "vi": "Đối tượng bị báo cáo",
+    "en": "Target",
+    "ko": "신고 대상"
+  },
+  {
+    "source": "Before → After",
+    "vi": "Trạng thái: Trước → Sau",
+    "en": "Before → After",
+    "ko": "변경 전 → 변경 후"
+  },
+  {
+    "source": "Sep 25, 2026 · 09:42 ICT",
+    "vi": "Sep 25, 2026 · 09:42 ICT",
+    "en": "Sep 25, 2026 · 09:42 ICT",
+    "ko": "Sep 25, 2026 · 09:42 ICT"
+  },
+  {
+    "source": "PV-2039",
+    "vi": "PV-2039",
+    "en": "PV-2039",
+    "ko": "PV-2039"
+  },
+  {
+    "source": "Pending Review → Approved",
+    "vi": "Đang chờ đánh giá → đã duyệt",
+    "en": "Pending Review → Approved",
+    "ko": "대기 중 검토 → 승인됨"
+  },
+  {
+    "source": "View Event",
+    "vi": "Xem chi tiết sự kiện",
+    "en": "View Event",
+    "ko": "이벤트 상세"
+  },
+  {
+    "source": "Sep 24, 2026 · 17:10 ICT",
+    "vi": "Sep 24, 2026 · 17:10 ICT",
+    "en": "Sep 24, 2026 · 17:10 ICT",
+    "ko": "Sep 24, 2026 · 17:10 ICT"
+  },
+  {
+    "source": "alex-morgan",
+    "vi": "alex-morgan",
+    "en": "alex-morgan",
+    "ko": "alex-morgan"
+  },
+  {
+    "source": "Active → Locked",
+    "vi": "Đang hoạt động → bị khóa",
+    "en": "Active → Locked",
+    "ko": "활성 → 잠김"
+  },
+  {
+    "source": "Sep 24, 2026 · 15:56 ICT",
+    "vi": "Sep 24, 2026 · 15:56 ICT",
+    "en": "Sep 24, 2026 · 15:56 ICT",
+    "ko": "Sep 24, 2026 · 15:56 ICT"
+  },
+  {
+    "source": "NS-0721",
+    "vi": "NS-0721",
+    "en": "NS-0721",
+    "ko": "NS-0721"
+  },
+  {
+    "source": "Open → Resolved",
+    "vi": "Mở → đã giải quyết",
+    "en": "Open → Resolved",
+    "ko": "→ 해결됨 열기"
+  },
+  {
+    "source": "Sep 23, 2026 · 10:15 ICT",
+    "vi": "Sep 23, 2026 · 10:15 ICT",
+    "en": "Sep 23, 2026 · 10:15 ICT",
+    "ko": "Sep 23, 2026 · 10:15 ICT"
+  },
+  {
+    "source": "CP-3016",
+    "vi": "CP-3016",
+    "en": "CP-3016",
+    "ko": "CP-3016"
+  },
+  {
+    "source": "In Progress → Closed",
+    "vi": "Trong tiến trình → đã đóng",
+    "en": "In Progress → Closed",
+    "ko": "에서 진행 → 종료됨"
+  },
+  {
+    "source": "Sep 22, 2026 · 14:08 ICT",
+    "vi": "Sep 22, 2026 · 14:08 ICT",
+    "en": "Sep 22, 2026 · 14:08 ICT",
+    "ko": "Sep 22, 2026 · 14:08 ICT"
+  },
+  {
+    "source": "RV-6198",
+    "vi": "RV-6198",
+    "en": "RV-6198",
+    "ko": "RV-6198"
+  },
+  {
+    "source": "Visible → Hidden",
+    "vi": "Hiển thị → đã ẩn",
+    "en": "Visible → Hidden",
+    "ko": "표시됨 → 숨김"
+  },
+  {
+    "source": "Sep 22, 2026 · 11:27 ICT",
+    "vi": "Sep 22, 2026 · 11:27 ICT",
+    "en": "Sep 22, 2026 · 11:27 ICT",
+    "ko": "Sep 22, 2026 · 11:27 ICT"
+  },
+  {
+    "source": "RPT-4101",
+    "vi": "RPT-4101",
+    "en": "RPT-4101",
+    "ko": "RPT-4101"
+  },
+  {
+    "source": "Sep 21, 2026 · 13:40 ICT",
+    "vi": "Sep 21, 2026 · 13:40 ICT",
+    "en": "Sep 21, 2026 · 13:40 ICT",
+    "ko": "Sep 21, 2026 · 13:40 ICT"
+  },
+  {
+    "source": "anhai",
+    "vi": "anhai",
+    "en": "anhai",
+    "ko": "anhai"
+  },
+  {
+    "source": "Active → Inactive",
+    "vi": "Đang hoạt động → không hoạt động",
+    "en": "Active → Inactive",
+    "ko": "활성 → 비활성"
+  },
+  {
+    "source": "Sep 21, 2026 · 09:15 ICT",
+    "vi": "Sep 21, 2026 · 09:15 ICT",
+    "en": "Sep 21, 2026 · 09:15 ICT",
+    "ko": "Sep 21, 2026 · 09:15 ICT"
+  },
+  {
+    "source": "NT-2047",
+    "vi": "NT-2047",
+    "en": "NT-2047",
+    "ko": "NT-2047"
+  },
+  {
+    "source": "Draft → Scheduled",
+    "vi": "Bản nháp → Scheduled",
+    "en": "Draft → Scheduled",
+    "ko": "초안 → Scheduled"
+  },
+  {
+    "source": "Sep 20, 2026 · 16:05 ICT",
+    "vi": "Sep 20, 2026 · 16:05 ICT",
+    "en": "Sep 20, 2026 · 16:05 ICT",
+    "ko": "Sep 20, 2026 · 16:05 ICT"
+  },
+  {
+    "source": "BN-303",
+    "vi": "BN-303",
+    "en": "BN-303",
+    "ko": "BN-303"
+  },
+  {
+    "source": "Active → Hidden",
+    "vi": "Đang hoạt động → đã ẩn",
+    "en": "Active → Hidden",
+    "ko": "활성 → 숨김"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search audit events",
+    "vi": "Tìm kiếm sự kiện kiểm toán",
+    "en": "Search audit events",
+    "ko": "감사 이벤트 검색"
+  },
+  {
+    "source": "Search event or target reference",
+    "vi": "Tìm theo mã sự kiện hoặc đối tượng",
+    "en": "Search event or target reference",
+    "ko": "이벤트 번호 또는 대상 참조 검색"
+  },
+  {
+    "source": "Audit events",
+    "vi": "Sự kiện kiểm toán",
+    "en": "Audit events",
+    "ko": "감사 이벤트 내역"
+  },
+  {
+    "source": "AUD-7842",
+    "vi": "AUD-7842",
+    "en": "AUD-7842",
+    "ko": "AUD-7842"
+  },
+  {
+    "source": "Event details",
+    "vi": "Chi tiết sự kiện kiểm toán",
+    "en": "Event details",
+    "ko": "감사 이벤트 상세 정보"
+  },
+  {
+    "source": "Provider · PV-2039",
+    "vi": "Nhà cung cấp · PV-2039",
+    "en": "Provider · PV-2039",
+    "ko": "제공자 · PV-2039"
+  },
+  {
+    "source": "Decision reason",
+    "vi": "Căn cứ quyết định",
+    "en": "Decision reason",
+    "ko": "심사 결정 사유"
+  },
+  {
+    "source": "Submitted service details verified.",
+    "vi": "Đã gửi dịch vụ chi tiết đã xác minh.",
+    "en": "Submitted service details verified.",
+    "ko": "제출됨 서비스 상세 인증됨."
+  },
+  {
+    "source": "Before",
+    "vi": "Trạng thái trước",
+    "en": "Before",
+    "ko": "변경 전 상태"
+  },
+  {
+    "source": "Pending Review",
+    "vi": "Chờ xét duyệt",
+    "en": "Pending Review",
+    "ko": "심사 대기"
+  },
+  {
+    "source": "After",
+    "vi": "Trạng thái sau",
+    "en": "After",
+    "ko": "변경 후 상태"
+  },
+  {
+    "source": "Approved",
+    "vi": "Đã duyệt",
+    "en": "Approved",
+    "ko": "승인됨"
+  },
+  {
+    "source": "Notification request",
+    "vi": "Yêu cầu phát thông báo",
+    "en": "Notification request",
+    "ko": "알림 발송 요청 결과"
+  },
+  {
+    "source": "Send request accepted",
+    "vi": "Gửi yêu cầu đã chấp nhận",
+    "en": "Send request accepted",
+    "ko": "보내기 요청 수락됨"
+  },
+  {
+    "source": "Open Related Item",
+    "vi": "Mở bản ghi liên quan",
+    "en": "Open Related Item",
+    "ko": "관련 항목 바로가기"
+  },
+  {
+    "source": "Audit event details",
+    "vi": "Chi tiết sự kiện kiểm toán",
+    "en": "Audit event details",
+    "ko": "감사 이벤트 상세 정보"
+  },
+  {
+    "source": "Close event details",
+    "vi": "Đóng chi tiết sự kiện",
+    "en": "Close event details",
+    "ko": "이벤트 상세 닫기"
+  },
+  {
+    "source": "No Results Found",
+    "vi": "Không tìm thấy kết quả phù hợp",
+    "en": "No Results Found",
+    "ko": "검색 결과 없음"
+  },
+  {
+    "source": "No matching items in audit events. Your filters are preserved.",
+    "vi": "Không tìm thấy sự kiện kiểm toán phù hợp. Bộ lọc của bạn vẫn được giữ nguyên.",
+    "en": "No matching items in audit events. Your filters are preserved.",
+    "ko": "일치하는 감사 이벤트가 없습니다. 현재 필터가 유지됩니다."
+  },
+  {
+    "source": "Active filters: Search: no matching event",
+    "vi": "Bộ lọc đang áp dụng: Tìm kiếm: Không có sự kiện phù hợp",
+    "en": "Active filters: Search: no matching event",
+    "ko": "적용된 필터: 검색: 일치하는 이벤트 없음"
+  },
+  {
+    "source": "Clear Filters",
+    "vi": "Xóa bộ lọc",
+    "en": "Clear Filters",
+    "ko": "필터 초기화"
+  },
+  {
+    "source": "Unable to Load",
+    "vi": "Không thể tải dữ liệu",
+    "en": "Unable to Load",
+    "ko": "데이터를 불러올 수 없음"
+  },
+  {
+    "source": "We couldn't load audit events. No count or result has been verified.",
+    "vi": "Không thể tải danh sách sự kiện kiểm toán. Chưa thể xác minh số lượng và kết quả.",
+    "en": "We couldn't load audit events. No count or result has been verified.",
+    "ko": "감사 이벤트를 불러오지 못했습니다. 건수나 결과를 확인할 수 없습니다."
+  },
+  {
+    "source": "Try Again",
+    "vi": "Thử lại",
+    "en": "Try Again",
+    "ko": "다시 시도"
+  },
+  {
+    "source": "Action Unavailable",
+    "vi": "Thao tác không khả dụng",
+    "en": "Action Unavailable",
+    "ko": "작업 권한 없음 (사용 불가)"
+  },
+  {
+    "source": "Your access to audit events changed. Restricted details and actions have been removed.",
+    "vi": "Quyền truy cập sự kiện kiểm toán của bạn đã thay đổi. Các chi tiết và thao tác bị hạn chế đã được ẩn.",
+    "en": "Your access to audit events changed. Restricted details and actions have been removed.",
+    "ko": "감사 이벤트에 대한 접근 권한이 변경되었습니다. 제한된 세부 정보와 작업이 숨겨졌습니다."
+  },
+  {
+    "source": "Back to Dashboard",
+    "vi": "Về Bảng điều khiển",
+    "en": "Back to Dashboard",
+    "ko": "대시보드로 돌아가기"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  },
+  {
+    "en": "Search",
+    "vi": "Tìm kiếm",
+    "ko": "검색",
+    "source": "Search"
+  },
+  {
+    "en": "Active filters",
+    "vi": "Bộ lọc đang áp dụng",
+    "ko": "적용된 필터",
+    "source": "Active filters"
+  },
+  {
+    "en": "From date must be on or before To date.",
+    "vi": "Ngày bắt đầu phải trước hoặc bằng ngày kết thúc.",
+    "ko": "시작일은 종료일보다 이전이거나 같아야 합니다.",
+    "source": "From date must be on or before To date."
+  },
+  {
+    "en": "Loading audit events",
+    "vi": "Đang tải sự kiện kiểm toán",
+    "ko": "감사 이벤트 불러오는 중",
+    "source": "Loading audit events"
+  },
+  {
+    "en": "Loading audit events…",
+    "vi": "Đang tải sự kiện kiểm toán…",
+    "ko": "감사 이벤트 불러오는 중…",
+    "source": "Loading audit events…"
+  },
+  {
+    "en": "Nothing in This Queue",
+    "vi": "Chưa có sự kiện",
+    "ko": "이 목록에 항목이 없습니다",
+    "source": "Nothing in This Queue"
+  },
+  {
+    "en": "There is no work in audit events to review right now.",
+    "vi": "Hiện chưa có sự kiện kiểm toán để xem.",
+    "ko": "현재 확인할 감사 이벤트가 없습니다.",
+    "source": "There is no work in audit events to review right now."
+  },
+  {
+    "en": "Not applicable",
+    "vi": "Không áp dụng",
+    "ko": "해당 없음",
+    "source": "Not applicable"
+  },
+  {
+    "en": "Account policy violation confirmed.",
+    "vi": "Đã xác nhận vi phạm chính sách tài khoản.",
+    "ko": "계정 정책 위반이 확인되었습니다.",
+    "source": "Account policy violation confirmed."
+  },
+  {
+    "en": "Appointment evidence reviewed.",
+    "vi": "Đã xem xét bằng chứng lịch hẹn.",
+    "ko": "예약 관련 증거를 검토했습니다.",
+    "source": "Appointment evidence reviewed."
+  },
+  {
+    "en": "Complaint resolution confirmed.",
+    "vi": "Đã xác nhận kết quả giải quyết khiếu nại.",
+    "ko": "민원 해결 결과가 확인되었습니다.",
+    "source": "Complaint resolution confirmed."
+  },
+  {
+    "en": "Review policy violation confirmed.",
+    "vi": "Đã xác nhận đánh giá vi phạm chính sách.",
+    "ko": "리뷰 정책 위반이 확인되었습니다.",
+    "source": "Review policy violation confirmed."
+  },
+  {
+    "en": "Report evidence reviewed.",
+    "vi": "Đã xem xét bằng chứng báo cáo.",
+    "ko": "신고 관련 증거를 검토했습니다.",
+    "source": "Report evidence reviewed."
+  },
+  {
+    "en": "Region is no longer serviced.",
+    "vi": "Khu vực không còn được phục vụ.",
+    "ko": "해당 지역은 더 이상 서비스되지 않습니다.",
+    "source": "Region is no longer serviced."
+  },
+  {
+    "en": "Notification schedule confirmed.",
+    "vi": "Đã xác nhận lịch gửi thông báo.",
+    "ko": "알림 발송 일정이 확인되었습니다.",
+    "source": "Notification schedule confirmed."
+  },
+  {
+    "en": "Banner campaign ended.",
+    "vi": "Chiến dịch banner đã kết thúc.",
+    "ko": "배너 캠페인이 종료되었습니다.",
+    "source": "Banner campaign ended."
+  },
+  {
+    "en": "Open",
+    "vi": "Mở",
+    "source": "Open",
+    "ko": "진행 중"
+  },
+  {
+    "en": "Resolved",
+    "vi": "Đã giải quyết",
+    "source": "Resolved",
+    "ko": "해결됨"
+  },
+  {
+    "en": "In Progress",
+    "vi": "Đang xử lý",
+    "source": "In Progress",
+    "ko": "처리 중"
+  },
+  {
+    "en": "Closed",
+    "vi": "Đã đóng",
+    "source": "Closed",
+    "ko": "종료됨"
+  },
+  {
+    "en": "Visible",
+    "vi": "Hiển thị",
+    "source": "Visible",
+    "ko": "표시됨"
+  },
+  {
+    "en": "Hidden",
+    "vi": "Đã ẩn",
+    "source": "Hidden",
+    "ko": "숨김"
+  },
+  {
+    "en": "Inactive",
+    "vi": "Không hoạt động",
+    "source": "Inactive",
+    "ko": "비활성"
+  },
+  {
+    "en": "Draft",
+    "vi": "Bản nháp",
+    "source": "Draft",
+    "ko": "초안"
+  },
+  {
+    "en": "Scheduled",
+    "vi": "Đã lên lịch",
+    "source": "Scheduled",
+    "ko": "예약됨"
+  }
+]

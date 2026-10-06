@@ -1,0 +1,746 @@
+[
+  {
+    "source": "Complaints & Disputes",
+    "vi": "Quản lý khiếu nại & Tranh chấp",
+    "en": "Complaints & Disputes",
+    "ko": "고객 민원 및 분쟁 접수"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "New",
+    "vi": "Mới",
+    "en": "New",
+    "ko": "신규"
+  },
+  {
+    "source": "In Progress",
+    "vi": "Đang xử lý",
+    "en": "In Progress",
+    "ko": "처리 중"
+  },
+  {
+    "source": "Closed",
+    "vi": "Đã đóng",
+    "en": "Closed",
+    "ko": "종료됨"
+  },
+  {
+    "source": "Date",
+    "vi": "Ngày",
+    "en": "Date",
+    "ko": "일자"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Issue type",
+    "vi": "Loại vấn đề",
+    "en": "Issue type",
+    "ko": "문제 유형"
+  },
+  {
+    "source": "All configured types",
+    "vi": "Tất cả loại vấn đề đã cấu hình",
+    "en": "All configured types",
+    "ko": "전체 설정된 민원 유형"
+  },
+  {
+    "source": "Service details",
+    "vi": "Chi tiết dịch vụ",
+    "en": "Service details",
+    "ko": "서비스 항목 관련"
+  },
+  {
+    "source": "Communication",
+    "vi": "Giao tiếp & Ứng xử",
+    "en": "Communication",
+    "ko": "소통 및 응대 관련"
+  },
+  {
+    "source": "Service experience",
+    "vi": "Trải nghiệm dịch vụ",
+    "en": "Service experience",
+    "ko": "이용 경험 및 품질"
+  },
+  {
+    "source": "Assignee",
+    "vi": "Người phụ trách",
+    "en": "Assignee",
+    "ko": "담당자"
+  },
+  {
+    "source": "All assignees",
+    "vi": "Tất cả người phụ trách",
+    "en": "All assignees",
+    "ko": "전체 담당자"
+  },
+  {
+    "source": "Unassigned",
+    "vi": "Chưa phân công",
+    "en": "Unassigned",
+    "ko": "담당자 미배정"
+  },
+  {
+    "source": "Case",
+    "vi": "Vụ việc",
+    "en": "Case",
+    "ko": "안건"
+  },
+  {
+    "source": "Complainant",
+    "vi": "Người gửi khiếu nại",
+    "en": "Complainant",
+    "ko": "민원 신청인"
+  },
+  {
+    "source": "Linked booking",
+    "vi": "Lịch hẹn liên kết",
+    "en": "Linked booking",
+    "ko": "연계 예약"
+  },
+  {
+    "source": "State",
+    "vi": "Trạng thái",
+    "en": "State",
+    "ko": "게시 상태"
+  },
+  {
+    "source": "Last update",
+    "vi": "Cập nhật lần cuối",
+    "en": "Last update",
+    "ko": "최종 변경일"
+  },
+  {
+    "source": "CP-3018",
+    "vi": "CP-3018",
+    "en": "CP-3018",
+    "ko": "CP-3018"
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "BK-48291",
+    "vi": "BK-48291",
+    "en": "BK-48291",
+    "ko": "BK-48291"
+  },
+  {
+    "source": "Sep 24 · 4:08 PM ICT",
+    "vi": "Sep 24 · 4:08 PM ICT",
+    "en": "Sep 24 · 4:08 PM ICT",
+    "ko": "Sep 24 · 4:08 PM ICT"
+  },
+  {
+    "source": "Review",
+    "vi": "Xét duyệt",
+    "en": "Review",
+    "ko": "심사하기"
+  },
+  {
+    "source": "CP-3018 · BK-48291",
+    "vi": "CP-3018 · BK-48291",
+    "en": "CP-3018 · BK-48291",
+    "ko": "CP-3018 · BK-48291"
+  },
+  {
+    "source": "Jamie Rivera · Service details",
+    "vi": "Jamie Rivera · dịch vụ chi tiết",
+    "en": "Jamie Rivera · Service details",
+    "ko": "Jamie Rivera · 서비스 상세"
+  },
+  {
+    "source": "Case state",
+    "vi": "Tình trạng vụ việc",
+    "en": "Case state",
+    "ko": "안건 상태"
+  },
+  {
+    "source": "Assigned Admin",
+    "vi": "Quản trị viên phụ trách",
+    "en": "Assigned Admin",
+    "ko": "담당 관리자"
+  },
+  {
+    "source": "Submission",
+    "vi": "Nội dung phản ánh",
+    "en": "Submission",
+    "ko": "신청 내용"
+  },
+  {
+    "source": "The session description changed after I booked. I want the original booking details reviewed.",
+    "vi": "Phiên mô tả đã thay đổi sau I booked. I muốn bản gốc đặt lịch chi tiết đã xem xét.",
+    "en": "The session description changed after I booked. I want the original booking details reviewed.",
+    "ko": "세션 설명 변경됨 후 I booked. I 원함 원본 예약 상세 검토됨."
+  },
+  {
+    "source": "booking-snapshot.png",
+    "vi": "booking-snapshot.png",
+    "en": "booking-snapshot.png",
+    "ko": "booking-snapshot.png"
+  },
+  {
+    "source": "permission granted",
+    "vi": "Đã cấp quyền xem",
+    "en": "permission granted",
+    "ko": "열람 권한 승인됨"
+  },
+  {
+    "source": "View Booking BK-48291",
+    "vi": "Xem lịch hẹn BK-48291",
+    "en": "View Booking BK-48291",
+    "ko": "예약 내역 조회 (BK-48291)"
+  },
+  {
+    "source": "Related context",
+    "vi": "Ngữ cảnh liên quan",
+    "en": "Related context",
+    "ko": "연계 맥락 정보"
+  },
+  {
+    "source": "Booking",
+    "vi": "Lịch hẹn",
+    "en": "Booking",
+    "ko": "예약"
+  },
+  {
+    "source": "Other party",
+    "vi": "Bên còn lại",
+    "en": "Other party",
+    "ko": "상대 당사자"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "Messages to Complainant",
+    "vi": "Thông điệp gửi người khiếu nại",
+    "en": "Messages to Complainant",
+    "ko": "민원인 발송 메시지"
+  },
+  {
+    "source": "Visible externally",
+    "vi": "Hiển thị công khai cho người dùng",
+    "en": "Visible externally",
+    "ko": "외부 사용자 열람 가능"
+  },
+  {
+    "source": "Complaint received · Sep 24, 4:08 PM ICT",
+    "vi": "Khiếu nại đã nhận · Sep 24, 4:08 PM ICT",
+    "en": "Complaint received · Sep 24, 4:08 PM ICT",
+    "ko": "불만 수신됨 · Sep 24, 4:08 PM ICT"
+  },
+  {
+    "source": "Activity Timeline",
+    "vi": "Lịch sử hoạt động vụ việc",
+    "en": "Activity Timeline",
+    "ko": "활동 타임라인"
+  },
+  {
+    "source": "Complaint submitted · Jamie Rivera",
+    "vi": "Khiếu nại đã gửi · Jamie Rivera",
+    "en": "Complaint submitted · Jamie Rivera",
+    "ko": "불만 제출됨 · Jamie Rivera"
+  },
+  {
+    "source": "Latest activity",
+    "vi": "Hoạt động mới nhất",
+    "en": "Latest activity",
+    "ko": "최근 활동"
+  },
+  {
+    "source": "Evidence retained while case is open",
+    "vi": "Bằng chứng được lưu giữ khi hồ sơ khiếu nại đang mở",
+    "en": "Evidence retained while case is open",
+    "ko": "안건이 진행 중인 동안 증거가 보관됩니다"
+  },
+  {
+    "source": "Recorded in case history",
+    "vi": "Đã ghi trong lịch sử hồ sơ",
+    "en": "Recorded in case history",
+    "ko": "사례 이력에 기록됨"
+  },
+  {
+    "source": "Start Review",
+    "vi": "Tiếp nhận xử lý",
+    "en": "Start Review",
+    "ko": "민원 검토 시작"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search case, person or booking",
+    "vi": "Tìm theo mã khiếu nại, tên người dùng hoặc lịch hẹn",
+    "en": "Search case, person or booking",
+    "ko": "민원 번호, 회원명 또는 예약 번호 검색"
+  },
+  {
+    "source": "CP-3017",
+    "vi": "CP-3017",
+    "en": "CP-3017",
+    "ko": "CP-3017"
+  },
+  {
+    "source": "Anh Pham",
+    "vi": "Anh Pham",
+    "en": "Anh Pham",
+    "ko": "Anh Pham"
+  },
+  {
+    "source": "BK-48284",
+    "vi": "BK-48284",
+    "en": "BK-48284",
+    "ko": "BK-48284"
+  },
+  {
+    "source": "Sep 24 · 1:22 PM ICT",
+    "vi": "Sep 24 · 1:22 PM ICT",
+    "en": "Sep 24 · 1:22 PM ICT",
+    "ko": "Sep 24 · 1:22 PM ICT"
+  },
+  {
+    "source": "CP-3017 · BK-48284",
+    "vi": "CP-3017 · BK-48284",
+    "en": "CP-3017 · BK-48284",
+    "ko": "CP-3017 · BK-48284"
+  },
+  {
+    "source": "Anh Pham · Communication",
+    "vi": "Anh Pham · Kênh liên lạc",
+    "en": "Anh Pham · Communication",
+    "ko": "Anh Pham · 소통 방식"
+  },
+  {
+    "source": "I need clarification about messages sent before the booking.",
+    "vi": "I cần clarification về tin nhắn đã gửi trước đặt lịch.",
+    "en": "I need clarification about messages sent before the booking.",
+    "ko": "I 필요 clarification 정보 메시지 전송됨 전에 예약."
+  },
+  {
+    "source": "Chat excerpt",
+    "vi": "Trò chuyện excerpt",
+    "en": "Chat excerpt",
+    "ko": "채팅 excerpt"
+  },
+  {
+    "source": "View Booking BK-48284",
+    "vi": "Xem lịch hẹn BK-48284",
+    "en": "View Booking BK-48284",
+    "ko": "예약 내역 조회 (BK-48284)"
+  },
+  {
+    "source": "Lotus Wellness",
+    "vi": "Lotus Wellness",
+    "en": "Lotus Wellness",
+    "ko": "Lotus Wellness"
+  },
+  {
+    "source": "Review started · Sep 24, 1:22 PM ICT",
+    "vi": "Đánh giá đã bắt đầu · Sep 24, 1:22 PM ICT",
+    "en": "Review started · Sep 24, 1:22 PM ICT",
+    "ko": "검토 시작됨 · Sep 24, 1:22 PM ICT"
+  },
+  {
+    "source": "Complaint submitted · Anh Pham",
+    "vi": "Khiếu nại đã gửi · Anh Pham",
+    "en": "Complaint submitted · Anh Pham",
+    "ko": "불만 제출됨 · Anh Pham"
+  },
+  {
+    "source": "Review started · Ava Morgan",
+    "vi": "Đánh giá đã bắt đầu · Ava Morgan",
+    "en": "Review started · Ava Morgan",
+    "ko": "검토 시작됨 · Ava Morgan"
+  },
+  {
+    "source": "Request More Information",
+    "vi": "Yêu cầu bổ sung thông tin",
+    "en": "Request More Information",
+    "ko": "추가 확인 정보 요청"
+  },
+  {
+    "source": "Close Complaint",
+    "vi": "Đóng hồ sơ khiếu nại",
+    "en": "Close Complaint",
+    "ko": "민원 처리 종결"
+  },
+  {
+    "source": "CP-3017 · complainant-visible message",
+    "vi": "CP-3017 · complainant-hiển thị tin nhắn",
+    "en": "CP-3017 · complainant-visible message",
+    "ko": "CP-3017 · complainant-표시됨 메시지"
+  },
+  {
+    "source": "Request More Information?",
+    "vi": "Yêu cầu bổ sung thêm thông tin?",
+    "en": "Request More Information?",
+    "ko": "추가 정보를 요청하시겠습니까?"
+  },
+  {
+    "source": "The question is sent to the complainant and their response will append to this same case timeline.",
+    "vi": "Câu hỏi sẽ được gửi đến người khiếu nại và phản hồi của họ sẽ được ghi tiếp vào dòng thời gian vụ việc này.",
+    "en": "The question is sent to the complainant and their response will append to this same case timeline.",
+    "ko": "민원인에게 문의가 전송되며, 답변 내용은 동일한 안건 타임라인에 누적 기록됩니다."
+  },
+  {
+    "source": "Question to complainant",
+    "vi": "Câu hỏi gửi người khiếu nại",
+    "en": "Question to complainant",
+    "ko": "민원인 문의 사항"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "Message preview",
+    "vi": "Xem trước thông điệp",
+    "en": "Message preview",
+    "ko": "발송 메시지 미리보기"
+  },
+  {
+    "source": "The complainant will be notified and can open CP-3017.",
+    "vi": "Complainant sẽ được notified và có thể mở CP-3017.",
+    "en": "The complainant will be notified and can open CP-3017.",
+    "ko": "Complainant 예정 됩니다 notified 및 가능 열기 CP-3017."
+  },
+  {
+    "source": "Go Back",
+    "vi": "Quay lại",
+    "en": "Go Back",
+    "ko": "돌아가기"
+  },
+  {
+    "source": "Send Request",
+    "vi": "Gửi yêu cầu",
+    "en": "Send Request",
+    "ko": "요청 발송"
+  },
+  {
+    "source": "Close Complaint?",
+    "vi": "Đóng hồ sơ khiếu nại này?",
+    "en": "Close Complaint?",
+    "ko": "해당 민원을 종결 처리하시겠습니까?"
+  },
+  {
+    "source": "The outcome is visible to the complainant. Closing this complaint does not change the linked booking status or create a financial remedy.",
+    "vi": "Kết quả giải quyết sẽ hiển thị cho người khiếu nại. Thao tác đóng khiếu nại không tự động thay đổi trạng thái lịch hẹn hoặc tạo lệnh bồi hoàn.",
+    "en": "The outcome is visible to the complainant. Closing this complaint does not change the linked booking status or create a financial remedy.",
+    "ko": "최종 처리 결과가 민원인에게 안내됩니다. 민원 종결 처리만으로 관련 예약 상태가 변경되거나 환불이 발생하지는 않습니다."
+  },
+  {
+    "source": "User-visible outcome",
+    "vi": "Kết quả thông báo cho người khiếu nại",
+    "en": "User-visible outcome",
+    "ko": "민원인 안내 결과 문구"
+  },
+  {
+    "source": "Confirm Close",
+    "vi": "Xác nhận đóng khiếu nại",
+    "en": "Confirm Close",
+    "ko": "민원 종결 확정"
+  },
+  {
+    "source": "Record changed",
+    "vi": "Dữ liệu bản ghi đã thay đổi",
+    "en": "Record changed",
+    "ko": "데이터 변경 감지"
+  },
+  {
+    "source": "This complaint changed after it was opened. Reload before making a case decision.",
+    "vi": "Hồ sơ khiếu nại này đã thay đổi sau khi mở. Vui lòng tải lại trước khi ra quyết định.",
+    "en": "This complaint changed after it was opened. Reload before making a case decision.",
+    "ko": "열람 후 민원 내용이 변경되었습니다. 안건 결정 전에 다시 불러오세요."
+  },
+  {
+    "source": "Reload Details",
+    "vi": "Tải lại chi tiết",
+    "en": "Reload Details",
+    "ko": "최신 정보 새로고침"
+  },
+  {
+    "source": "CP-3016",
+    "vi": "CP-3016",
+    "en": "CP-3016",
+    "ko": "CP-3016"
+  },
+  {
+    "source": "Priya Shah",
+    "vi": "Priya Shah",
+    "en": "Priya Shah",
+    "ko": "Priya Shah"
+  },
+  {
+    "source": "BK-48263",
+    "vi": "BK-48263",
+    "en": "BK-48263",
+    "ko": "BK-48263"
+  },
+  {
+    "source": "Sep 23 · 10:15 AM ICT",
+    "vi": "Sep 23 · 10:15 AM ICT",
+    "en": "Sep 23 · 10:15 AM ICT",
+    "ko": "Sep 23 · 10:15 AM ICT"
+  },
+  {
+    "source": "CP-3016 · BK-48263",
+    "vi": "CP-3016 · BK-48263",
+    "en": "CP-3016 · BK-48263",
+    "ko": "CP-3016 · BK-48263"
+  },
+  {
+    "source": "Priya Shah · Service experience",
+    "vi": "Priya Shah · dịch vụ trải nghiệm",
+    "en": "Priya Shah · Service experience",
+    "ko": "Priya Shah · 서비스 경험"
+  },
+  {
+    "source": "I asked the review team to document a concern about the completed service.",
+    "vi": "I asked đánh giá đội ngũ đến tài liệu một concern về đã hoàn thành dịch vụ.",
+    "en": "I asked the review team to document a concern about the completed service.",
+    "ko": "I asked 검토 팀 문서 하나의 concern 정보 완료됨 서비스."
+  },
+  {
+    "source": "No evidence was submitted.",
+    "vi": "Không có chứng cứ nào được nộp.",
+    "en": "No evidence was submitted.",
+    "ko": "제출된 증거 자료가 없습니다."
+  },
+  {
+    "source": "View Booking BK-48263",
+    "vi": "Xem lịch hẹn BK-48263",
+    "en": "View Booking BK-48263",
+    "ko": "예약 내역 조회 (BK-48263)"
+  },
+  {
+    "source": "River Spa Studio",
+    "vi": "River Spa Studio",
+    "en": "River Spa Studio",
+    "ko": "River Spa Studio"
+  },
+  {
+    "source": "Outcome: The concern was reviewed and documented. · Sep 23, 10:15 AM ICT",
+    "vi": "Kết quả: concern đã đã xem xét và documented. · Sep 23, 10:15 AM ICT",
+    "en": "Outcome: The concern was reviewed and documented. · Sep 23, 10:15 AM ICT",
+    "ko": "결과: concern 이었음 검토됨 및 documented. · Sep 23, 10:15 AM ICT"
+  },
+  {
+    "source": "Complaint submitted",
+    "vi": "Khiếu nại đã gửi",
+    "en": "Complaint submitted",
+    "ko": "불만 제출됨"
+  },
+  {
+    "source": "Review started",
+    "vi": "Đánh giá đã bắt đầu",
+    "en": "Review started",
+    "ko": "검토 시작됨"
+  },
+  {
+    "source": "Complaint closed · Complainant notified",
+    "vi": "Khiếu nại đã đóng · Complainant notified",
+    "en": "Complaint closed · Complainant notified",
+    "ko": "불만 종료됨 · Complainant notified"
+  },
+  {
+    "source": "Closed complaints are read-only.",
+    "vi": "Các khiếu nại đã đóng chuyển sang chế độ chỉ đọc.",
+    "en": "Closed complaints are read-only.",
+    "ko": "종결된 민원은 읽기 전용으로 보관됩니다."
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "source": "Reports Inbox & Case Detail",
+    "vi": "Hộp thư báo cáo & Chi tiết vụ việc",
+    "en": "Reports Inbox & Case Detail",
+    "ko": "신고 접수함 및 상세 처리"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Reports Inbox",
+    "vi": "Hộp thư báo cáo vi phạm",
+    "en": "Reports Inbox",
+    "ko": "신고 접수함"
+  },
+  {
+    "source": "Open reports",
+    "vi": "Báo cáo đang mở",
+    "en": "Open reports",
+    "ko": "미결 신고 건"
+  },
+  {
+    "source": "3 require review",
+    "vi": "3 require đánh giá",
+    "en": "3 require review",
+    "ko": "3 require 검토"
+  },
+  {
+    "source": "Target type",
+    "vi": "Loại đối tượng bị báo cáo",
+    "en": "Target type",
+    "ko": "신고 대상 유형"
+  },
+  {
+    "source": "All target types",
+    "vi": "Tất cả loại đối tượng",
+    "en": "All target types",
+    "ko": "전체 대상 유형"
+  },
+  {
+    "source": "User",
+    "vi": "Người dùng",
+    "en": "User",
+    "ko": "사용자"
+  },
+  {
+    "source": "Provider",
+    "vi": "Đối tác dịch vụ",
+    "en": "Provider",
+    "ko": "제공자 (파트너)"
+  },
+  {
+    "source": "Photo",
+    "vi": "Hình ảnh",
+    "en": "Photo",
+    "ko": "사진"
+  },
+  {
+    "source": "Chat Message",
+    "vi": "Tin nhắn trò chuyện",
+    "en": "Chat Message",
+    "ko": "채팅 메시지"
+  },
+  {
+    "source": "Handling status",
+    "vi": "Tình trạng xử lý",
+    "en": "Handling status",
+    "ko": "처리 상태"
+  },
+  {
+    "source": "All statuses",
+    "vi": "Tất cả trạng thái",
+    "en": "All statuses",
+    "ko": "전체 상태"
+  },
+  {
+    "source": "Open",
+    "vi": "Mở",
+    "en": "Open",
+    "ko": "열기"
+  },
+  {
+    "source": "Resolved",
+    "vi": "Đã giải quyết",
+    "en": "Resolved",
+    "ko": "해결됨"
+  },
+  {
+    "source": "Submitted",
+    "vi": "Thời điểm nộp",
+    "en": "Submitted",
+    "ko": "제출 일시"
+  },
+  {
+    "source": "Today",
+    "vi": "Hôm nay",
+    "en": "Today",
+    "ko": "오늘"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "Report",
+    "vi": "Báo cáo",
+    "en": "Report",
+    "ko": "신고"
+  },
+  {
+    "source": "Reporter",
+    "vi": "Người báo cáo",
+    "en": "Reporter",
+    "ko": "신고자"
+  },
+  {
+    "source": "Target",
+    "vi": "Đối tượng bị báo cáo",
+    "en": "Target",
+    "ko": "신고 대상"
+  },
+  {
+    "source": "Reason",
+    "vi": "Căn cứ / Lý do",
+    "en": "Reason",
+    "ko": "사유"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "RPT-4108",
+    "vi": "RPT-4108",
+    "en": "RPT-4108",
+    "ko": "RPT-4108"
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "Misleading Information",
+    "vi": "Thông tin sai lệch",
+    "en": "Misleading Information",
+    "ko": "허위 또는 오해 소지 정보"
+  },
+  {
+    "source": "Sep 25, 2026 · 9:42 AM ICT",
+    "vi": "Sep 25, 2026 · 9:42 AM ICT",
+    "en": "Sep 25, 2026 · 9:42 AM ICT",
+    "ko": "Sep 25, 2026 · 9:42 AM ICT"
+  },
+  {
+    "source": "Review",
+    "vi": "Xét duyệt",
+    "en": "Review",
+    "ko": "심사하기"
+  },
+  {
+    "source": "RPT-4107",
+    "vi": "RPT-4107",
+    "en": "RPT-4107",
+    "ko": "RPT-4107"
+  },
+  {
+    "source": "Anh Pham",
+    "vi": "Anh Pham",
+    "en": "Anh Pham",
+    "ko": "Anh Pham"
+  },
+  {
+    "source": "Lotus Wellness · Gallery photo",
+    "vi": "Lotus Wellness · thư viện ảnh ảnh",
+    "en": "Lotus Wellness · Gallery photo",
+    "ko": "Lotus Wellness · 갤러리 사진"
+  },
+  {
+    "source": "Inappropriate Content",
+    "vi": "Nội dung không phù hợp",
+    "en": "Inappropriate Content",
+    "ko": "부적절한 유해 콘텐츠"
+  },
+  {
+    "source": "Sep 24, 2026 · 5:18 PM ICT",
+    "vi": "Sep 24, 2026 · 5:18 PM ICT",
+    "en": "Sep 24, 2026 · 5:18 PM ICT",
+    "ko": "Sep 24, 2026 · 5:18 PM ICT"
+  },
+  {
+    "source": "RPT-4106",
+    "vi": "RPT-4106",
+    "en": "RPT-4106",
+    "ko": "RPT-4106"
+  },
+  {
+    "source": "Message from Jamie Rivera",
+    "vi": "Tin nhắn từ Jamie Rivera",
+    "en": "Message from Jamie Rivera",
+    "ko": "메시지 에서 Jamie Rivera"
+  },
+  {
+    "source": "Harassment",
+    "vi": "Hành vi quấy rối",
+    "en": "Harassment",
+    "ko": "괴롭힘 / 불쾌감 조성"
+  },
+  {
+    "source": "Sep 24, 2026 · 3:36 PM ICT",
+    "vi": "Sep 24, 2026 · 3:36 PM ICT",
+    "en": "Sep 24, 2026 · 3:36 PM ICT",
+    "ko": "Sep 24, 2026 · 3:36 PM ICT"
+  },
+  {
+    "source": "RPT-4101",
+    "vi": "RPT-4101",
+    "en": "RPT-4101",
+    "ko": "RPT-4101"
+  },
+  {
+    "source": "Linh Nguyen",
+    "vi": "Linh Nguyen",
+    "en": "Linh Nguyen",
+    "ko": "Linh Nguyen"
+  },
+  {
+    "source": "Alex Morgan",
+    "vi": "Alex Morgan",
+    "en": "Alex Morgan",
+    "ko": "Alex Morgan"
+  },
+  {
+    "source": "Sep 21, 2026 · 11:10 AM ICT",
+    "vi": "Sep 21, 2026 · 11:10 AM ICT",
+    "en": "Sep 21, 2026 · 11:10 AM ICT",
+    "ko": "Sep 21, 2026 · 11:10 AM ICT"
+  },
+  {
+    "source": "RPT-4108 · Provider",
+    "vi": "RPT-4108 · nhà cung cấp",
+    "en": "RPT-4108 · Provider",
+    "ko": "RPT-4108 · 제공자"
+  },
+  {
+    "source": "Reported by Jamie Rivera · Sep 25, 2026 · 9:42 AM ICT",
+    "vi": "Báo cáo bởi Jamie Rivera · Sep 25, 2026 · 9:42 AM ICT",
+    "en": "Reported by Jamie Rivera · Sep 25, 2026 · 9:42 AM ICT",
+    "ko": "신고자: Jamie Rivera · Sep 25, 2026 · 9:42 AM ICT"
+  },
+  {
+    "source": "Target current state",
+    "vi": "Trạng thái hiện tại của đối tượng",
+    "en": "Target current state",
+    "ko": "대상 현재 상태"
+  },
+  {
+    "source": "Account Active · Profile Approved · Public",
+    "vi": "Tài khoản đang hoạt động · hồ sơ đã duyệt · công khai",
+    "en": "Account Active · Profile Approved · Public",
+    "ko": "계정 활성 · 프로필 승인됨 · 공개"
+  },
+  {
+    "source": "Original report",
+    "vi": "Nội dung báo cáo gốc",
+    "en": "Original report",
+    "ko": "신고 접수 원문"
+  },
+  {
+    "source": "The public profile lists experience that did not match the accepted booking conversation.",
+    "vi": "Hồ sơ công khai hiển thị kinh nghiệm không khớp với nội dung trao đổi khi đặt lịch.",
+    "en": "The public profile lists experience that did not match the accepted booking conversation.",
+    "ko": "공개 프로필에 기재된 경력이 수락된 예약 대화 내용과 일치하지 않습니다."
+  },
+  {
+    "source": "Submitted evidence",
+    "vi": "Chứng cứ người dùng đã nộp",
+    "en": "Submitted evidence",
+    "ko": "제출된 증빙 자료"
+  },
+  {
+    "source": "Restricted",
+    "vi": "Bảo mật",
+    "en": "Restricted",
+    "ko": "제한됨"
+  },
+  {
+    "source": "profile-capture.png",
+    "vi": "profile-capture.png",
+    "en": "profile-capture.png",
+    "ko": "profile-capture.png"
+  },
+  {
+    "source": "restricted",
+    "vi": "bảo mật",
+    "en": "restricted",
+    "ko": "제한됨"
+  },
+  {
+    "source": "Booking message excerpt",
+    "vi": "Đặt lịch tin nhắn excerpt",
+    "en": "Booking message excerpt",
+    "ko": "예약 메시지 excerpt"
+  },
+  {
+    "source": "View Booking BK-48291",
+    "vi": "Xem lịch hẹn BK-48291",
+    "en": "View Booking BK-48291",
+    "ko": "예약 내역 조회 (BK-48291)"
+  },
+  {
+    "source": "Linked context",
+    "vi": "Ngữ cảnh liên kết",
+    "en": "Linked context",
+    "ko": "연계 정보"
+  },
+  {
+    "source": "Linked booking",
+    "vi": "Lịch hẹn liên kết",
+    "en": "Linked booking",
+    "ko": "연계 예약"
+  },
+  {
+    "source": "BK-48291",
+    "vi": "BK-48291",
+    "en": "BK-48291",
+    "ko": "BK-48291"
+  },
+  {
+    "source": "Current classification",
+    "vi": "Phân loại hiện tại",
+    "en": "Current classification",
+    "ko": "현재 위반 분류"
+  },
+  {
+    "source": "Not yet classified",
+    "vi": "Chưa phân loại",
+    "en": "Not yet classified",
+    "ko": "미분류"
+  },
+  {
+    "source": "View Target Account",
+    "vi": "Xem Target tài khoản",
+    "en": "View Target Account",
+    "ko": "보기 Target 계정"
+  },
+  {
+    "source": "Case routing",
+    "vi": "Phân loại & Phân công vụ việc",
+    "en": "Case routing",
+    "ko": "안건 분류 및 담당자 배정"
+  },
+  {
+    "source": "Classification",
+    "vi": "Phân loại vi phạm",
+    "en": "Classification",
+    "ko": "위반 행위 분류"
+  },
+  {
+    "source": "Assigned Admin",
+    "vi": "Quản trị viên phụ trách",
+    "en": "Assigned Admin",
+    "ko": "담당 관리자"
+  },
+  {
+    "source": "Unassigned",
+    "vi": "Chưa phân công",
+    "en": "Unassigned",
+    "ko": "담당자 미배정"
+  },
+  {
+    "source": "Private Admin Notes",
+    "vi": "Ghi chú nội bộ quản trị",
+    "en": "Private Admin Notes",
+    "ko": "관리자 전용 내부 메모"
+  },
+  {
+    "source": "Never visible to users",
+    "vi": "Tuyệt đối không hiển thị cho người dùng",
+    "en": "Never visible to users",
+    "ko": "일반 사용자에게 절대 비공개"
+  },
+  {
+    "source": "Compare the public profile snapshot with the accepted booking snapshot.",
+    "vi": "Đối chiếu bản chụp hồ sơ công khai với bản chụp lịch hẹn đã chấp nhận.",
+    "en": "Compare the public profile snapshot with the accepted booking snapshot.",
+    "ko": "공개 프로필 스냅샷과 확정된 예약 스냅샷을 비교하세요."
+  },
+  {
+    "source": "Save Note",
+    "vi": "Lưu ghi chú nội bộ",
+    "en": "Save Note",
+    "ko": "내부 메모 저장"
+  },
+  {
+    "source": "Handling timeline",
+    "vi": "Lịch sử tiến trình xử lý",
+    "en": "Handling timeline",
+    "ko": "처리 진행 타임라인"
+  },
+  {
+    "source": "Report received · Jamie Rivera",
+    "vi": "Báo cáo đã nhận · Jamie Rivera",
+    "en": "Report received · Jamie Rivera",
+    "ko": "신고 수신됨 · Jamie Rivera"
+  },
+  {
+    "source": "Latest activity",
+    "vi": "Hoạt động mới nhất",
+    "en": "Latest activity",
+    "ko": "최근 활동"
+  },
+  {
+    "source": "Evidence retained for open case",
+    "vi": "Bằng chứng được lưu giữ cho hồ sơ đang mở",
+    "en": "Evidence retained for open case",
+    "ko": "진행 중인 안건의 증거 보관 중"
+  },
+  {
+    "source": "Recorded in case history",
+    "vi": "Đã ghi trong lịch sử hồ sơ",
+    "en": "Recorded in case history",
+    "ko": "사례 이력에 기록됨"
+  },
+  {
+    "source": "Assigned to Ava Morgan",
+    "vi": "Đã phân công cho Ava Morgan",
+    "en": "Assigned to Ava Morgan",
+    "ko": "Ava Morgan에게 배정됨"
+  },
+  {
+    "source": "Request More Information",
+    "vi": "Yêu cầu bổ sung thông tin",
+    "en": "Request More Information",
+    "ko": "추가 확인 정보 요청"
+  },
+  {
+    "source": "Dismiss Report",
+    "vi": "Bác bỏ báo cáo",
+    "en": "Dismiss Report",
+    "ko": "신고 기각"
+  },
+  {
+    "source": "Resolve Report",
+    "vi": "Giải quyết báo cáo",
+    "en": "Resolve Report",
+    "ko": "신고 조치 완료"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search reports",
+    "vi": "Tìm kiếm báo cáo",
+    "en": "Search reports",
+    "ko": "신고 검색"
+  },
+  {
+    "source": "Search report, reporter or target",
+    "vi": "Tìm theo mã báo cáo, người báo hoặc đối tượng",
+    "en": "Search report, reporter or target",
+    "ko": "신고 번호, 신고인, 대상 검색"
+  },
+  {
+    "source": "Reports inbox",
+    "vi": "Hộp thư tiếp nhận báo cáo",
+    "en": "Reports inbox",
+    "ko": "신고 접수함"
+  },
+  {
+    "source": "Close report details",
+    "vi": "Đóng chi tiết báo cáo",
+    "en": "Close report details",
+    "ko": "신고 상세 닫기"
+  }
+]

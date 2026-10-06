@@ -1,0 +1,72 @@
+.admin-overlay {
+  --admin-chalk: #e2e8f0;
+}
+.admin-modal-backdrop.admin-overlay--drawer {
+  padding: 0;
+  place-items: stretch end;
+}
+.admin-overlay-panel {
+  display: flex;
+  flex-direction: column;
+  width: min(620px, 100vw);
+  height: 100dvh;
+  min-height: 0;
+  background: var(--admin-paper);
+  color: var(--admin-graphite);
+  box-shadow: -10px 0 35px rgb(0 0 0 / 8%);
+}
+.admin-overlay-panel header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 22px 28px 18px;
+  border-bottom: 1px solid var(--admin-chalk);
+}
+.admin-overlay-panel h2 {
+  margin: 0;
+  color: var(--admin-ink);
+  font-size: 22px;
+  font-weight: 600;
+}
+.admin-overlay-panel footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  padding: 16px 28px;
+  border-top: 1px solid var(--admin-chalk);
+}
+.admin-overlay-panel .admin-primary-button,
+.admin-overlay-panel .admin-secondary-button {
+  width: auto;
+  min-height: 38px;
+  padding: 0 16px;
+  border: 1px solid var(--admin-ink);
+  border-radius: 8px;
+  background: var(--admin-ink);
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.admin-overlay-panel .admin-secondary-button {
+  border-color: var(--admin-mist);
+  background: white;
+  color: var(--admin-graphite);
+}
+.admin-overlay button {
+  transition: var(--admin-motion-interactive-transition);
+}
+.admin-overlay button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+.admin-overlay button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.admin-overlay select:focus-visible,
+.admin-overlay textarea:focus-visible,
+.admin-overlay a:focus-visible {
+  outline: 2px solid var(--admin-ink);
+  outline-offset: 3px;
+}

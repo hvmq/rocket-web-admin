@@ -1,0 +1,686 @@
+[
+  {
+    "source": "Appointments & Booking History",
+    "vi": "Quản lý lịch hẹn & Lịch sử",
+    "en": "Appointments & Booking History",
+    "ko": "예약 현황 및 이용 이력"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Date range",
+    "vi": "Khoảng thời gian",
+    "en": "Date range",
+    "ko": "조회 기간"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "All statuses",
+    "vi": "Tất cả trạng thái",
+    "en": "All statuses",
+    "ko": "전체 상태"
+  },
+  {
+    "source": "Pending",
+    "vi": "Đang chờ",
+    "en": "Pending",
+    "ko": "대기 중"
+  },
+  {
+    "source": "Accepted",
+    "vi": "Đã chấp nhận",
+    "en": "Accepted",
+    "ko": "수락됨"
+  },
+  {
+    "source": "Rejected",
+    "vi": "Bị từ chối",
+    "en": "Rejected",
+    "ko": "거절됨"
+  },
+  {
+    "source": "Completed",
+    "vi": "Đã hoàn thành",
+    "en": "Completed",
+    "ko": "완료됨"
+  },
+  {
+    "source": "Cancelled",
+    "vi": "Đã hủy",
+    "en": "Cancelled",
+    "ko": "취소됨"
+  },
+  {
+    "source": "Not Completed",
+    "vi": "Không hoàn tất",
+    "en": "Not Completed",
+    "ko": "서비스 미완료"
+  },
+  {
+    "source": "Provider type",
+    "vi": "Loại hình đối tác",
+    "en": "Provider type",
+    "ko": "제공자 유형"
+  },
+  {
+    "source": "All types",
+    "vi": "Tất cả loại hình",
+    "en": "All types",
+    "ko": "전체 유형"
+  },
+  {
+    "source": "Individual Therapist",
+    "vi": "KTV cá nhân",
+    "en": "Individual Therapist",
+    "ko": "개인 테라피스트"
+  },
+  {
+    "source": "Massage Business",
+    "vi": "Cơ sở massage",
+    "en": "Massage Business",
+    "ko": "마사지 업체"
+  },
+  {
+    "source": "Region",
+    "vi": "Khu vực",
+    "en": "Region",
+    "ko": "지역"
+  },
+  {
+    "source": "All regions",
+    "vi": "Tất cả khu vực",
+    "en": "All regions",
+    "ko": "전체 지역"
+  },
+  {
+    "source": "Ho Chi Minh City",
+    "vi": "Thành phố Hồ Chí Minh",
+    "en": "Ho Chi Minh City",
+    "ko": "호찌민시"
+  },
+  {
+    "source": "Da Nang",
+    "vi": "Đà Nẵng",
+    "en": "Da Nang",
+    "ko": "다낭"
+  },
+  {
+    "source": "Ha Noi",
+    "vi": "Hà Nội",
+    "en": "Ha Noi",
+    "ko": "하노이"
+  },
+  {
+    "source": "Booking",
+    "vi": "Lịch hẹn",
+    "en": "Booking",
+    "ko": "예약"
+  },
+  {
+    "source": "Customer",
+    "vi": "Khách hàng",
+    "en": "Customer",
+    "ko": "고객"
+  },
+  {
+    "source": "Provider / type",
+    "vi": "Đối tác / Phân loại",
+    "en": "Provider / type",
+    "ko": "제공자 및 유형"
+  },
+  {
+    "source": "Service",
+    "vi": "Dịch vụ",
+    "en": "Service",
+    "ko": "서비스"
+  },
+  {
+    "source": "Scheduled",
+    "vi": "Đã lên lịch",
+    "en": "Scheduled",
+    "ko": "발송 예약됨"
+  },
+  {
+    "source": "BK-48291",
+    "vi": "BK-48291",
+    "en": "BK-48291",
+    "ko": "BK-48291"
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "Maya Chen",
+    "vi": "Maya Chen",
+    "en": "Maya Chen",
+    "ko": "Maya Chen"
+  },
+  {
+    "source": "Restorative Massage",
+    "vi": "Massage phục hồi",
+    "en": "Restorative Massage",
+    "ko": "회복 마사지"
+  },
+  {
+    "source": "Sep 26, 2026 · 10:30 AM ICT",
+    "vi": "Sep 26, 2026 · 10:30 AM ICT",
+    "en": "Sep 26, 2026 · 10:30 AM ICT",
+    "ko": "Sep 26, 2026 · 10:30 AM ICT"
+  },
+  {
+    "source": "View",
+    "vi": "Xem",
+    "en": "View",
+    "ko": "보기"
+  },
+  {
+    "source": "BK-48278",
+    "vi": "BK-48278",
+    "en": "BK-48278",
+    "ko": "BK-48278"
+  },
+  {
+    "source": "Alex Morgan",
+    "vi": "Alex Morgan",
+    "en": "Alex Morgan",
+    "ko": "Alex Morgan"
+  },
+  {
+    "source": "Lotus Wellness",
+    "vi": "Lotus Wellness",
+    "en": "Lotus Wellness",
+    "ko": "Lotus Wellness"
+  },
+  {
+    "source": "Deep Tissue Massage",
+    "vi": "Massage mô sâu",
+    "en": "Deep Tissue Massage",
+    "ko": "딥 티슈 마사지"
+  },
+  {
+    "source": "Sep 24, 2026 · 2:00 PM ICT",
+    "vi": "Sep 24, 2026 · 2:00 PM ICT",
+    "en": "Sep 24, 2026 · 2:00 PM ICT",
+    "ko": "Sep 24, 2026 · 2:00 PM ICT"
+  },
+  {
+    "source": "No-show resolved",
+    "vi": "Không-hiển thị đã giải quyết",
+    "en": "No-show resolved",
+    "ko": "없음-표시 해결됨"
+  },
+  {
+    "source": "BK-48263",
+    "vi": "BK-48263",
+    "en": "BK-48263",
+    "ko": "BK-48263"
+  },
+  {
+    "source": "Priya Shah",
+    "vi": "Priya Shah",
+    "en": "Priya Shah",
+    "ko": "Priya Shah"
+  },
+  {
+    "source": "River Spa Studio",
+    "vi": "River Spa Studio",
+    "en": "River Spa Studio",
+    "ko": "River Spa Studio"
+  },
+  {
+    "source": "Relaxation Massage",
+    "vi": "Massage thư giãn",
+    "en": "Relaxation Massage",
+    "ko": "릴랙세이션 마사지"
+  },
+  {
+    "source": "Sep 22, 2026 · 5:30 PM ICT",
+    "vi": "Sep 22, 2026 · 5:30 PM ICT",
+    "en": "Sep 22, 2026 · 5:30 PM ICT",
+    "ko": "Sep 22, 2026 · 5:30 PM ICT"
+  },
+  {
+    "source": "BK-48244",
+    "vi": "BK-48244",
+    "en": "BK-48244",
+    "ko": "BK-48244"
+  },
+  {
+    "source": "Linh Nguyen",
+    "vi": "Linh Nguyen",
+    "en": "Linh Nguyen",
+    "ko": "Linh Nguyen"
+  },
+  {
+    "source": "Serene Hands",
+    "vi": "Serene Hands",
+    "en": "Serene Hands",
+    "ko": "Serene Hands"
+  },
+  {
+    "source": "Sports Recovery",
+    "vi": "Sports khôi phục",
+    "en": "Sports Recovery",
+    "ko": "Sports 복구"
+  },
+  {
+    "source": "Sep 21, 2026 · 9:00 AM ICT",
+    "vi": "Sep 21, 2026 · 9:00 AM ICT",
+    "en": "Sep 21, 2026 · 9:00 AM ICT",
+    "ko": "Sep 21, 2026 · 9:00 AM ICT"
+  },
+  {
+    "source": "BK-48220",
+    "vi": "BK-48220",
+    "en": "BK-48220",
+    "ko": "BK-48220"
+  },
+  {
+    "source": "Minh Tran",
+    "vi": "Minh Tran",
+    "en": "Minh Tran",
+    "ko": "Minh Tran"
+  },
+  {
+    "source": "An An Studio",
+    "vi": "Một một Studio",
+    "en": "An An Studio",
+    "ko": "하나의 하나의 Studio"
+  },
+  {
+    "source": "Aromatherapy",
+    "vi": "Trị liệu hương thơm",
+    "en": "Aromatherapy",
+    "ko": "아로마테라피"
+  },
+  {
+    "source": "Sep 19, 2026 · 4:00 PM ICT",
+    "vi": "Sep 19, 2026 · 4:00 PM ICT",
+    "en": "Sep 19, 2026 · 4:00 PM ICT",
+    "ko": "Sep 19, 2026 · 4:00 PM ICT"
+  },
+  {
+    "source": "BK-48270",
+    "vi": "BK-48270",
+    "en": "BK-48270",
+    "ko": "BK-48270"
+  },
+  {
+    "source": "Customer record (restricted)",
+    "vi": "Hồ sơ khách hàng (bảo mật)",
+    "en": "Customer record (restricted)",
+    "ko": "고객 기록 (비공개)"
+  },
+  {
+    "source": "Service snapshot unavailable",
+    "vi": "Không có ảnh chụp thông tin dịch vụ",
+    "en": "Service snapshot unavailable",
+    "ko": "서비스 스냅샷 이용 불가"
+  },
+  {
+    "source": "Sep 25, 2026 · 1:00 PM ICT",
+    "vi": "Sep 25, 2026 · 1:00 PM ICT",
+    "en": "Sep 25, 2026 · 1:00 PM ICT",
+    "ko": "Sep 25, 2026 · 1:00 PM ICT"
+  },
+  {
+    "source": "BK-48288",
+    "vi": "BK-48288",
+    "en": "BK-48288",
+    "ko": "BK-48288"
+  },
+  {
+    "source": "Sep 24, 2026 · 11:00 AM ICT",
+    "vi": "Sep 24, 2026 · 11:00 AM ICT",
+    "en": "Sep 24, 2026 · 11:00 AM ICT",
+    "ko": "Sep 24, 2026 · 11:00 AM ICT"
+  },
+  {
+    "source": "No-show case open",
+    "vi": "Đang mở hồ sơ vắng mặt (No-Show)",
+    "en": "No-show case open",
+    "ko": "노쇼 안건 진행 중"
+  },
+  {
+    "source": "BK-48284",
+    "vi": "BK-48284",
+    "en": "BK-48284",
+    "ko": "BK-48284"
+  },
+  {
+    "source": "Anh Pham",
+    "vi": "Anh Pham",
+    "en": "Anh Pham",
+    "ko": "Anh Pham"
+  },
+  {
+    "source": "Sep 24, 2026 · 1:00 PM ICT",
+    "vi": "Sep 24, 2026 · 1:00 PM ICT",
+    "en": "Sep 24, 2026 · 1:00 PM ICT",
+    "ko": "Sep 24, 2026 · 1:00 PM ICT"
+  },
+  {
+    "source": "Complaint In Progress",
+    "vi": "Khiếu nại trong tiến trình",
+    "en": "Complaint In Progress",
+    "ko": "불만 에서 진행"
+  },
+  {
+    "source": "BK-48255",
+    "vi": "BK-48255",
+    "en": "BK-48255",
+    "ko": "BK-48255"
+  },
+  {
+    "source": "Sep 22, 2026 · time unavailable",
+    "vi": "Sep 22, 2026 · thời gian không khả dụng",
+    "en": "Sep 22, 2026 · time unavailable",
+    "ko": "Sep 22, 2026 · 시간 이용 불가"
+  },
+  {
+    "source": "BK-48192",
+    "vi": "BK-48192",
+    "en": "BK-48192",
+    "ko": "BK-48192"
+  },
+  {
+    "source": "Sep 18, 2026 · time unavailable",
+    "vi": "Sep 18, 2026 · thời gian không khả dụng",
+    "en": "Sep 18, 2026 · time unavailable",
+    "ko": "Sep 18, 2026 · 시간 이용 불가"
+  },
+  {
+    "source": "BK-48084",
+    "vi": "BK-48084",
+    "en": "BK-48084",
+    "ko": "BK-48084"
+  },
+  {
+    "source": "Sep 10, 2026 · time unavailable",
+    "vi": "Sep 10, 2026 · thời gian không khả dụng",
+    "en": "Sep 10, 2026 · time unavailable",
+    "ko": "Sep 10, 2026 · 시간 이용 불가"
+  },
+  {
+    "source": "BK-48291 · Immutable snapshot",
+    "vi": "BK-48291 · Bản ghi dữ liệu cố định",
+    "en": "BK-48291 · Immutable snapshot",
+    "ko": "BK-48291 · 불변 스냅샷"
+  },
+  {
+    "source": "Details",
+    "vi": "Chi tiết",
+    "en": "Details",
+    "ko": "상세 정보"
+  },
+  {
+    "source": "History",
+    "vi": "Lịch sử tiến trình",
+    "en": "History",
+    "ko": "진행 이력"
+  },
+  {
+    "source": "Current valid status",
+    "vi": "Trạng thái hợp lệ hiện tại",
+    "en": "Current valid status",
+    "ko": "현재 유효 예약 상태"
+  },
+  {
+    "source": "Parties",
+    "vi": "Các bên liên quan",
+    "en": "Parties",
+    "ko": "예약 당사자"
+  },
+  {
+    "source": "Service Provider",
+    "vi": "Nhà cung cấp dịch vụ",
+    "en": "Service Provider",
+    "ko": "서비스 제공자"
+  },
+  {
+    "source": "Booking snapshot",
+    "vi": "Bản lưu thông tin đặt lịch",
+    "en": "Booking snapshot",
+    "ko": "예약 상세 스냅샷"
+  },
+  {
+    "source": "Duration",
+    "vi": "Thời lượng dịch vụ",
+    "en": "Duration",
+    "ko": "소요 시간"
+  },
+  {
+    "source": "90 min",
+    "vi": "90 phút",
+    "en": "90 min",
+    "ko": "90분"
+  },
+  {
+    "source": "Price at booking",
+    "vi": "Giá tại thời điểm đặt",
+    "en": "Price at booking",
+    "ko": "예약 당시 결제/이용 금액"
+  },
+  {
+    "source": "Location",
+    "vi": "Địa điểm thực hiện",
+    "en": "Location",
+    "ko": "서비스 장소"
+  },
+  {
+    "source": "District 1 · address restricted",
+    "vi": "Quận 1 · địa chỉ được bảo mật",
+    "en": "District 1 · address restricted",
+    "ko": "1군 · 주소 비공개"
+  },
+  {
+    "source": "Please focus on shoulder mobility.",
+    "vi": "Vui lòng tập trung bật shoulder mobility.",
+    "en": "Please focus on shoulder mobility.",
+    "ko": "주세요 집중 켜짐 shoulder mobility."
+  },
+  {
+    "source": "Associated records",
+    "vi": "Hồ sơ vụ việc liên quan",
+    "en": "Associated records",
+    "ko": "연계 안건 내역"
+  },
+  {
+    "source": "Complaint",
+    "vi": "Khiếu nại dịch vụ",
+    "en": "Complaint",
+    "ko": "고객 민원 건"
+  },
+  {
+    "source": "CP-3018",
+    "vi": "CP-3018",
+    "en": "CP-3018",
+    "ko": "CP-3018"
+  },
+  {
+    "source": "Open Accepted Booking Chat · Case Access",
+    "vi": "Mở hội thoại lịch hẹn · Quyền xử lý vụ việc",
+    "en": "Open Accepted Booking Chat · Case Access",
+    "ko": "예약 대화 내역 열람 · 분쟁 조사 권한"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search booking, person or service",
+    "vi": "Tìm theo mã lịch hẹn, tên khách, đối tác hoặc dịch vụ",
+    "en": "Search booking, person or service",
+    "ko": "예약 번호, 회원명, 서비스 항목 검색"
+  },
+  {
+    "source": "Booking details",
+    "vi": "Chi tiết lịch hẹn",
+    "en": "Booking details",
+    "ko": "예약 상세 정보"
+  },
+  {
+    "source": "Close booking details",
+    "vi": "Đóng chi tiết lịch hẹn",
+    "en": "Close booking details",
+    "ko": "예약 상세 닫기"
+  }
+]

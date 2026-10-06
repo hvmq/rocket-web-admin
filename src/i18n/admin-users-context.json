@@ -1,0 +1,260 @@
+[
+  {
+    "source": "Account",
+    "en": "Account",
+    "vi": "Tài khoản",
+    "ko": "계정"
+  },
+  {
+    "source": "Profile",
+    "en": "Profile",
+    "vi": "Hồ sơ",
+    "ko": "프로필"
+  },
+  {
+    "source": "Customer",
+    "en": "Customer",
+    "vi": "Khách hàng",
+    "ko": "고객"
+  },
+  {
+    "source": "Service Provider",
+    "en": "Service Provider",
+    "vi": "Nhà cung cấp dịch vụ",
+    "ko": "서비스 제공자"
+  },
+  {
+    "source": "Pending",
+    "en": "Pending",
+    "vi": "Đang chờ",
+    "ko": "대기 중"
+  },
+  {
+    "source": "Accepted",
+    "en": "Accepted",
+    "vi": "Đã chấp nhận",
+    "ko": "수락됨"
+  },
+  {
+    "source": "Completed",
+    "en": "Completed",
+    "vi": "Đã hoàn thành",
+    "ko": "완료됨"
+  },
+  {
+    "source": "Cancelled",
+    "en": "Cancelled",
+    "vi": "Đã hủy",
+    "ko": "취소됨"
+  },
+  {
+    "source": "Duration",
+    "en": "Duration",
+    "vi": "Thời lượng",
+    "ko": "소요 시간"
+  },
+  {
+    "source": "Location",
+    "en": "Location",
+    "vi": "Vị trí",
+    "ko": "위치"
+  },
+  {
+    "source": "Not Completed",
+    "en": "Not Completed",
+    "vi": "Không hoàn thành",
+    "ko": "미완료"
+  },
+  {
+    "source": "Provider type",
+    "en": "Provider type",
+    "vi": "Loại nhà cung cấp",
+    "ko": "서비스 제공자 유형"
+  },
+  {
+    "source": "Relaxation Massage",
+    "en": "Relaxation Massage",
+    "vi": "Massage thư giãn",
+    "ko": "릴랙세이션 마사지"
+  },
+  {
+    "source": "Requested",
+    "en": "Requested",
+    "vi": "Đã yêu cầu",
+    "ko": "요청됨"
+  },
+  {
+    "source": "Restorative Massage",
+    "en": "Restorative Massage",
+    "vi": "Massage phục hồi",
+    "ko": "회복 마사지"
+  },
+  {
+    "source": "Working hours",
+    "en": "Working hours",
+    "vi": "Giờ làm việc",
+    "ko": "영업시간"
+  },
+  {
+    "source": "No open cases",
+    "en": "No open cases",
+    "vi": "Không có vụ việc đang mở",
+    "ko": "진행 중인 안건 없음"
+  },
+  {
+    "source": "Profile Update",
+    "en": "Profile Update",
+    "vi": "Cập nhật hồ sơ",
+    "ko": "프로필 수정 요청"
+  },
+  {
+    "source": "New Profile",
+    "en": "New Profile",
+    "vi": "Hồ sơ đăng ký mới",
+    "ko": "신규 입점 프로필"
+  },
+  {
+    "source": "Images",
+    "en": "Images",
+    "vi": "Hình ảnh",
+    "ko": "등록 이미지"
+  },
+  {
+    "source": "Services & prices",
+    "en": "Services & prices",
+    "vi": "Dịch vụ & Bảng giá",
+    "ko": "제공 서비스 및 가격"
+  },
+  {
+    "source": "Service region",
+    "en": "Service region",
+    "vi": "Khu vực phục vụ",
+    "ko": "서비스 제공 지역"
+  },
+  {
+    "source": "Submitted",
+    "en": "Submitted",
+    "vi": "Thời điểm nộp",
+    "ko": "제출 일시"
+  },
+  {
+    "source": "Submission",
+    "en": "Submission",
+    "vi": "Nội dung phản ánh",
+    "ko": "신청 내용"
+  },
+  {
+    "source": "Scheduled",
+    "en": "Scheduled",
+    "vi": "Đã lên lịch",
+    "ko": "발송 예약됨"
+  },
+  {
+    "source": "Booking snapshot",
+    "en": "Booking snapshot",
+    "vi": "Bản lưu thông tin đặt lịch",
+    "ko": "예약 상세 스냅샷"
+  },
+  {
+    "source": "Price at booking",
+    "en": "Price at booking",
+    "vi": "Giá tại thời điểm đặt",
+    "ko": "예약 당시 결제/이용 금액"
+  },
+  {
+    "source": "No booking note was provided.",
+    "en": "No booking note was provided.",
+    "vi": "Không có ghi chú đặt lịch nào.",
+    "ko": "고객 요청 사항이 없습니다."
+  },
+  {
+    "source": "Recorded reason",
+    "en": "Recorded reason",
+    "vi": "Lý do đã ghi nhận",
+    "ko": "기록된 사유"
+  },
+  {
+    "source": "Associated records",
+    "en": "Associated records",
+    "vi": "Hồ sơ vụ việc liên quan",
+    "ko": "연계 안건 내역"
+  },
+  {
+    "source": "No associated cases.",
+    "en": "No associated cases.",
+    "vi": "Không có vụ việc liên quan nào.",
+    "ko": "연계된 분쟁 안건이 없습니다."
+  },
+  {
+    "source": "Requester",
+    "en": "Requester",
+    "vi": "Người yêu cầu hủy",
+    "ko": "취소 요청자"
+  },
+  {
+    "source": "Policy Required",
+    "en": "Policy Required",
+    "vi": "Cần quy trình chính sách chính thức",
+    "ko": "공식 데이터 삭제 정책 필요"
+  },
+  {
+    "source": "Deletion policy not configured. This request is read-only.",
+    "en": "Deletion policy not configured. This request is read-only.",
+    "vi": "Chưa cấu hình chính sách xóa & lưu giữ dữ liệu. Yêu cầu này ở chế độ chỉ đọc.",
+    "ko": "계정 삭제 및 데이터 보존 정책이 설정되지 않았습니다. 현재 요청은 열람 전용입니다."
+  },
+  {
+    "source": "Request detail",
+    "en": "Request detail",
+    "vi": "Chi tiết yêu cầu xóa",
+    "ko": "탈퇴 요청 상세 정보"
+  },
+  {
+    "source": "Policy reference",
+    "en": "Policy reference",
+    "vi": "Căn cứ chính sách",
+    "ko": "법적 정책 기준"
+  },
+  {
+    "source": "Not supplied",
+    "en": "Not supplied",
+    "vi": "Chưa được cung cấp",
+    "ko": "미제공"
+  },
+  {
+    "source": "Related active bookings",
+    "en": "Related active bookings",
+    "vi": "Lịch hẹn đang hoạt động liên quan",
+    "ko": "연계된 진행 중 예약"
+  },
+  {
+    "source": "No active booking linked.",
+    "en": "No active booking linked.",
+    "vi": "Không có lịch hẹn đang hoạt động nào.",
+    "ko": "연계된 진행 중 예약이 없습니다."
+  },
+  {
+    "source": "Open cases and preservation",
+    "en": "Open cases and preservation",
+    "vi": "Vụ việc đang mở & Bảo toàn chứng cứ",
+    "ko": "미결 안건 및 증거 보존 대상"
+  },
+  {
+    "source": "No open case linked.",
+    "en": "No open case linked.",
+    "vi": "Không có vụ việc tranh chấp nào đang mở.",
+    "ko": "연계된 미결 안건이 없습니다."
+  },
+  {
+    "source": "Decision history",
+    "en": "Decision history",
+    "vi": "Lịch sử quyết định & xử lý",
+    "ko": "처리 이력 타임라인"
+  },
+  {
+    "source": "Deep Tissue Massage",
+    "en": "Deep Tissue Massage",
+    "vi": "Massage mô sâu",
+    "ko": "딥 티슈 마사지"
+  }
+]

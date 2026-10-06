@@ -1,0 +1,434 @@
+[
+  {
+    "source": "Dashboard & Operations",
+    "vi": "Bảng điều khiển & Vận hành",
+    "en": "Dashboard & Operations",
+    "ko": "운영 대시보드"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Báo cáo vắng mặt",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Date range",
+    "vi": "Khoảng thời gian",
+    "en": "Date range",
+    "ko": "조회 기간"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "This quarter",
+    "vi": "Quý này",
+    "en": "This quarter",
+    "ko": "이번 분기"
+  },
+  {
+    "source": "Overview",
+    "vi": "Tổng quan",
+    "en": "Overview",
+    "ko": "운영 개요"
+  },
+  {
+    "source": "Statistics",
+    "vi": "Thống kê chi tiết",
+    "en": "Statistics",
+    "ko": "통계 분석"
+  },
+  {
+    "source": "Customers",
+    "vi": "Khách hàng",
+    "en": "Customers",
+    "ko": "고객"
+  },
+  {
+    "source": "Active",
+    "vi": "Đang hiển thị",
+    "en": "Active",
+    "ko": "게시 중"
+  },
+  {
+    "source": "Locked",
+    "vi": "Đã khóa",
+    "en": "Locked",
+    "ko": "정지됨"
+  },
+  {
+    "source": "Service Providers",
+    "vi": "Nhà cung cấp dịch vụ",
+    "en": "Service Providers",
+    "ko": "서비스 제공자"
+  },
+  {
+    "source": "Approved",
+    "vi": "Đã duyệt",
+    "en": "Approved",
+    "ko": "승인됨"
+  },
+  {
+    "source": "Pending",
+    "vi": "Đang chờ",
+    "en": "Pending",
+    "ko": "대기 중"
+  },
+  {
+    "source": "Accepted",
+    "vi": "Đã chấp nhận",
+    "en": "Accepted",
+    "ko": "수락됨"
+  },
+  {
+    "source": "Rejected",
+    "vi": "Bị từ chối",
+    "en": "Rejected",
+    "ko": "거절됨"
+  },
+  {
+    "source": "Completed",
+    "vi": "Đã hoàn thành",
+    "en": "Completed",
+    "ko": "완료됨"
+  },
+  {
+    "source": "Cancelled",
+    "vi": "Đã hủy",
+    "en": "Cancelled",
+    "ko": "취소됨"
+  },
+  {
+    "source": "Not Completed",
+    "vi": "Không hoàn tất",
+    "en": "Not Completed",
+    "ko": "서비스 미완료"
+  },
+  {
+    "source": "Operational queues",
+    "vi": "Hàng chờ vận hành",
+    "en": "Operational queues",
+    "ko": "신속 처리 대기열"
+  },
+  {
+    "source": "Provider reviews",
+    "vi": "Duyệt hồ sơ đối tác",
+    "en": "Provider reviews",
+    "ko": "파트너 입점 심사"
+  },
+  {
+    "source": "6 waiting over 24 hours",
+    "vi": "6 mục chờ hơn 24 giờ",
+    "en": "6 waiting over 24 hours",
+    "ko": "6건이 24시간 이상 대기 중"
+  },
+  {
+    "source": "No-show cases",
+    "vi": "Báo cáo vắng mặt",
+    "en": "No-show cases",
+    "ko": "노쇼(미방문) 분쟁 안건"
+  },
+  {
+    "source": "Evidence review required",
+    "vi": "Cần thẩm định chứng cứ",
+    "en": "Evidence review required",
+    "ko": "증거 검토 필요"
+  },
+  {
+    "source": "4 new since last sign in",
+    "vi": "4 mục mới kể từ lần đăng nhập trước",
+    "en": "4 new since last sign in",
+    "ko": "마지막 로그인 이후 신규 4건"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Dashboard view",
+    "vi": "Góc nhìn Bảng điều khiển",
+    "en": "Dashboard view",
+    "ko": "대시보드 보기"
+  },
+  {
+    "source": "Operational statistics",
+    "vi": "Thống kê vận hành",
+    "en": "Operational statistics",
+    "ko": "운영 통계 현황"
+  },
+  {
+    "source": "Area",
+    "vi": "Hạng mục",
+    "en": "Area",
+    "ko": "영역"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "Value",
+    "vi": "Số lượng",
+    "en": "Value",
+    "ko": "수치"
+  },
+  {
+    "source": "Underlying records",
+    "vi": "Bản ghi gốc",
+    "en": "Underlying records",
+    "ko": "원본 데이터"
+  },
+  {
+    "source": "Active accounts",
+    "vi": "Tài khoản đang hoạt động",
+    "en": "Active accounts",
+    "ko": "활성 계정 수"
+  },
+  {
+    "source": "View users",
+    "vi": "Xem danh sách người dùng",
+    "en": "View users",
+    "ko": "사용자 목록 보기"
+  },
+  {
+    "source": "Pending Review",
+    "vi": "Chờ xét duyệt",
+    "en": "Pending Review",
+    "ko": "심사 대기"
+  },
+  {
+    "source": "View queue",
+    "vi": "Xem hàng chờ",
+    "en": "View queue",
+    "ko": "대기열 확인"
+  },
+  {
+    "source": "View appointments",
+    "vi": "Xem danh sách lịch hẹn",
+    "en": "View appointments",
+    "ko": "예약 목록 보기"
+  },
+  {
+    "source": "Cases",
+    "vi": "Hồ sơ vụ việc",
+    "en": "Cases",
+    "ko": "처리 안건"
+  },
+  {
+    "source": "Open complaints",
+    "vi": "Khiếu nại đang mở",
+    "en": "Open complaints",
+    "ko": "처리 중인 민원"
+  },
+  {
+    "source": "View cases",
+    "vi": "Xem hồ sơ vụ việc",
+    "en": "View cases",
+    "ko": "안건 목록 보기"
+  },
+  {
+    "source": "No data for this period",
+    "vi": "Không có dữ liệu trong khoảng thời gian này",
+    "en": "No data for this period",
+    "ko": "해당 기간에 조회된 데이터가 없습니다"
+  },
+  {
+    "source": "Change Date Range",
+    "vi": "Đổi khoảng thời gian",
+    "en": "Change Date Range",
+    "ko": "조회 기간 변경"
+  },
+  {
+    "source": "Statistics Unavailable",
+    "vi": "Không thể tải số liệu thống kê",
+    "en": "Statistics Unavailable",
+    "ko": "통계 데이터를 불러올 수 없음"
+  },
+  {
+    "source": "Try Again",
+    "vi": "Thử lại",
+    "en": "Try Again",
+    "ko": "다시 시도"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  }
+]

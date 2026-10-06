@@ -1,0 +1,674 @@
+[
+  {
+    "source": "Account Deletion Requests",
+    "vi": "Hàng chờ yêu cầu xóa tài khoản",
+    "en": "Account Deletion Requests",
+    "ko": "계정 탈퇴(삭제) 요청 대기열"
+  },
+  {
+    "source": "Rocket",
+    "vi": "Rocket",
+    "en": "Rocket",
+    "ko": "Rocket"
+  },
+  {
+    "source": "Administration",
+    "vi": "Quản trị hệ thống",
+    "en": "Administration",
+    "ko": "시스템 관리"
+  },
+  {
+    "source": "Dashboard",
+    "vi": "Bảng điều khiển",
+    "en": "Dashboard",
+    "ko": "대시보드"
+  },
+  {
+    "source": "Users",
+    "vi": "Người dùng",
+    "en": "Users",
+    "ko": "사용자 관리"
+  },
+  {
+    "source": "Provider Verification",
+    "vi": "Xét duyệt hồ sơ đối tác",
+    "en": "Provider Verification",
+    "ko": "제공자 입점 및 프로필 심사"
+  },
+  {
+    "source": "Appointments",
+    "vi": "Lịch hẹn",
+    "en": "Appointments",
+    "ko": "예약"
+  },
+  {
+    "source": "No-Show Cases",
+    "vi": "Trường hợp vắng mặt (No-Show)",
+    "en": "No-Show Cases",
+    "ko": "노쇼(미방문) 안건"
+  },
+  {
+    "source": "Complaints",
+    "vi": "Khiếu nại",
+    "en": "Complaints",
+    "ko": "불만"
+  },
+  {
+    "source": "Reports",
+    "vi": "Lượt báo cáo",
+    "en": "Reports",
+    "ko": "신고 접수 건수"
+  },
+  {
+    "source": "Reviews",
+    "vi": "Đánh giá",
+    "en": "Reviews",
+    "ko": "리뷰"
+  },
+  {
+    "source": "Regions",
+    "vi": "Khu vực",
+    "en": "Regions",
+    "ko": "지역"
+  },
+  {
+    "source": "Notifications",
+    "vi": "Thông báo",
+    "en": "Notifications",
+    "ko": "알림"
+  },
+  {
+    "source": "Banners",
+    "vi": "Banner quảng cáo",
+    "en": "Banners",
+    "ko": "배너"
+  },
+  {
+    "source": "Audit Log",
+    "vi": "Nhật ký kiểm toán hệ thống",
+    "en": "Audit Log",
+    "ko": "시스템 감사 로그"
+  },
+  {
+    "source": "App Update",
+    "vi": "Cập nhật ứng dụng",
+    "en": "App Update",
+    "ko": "앱 업데이트"
+  },
+  {
+    "source": "Deletion Requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Deletion Requests",
+    "ko": "계정 탈퇴 요청"
+  },
+  {
+    "source": "Admin Accounts",
+    "vi": "Tài khoản quản trị",
+    "en": "Admin Accounts",
+    "ko": "관리자 계정"
+  },
+  {
+    "source": "AM",
+    "vi": "AM",
+    "en": "AM",
+    "ko": "AM"
+  },
+  {
+    "source": "Ava Morgan",
+    "vi": "Ava Morgan",
+    "en": "Ava Morgan",
+    "ko": "Ava Morgan"
+  },
+  {
+    "source": "Owner",
+    "vi": "Chủ sở hữu",
+    "en": "Owner",
+    "ko": "소유자"
+  },
+  {
+    "source": "Change Password",
+    "vi": "Đổi mật khẩu",
+    "en": "Change Password",
+    "ko": "비밀번호 변경"
+  },
+  {
+    "source": "Sign Out",
+    "vi": "Đăng xuất",
+    "en": "Sign Out",
+    "ko": "로그아웃"
+  },
+  {
+    "source": "Account deletion requests",
+    "vi": "Yêu cầu xóa tài khoản",
+    "en": "Account deletion requests",
+    "ko": "계정 탈퇴(삭제) 요청 대기열"
+  },
+  {
+    "source": "3 requests in this view",
+    "vi": "3 yêu cầu trong chế độ xem này",
+    "en": "3 requests in this view",
+    "ko": "현재 화면에 3건의 요청 표시 중"
+  },
+  {
+    "source": "Status",
+    "vi": "Trạng thái",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "source": "All statuses",
+    "vi": "Tất cả trạng thái",
+    "en": "All statuses",
+    "ko": "전체 상태"
+  },
+  {
+    "source": "Received · policy review required",
+    "vi": "Đã nhận · chính sách đánh giá bắt buộc",
+    "en": "Received · policy review required",
+    "ko": "수신됨 · 정책 검토 필수"
+  },
+  {
+    "source": "Requested",
+    "vi": "Thời điểm yêu cầu",
+    "en": "Requested",
+    "ko": "취소 요청 일시"
+  },
+  {
+    "source": "Any time",
+    "vi": "Mọi thời điểm",
+    "en": "Any time",
+    "ko": "전체 기간"
+  },
+  {
+    "source": "Today",
+    "vi": "Hôm nay",
+    "en": "Today",
+    "ko": "오늘"
+  },
+  {
+    "source": "Last 7 days",
+    "vi": "7 ngày qua",
+    "en": "Last 7 days",
+    "ko": "최근 7일"
+  },
+  {
+    "source": "Last 30 days",
+    "vi": "30 ngày qua",
+    "en": "Last 30 days",
+    "ko": "최근 30일"
+  },
+  {
+    "source": "Reference",
+    "vi": "Mã tham chiếu",
+    "en": "Reference",
+    "ko": "참조 번호"
+  },
+  {
+    "source": "Requester",
+    "vi": "Người yêu cầu hủy",
+    "en": "Requester",
+    "ko": "취소 요청자"
+  },
+  {
+    "source": "DEL-1024",
+    "vi": "DEL-1024",
+    "en": "DEL-1024",
+    "ko": "DEL-1024"
+  },
+  {
+    "source": "Jamie Rivera",
+    "vi": "Jamie Rivera",
+    "en": "Jamie Rivera",
+    "ko": "Jamie Rivera"
+  },
+  {
+    "source": "Customer · Active",
+    "vi": "Khách hàng · đang hoạt động",
+    "en": "Customer · Active",
+    "ko": "고객 · 활성"
+  },
+  {
+    "source": "Sep 24, 2026 · 18:12 ICT",
+    "vi": "Sep 24, 2026 · 18:12 ICT",
+    "en": "Sep 24, 2026 · 18:12 ICT",
+    "ko": "Sep 24, 2026 · 18:12 ICT"
+  },
+  {
+    "source": "View Request",
+    "vi": "Xem yêu cầu",
+    "en": "View Request",
+    "ko": "요청 상세 보기"
+  },
+  {
+    "source": "DEL-1023",
+    "vi": "DEL-1023",
+    "en": "DEL-1023",
+    "ko": "DEL-1023"
+  },
+  {
+    "source": "Lotus Wellness",
+    "vi": "Lotus Wellness",
+    "en": "Lotus Wellness",
+    "ko": "Lotus Wellness"
+  },
+  {
+    "source": "Service Provider · Active",
+    "vi": "Dịch vụ nhà cung cấp · đang hoạt động",
+    "en": "Service Provider · Active",
+    "ko": "서비스 제공자 · 활성"
+  },
+  {
+    "source": "Sep 18, 2026 · 09:30 ICT",
+    "vi": "Sep 18, 2026 · 09:30 ICT",
+    "en": "Sep 18, 2026 · 09:30 ICT",
+    "ko": "Sep 18, 2026 · 09:30 ICT"
+  },
+  {
+    "source": "Page 1 of 2 · 3 matching requests",
+    "vi": "Trang 1 / 2 · 3 yêu cầu phù hợp",
+    "en": "Page 1 of 2 · 3 matching requests",
+    "ko": "1 / 2 페이지 · 일치하는 요청 3건"
+  },
+  {
+    "source": "Previous",
+    "vi": "Trang trước",
+    "en": "Previous",
+    "ko": "이전"
+  },
+  {
+    "source": "Next",
+    "vi": "Trang sau",
+    "en": "Next",
+    "ko": "다음"
+  },
+  {
+    "source": "Rocket logo",
+    "vi": "Logo Rocket",
+    "en": "Rocket logo",
+    "ko": "Rocket 로고"
+  },
+  {
+    "source": "Admin navigation",
+    "vi": "Điều hướng Quản trị",
+    "en": "Admin navigation",
+    "ko": "관리자 메뉴 탐색"
+  },
+  {
+    "source": "Search deletion requests",
+    "vi": "Tìm kiếm yêu cầu xóa tài khoản",
+    "en": "Search deletion requests",
+    "ko": "탈퇴 요청 검색"
+  },
+  {
+    "source": "Search reference or requester",
+    "vi": "Tìm theo mã yêu cầu hoặc người yêu cầu",
+    "en": "Search reference or requester",
+    "ko": "요청 번호 또는 신청자 검색"
+  },
+  {
+    "source": "Request pages",
+    "vi": "Phân trang yêu cầu",
+    "en": "Request pages",
+    "ko": "요청 목록 페이지"
+  },
+  {
+    "source": "Deletion request",
+    "vi": "Xóa yêu cầu",
+    "en": "Deletion request",
+    "ko": "삭제 요청"
+  },
+  {
+    "source": "Policy Required",
+    "vi": "Cần quy trình chính sách chính thức",
+    "en": "Policy Required",
+    "ko": "공식 데이터 삭제 정책 필요"
+  },
+  {
+    "source": "Deletion policy not configured. This request is read-only.",
+    "vi": "Chưa cấu hình chính sách xóa & lưu giữ dữ liệu. Yêu cầu này ở chế độ chỉ đọc.",
+    "en": "Deletion policy not configured. This request is read-only.",
+    "ko": "계정 삭제 및 데이터 보존 정책이 설정되지 않았습니다. 현재 요청은 열람 전용입니다."
+  },
+  {
+    "source": "Request detail",
+    "vi": "Chi tiết yêu cầu xóa",
+    "en": "Request detail",
+    "ko": "탈퇴 요청 상세 정보"
+  },
+  {
+    "source": "Account",
+    "vi": "Tài khoản liên quan",
+    "en": "Account",
+    "ko": "해당 계정"
+  },
+  {
+    "source": "Policy reference",
+    "vi": "Căn cứ chính sách",
+    "en": "Policy reference",
+    "ko": "법적 정책 기준"
+  },
+  {
+    "source": "Not supplied",
+    "vi": "Chưa được cung cấp",
+    "en": "Not supplied",
+    "ko": "미제공"
+  },
+  {
+    "source": "Related active bookings",
+    "vi": "Lịch hẹn đang hoạt động liên quan",
+    "en": "Related active bookings",
+    "ko": "연계된 진행 중 예약"
+  },
+  {
+    "source": "BK-48291 · Accepted · cancellation review open",
+    "vi": "BK-48291 · đã chấp nhận · yêu cầu hủy đánh giá mở",
+    "en": "BK-48291 · Accepted · cancellation review open",
+    "ko": "BK-48291 · 수락됨 · 취소 검토 열기"
+  },
+  {
+    "source": "View Booking BK-48291",
+    "vi": "Xem lịch hẹn BK-48291",
+    "en": "View Booking BK-48291",
+    "ko": "예약 내역 조회 (BK-48291)"
+  },
+  {
+    "source": "Open cases and preservation",
+    "vi": "Vụ việc đang mở & Bảo toàn chứng cứ",
+    "en": "Open cases and preservation",
+    "ko": "미결 안건 및 증거 보존 대상"
+  },
+  {
+    "source": "CP-3018 · New complaint",
+    "vi": "CP-3018 · mới khiếu nại",
+    "en": "CP-3018 · New complaint",
+    "ko": "CP-3018 · 신규 불만"
+  },
+  {
+    "source": "CN-1084 · Pending cancellation",
+    "vi": "CN-1084 · đang chờ yêu cầu hủy",
+    "en": "CN-1084 · Pending cancellation",
+    "ko": "CN-1084 · 대기 중 취소"
+  },
+  {
+    "source": "Decision history",
+    "vi": "Lịch sử quyết định & xử lý",
+    "en": "Decision history",
+    "ko": "처리 이력 타임라인"
+  },
+  {
+    "source": "Sep 24, 2026 · 18:12 ICT — Request received",
+    "vi": "Sep 24, 2026 · 18:12 ICT — yêu cầu đã nhận",
+    "en": "Sep 24, 2026 · 18:12 ICT — Request received",
+    "ko": "Sep 24, 2026 · 18:12 ICT — 요청 수신됨"
+  },
+  {
+    "source": "Sep 24, 2026 · 18:12 ICT — Open booking and cases flagged for review",
+    "vi": "Sep 24, 2026 · 18:12 ICT — Đang có lịch hẹn và hồ sơ cần xem xét",
+    "en": "Sep 24, 2026 · 18:12 ICT — Open booking and cases flagged for review",
+    "ko": "Sep 24, 2026 · 18:12 ICT — 진행 중인 예약 및 검토 대상 안건 확인"
+  },
+  {
+    "source": "Awaiting approved workflow",
+    "vi": "Chờ quy trình xử lý được phê duyệt",
+    "en": "Awaiting approved workflow",
+    "ko": "공식 승인 워크플로 대기 중"
+  },
+  {
+    "source": "Request status",
+    "vi": "Tình trạng yêu cầu",
+    "en": "Request status",
+    "ko": "신청 상태"
+  },
+  {
+    "source": "Preservation review",
+    "vi": "Thẩm định lưu giữ chứng cứ",
+    "en": "Preservation review",
+    "ko": "증거 데이터 보존 검토"
+  },
+  {
+    "source": "Open cases flagged",
+    "vi": "Đã đánh dấu vụ việc đang mở",
+    "en": "Open cases flagged",
+    "ko": "미결 분쟁 안건 존재"
+  },
+  {
+    "source": "Required",
+    "vi": "Bắt buộc",
+    "en": "Required",
+    "ko": "필수"
+  },
+  {
+    "source": "View Requester",
+    "vi": "Xem tài khoản người yêu cầu",
+    "en": "View Requester",
+    "ko": "신청자 계정 보기"
+  },
+  {
+    "source": "Deletion request details",
+    "vi": "Xóa yêu cầu chi tiết",
+    "en": "Deletion request details",
+    "ko": "삭제 요청 상세"
+  },
+  {
+    "source": "Close request details",
+    "vi": "Đóng chi tiết yêu cầu",
+    "en": "Close request details",
+    "ko": "요청 상세 닫기"
+  },
+  {
+    "source": "0 requests in this view",
+    "vi": "0 yêu cầu trong chế độ xem này",
+    "en": "0 requests in this view",
+    "ko": "현재 화면에 0건의 요청 표시 중"
+  },
+  {
+    "source": "deletion requests",
+    "vi": "xóa yêu cầu",
+    "en": "deletion requests",
+    "ko": "삭제 요청"
+  },
+  {
+    "source": "No Results Found",
+    "vi": "Không tìm thấy kết quả phù hợp",
+    "en": "No Results Found",
+    "ko": "검색 결과 없음"
+  },
+  {
+    "source": "No matching items in deletion requests. Your filters are preserved.",
+    "vi": "Không tìm thấy yêu cầu xóa tài khoản phù hợp. Bộ lọc của bạn vẫn được giữ nguyên.",
+    "en": "No matching items in deletion requests. Your filters are preserved.",
+    "ko": "일치하는 계정 탈퇴 요청이 없습니다. 현재 필터가 유지됩니다."
+  },
+  {
+    "source": "Active filters: Status: all; date: all",
+    "vi": "Đang hoạt động bộ lọc: trạng thái: tất cả; ngày: tất cả",
+    "en": "Active filters: Status: all; date: all",
+    "ko": "활성 필터: 상태: 모든; 날짜: 모든"
+  },
+  {
+    "source": "Clear Filters",
+    "vi": "Xóa bộ lọc",
+    "en": "Clear Filters",
+    "ko": "필터 초기화"
+  },
+  {
+    "source": "Loading deletion requests…",
+    "vi": "Loading xóa yêu cầu…",
+    "en": "Loading deletion requests…",
+    "ko": "Loading 삭제 요청…"
+  },
+  {
+    "source": "Loading deletion requests",
+    "vi": "Loading xóa yêu cầu",
+    "en": "Loading deletion requests",
+    "ko": "Loading 삭제 요청"
+  },
+  {
+    "source": "Unable to Load",
+    "vi": "Không thể tải dữ liệu",
+    "en": "Unable to Load",
+    "ko": "데이터를 불러올 수 없음"
+  },
+  {
+    "source": "We couldn't load deletion requests. No count or result has been verified.",
+    "vi": "Không thể tải danh sách yêu cầu xóa tài khoản. Chưa thể xác minh số lượng và kết quả.",
+    "en": "We couldn't load deletion requests. No count or result has been verified.",
+    "ko": "계정 탈퇴 요청을 불러오지 못했습니다. 건수나 결과를 확인할 수 없습니다."
+  },
+  {
+    "source": "Try Again",
+    "vi": "Thử lại",
+    "en": "Try Again",
+    "ko": "다시 시도"
+  },
+  {
+    "source": "Action Unavailable",
+    "vi": "Thao tác không khả dụng",
+    "en": "Action Unavailable",
+    "ko": "작업 권한 없음 (사용 불가)"
+  },
+  {
+    "source": "Your access to deletion requests changed. Restricted details and actions have been removed.",
+    "vi": "Quyền truy cập yêu cầu xóa tài khoản của bạn đã thay đổi. Các chi tiết và thao tác bị hạn chế đã được ẩn.",
+    "en": "Your access to deletion requests changed. Restricted details and actions have been removed.",
+    "ko": "계정 탈퇴 요청에 대한 접근 권한이 변경되었습니다. 제한된 세부 정보와 작업이 숨겨졌습니다."
+  },
+  {
+    "source": "Back to Dashboard",
+    "vi": "Về Bảng điều khiển",
+    "en": "Back to Dashboard",
+    "ko": "대시보드로 돌아가기"
+  },
+  {
+    "source": "Enter your current password and choose a new one.",
+    "vi": "Nhập mật khẩu hiện tại và chọn mật khẩu mới.",
+    "en": "Enter your current password and choose a new one.",
+    "ko": "현재 비밀번호를 입력하고 새 비밀번호를 설정하세요."
+  },
+  {
+    "source": "Current Password",
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "ko": "현재 비밀번호"
+  },
+  {
+    "source": "New Password",
+    "vi": "Mật khẩu mới",
+    "en": "New Password",
+    "ko": "새 비밀번호"
+  },
+  {
+    "source": "Confirm New Password",
+    "vi": "Xác nhận mật khẩu mới",
+    "en": "Confirm New Password",
+    "ko": "새 비밀번호 확인"
+  },
+  {
+    "source": "Cancel",
+    "vi": "Hủy bỏ",
+    "en": "Cancel",
+    "ko": "취소"
+  },
+  {
+    "source": "Save Password",
+    "vi": "Lưu mật khẩu",
+    "en": "Save Password",
+    "ko": "비밀번호 저장"
+  },
+  {
+    "source": "{count} requests in this view",
+    "vi": "{count} yêu cầu trong chế độ xem này",
+    "en": "{count} requests in this view",
+    "ko": "현재 화면에 {count}건의 요청 표시 중"
+  },
+  {
+    "source": "Page {page} of {pages} · {count} matching requests",
+    "vi": "Trang {page}/{pages} · {count} yêu cầu phù hợp",
+    "en": "Page {page} of {pages} · {count} matching requests",
+    "ko": "{page}/{pages} 페이지 · 일치하는 요청 {count}건"
+  },
+  {
+    "source": "View Booking {reference}",
+    "vi": "Xem lịch hẹn {reference}",
+    "en": "View Booking {reference}",
+    "ko": "예약 내역 조회 ({reference})"
+  },
+  {
+    "source": "Actions",
+    "vi": "Thao tác",
+    "en": "Actions",
+    "ko": "작업"
+  },
+  {
+    "source": "Search",
+    "vi": "Tìm kiếm",
+    "en": "Search",
+    "ko": "검색"
+  },
+  {
+    "source": "Active filters",
+    "vi": "Bộ lọc đang áp dụng",
+    "en": "Active filters",
+    "ko": "적용된 필터"
+  },
+  {
+    "source": "No active booking linked.",
+    "vi": "Không có lịch hẹn đang hoạt động liên quan.",
+    "en": "No active booking linked.",
+    "ko": "연계된 진행 중 예약이 없습니다."
+  },
+  {
+    "source": "No open case linked.",
+    "vi": "Không có vụ việc đang mở liên quan.",
+    "en": "No open case linked.",
+    "ko": "연계된 미결 안건이 없습니다."
+  },
+  {
+    "source": "No open case linked",
+    "vi": "Không có vụ việc đang mở liên quan",
+    "en": "No open case linked",
+    "ko": "연계된 미결 안건 없음"
+  },
+  {
+    "source": "Sep 18, 2026 · 09:30 ICT — Request received",
+    "vi": "Sep 18, 2026 · 09:30 ICT — Đã nhận yêu cầu",
+    "en": "Sep 18, 2026 · 09:30 ICT — Request received",
+    "ko": "Sep 18, 2026 · 09:30 ICT — 요청 수신됨"
+  },
+  {
+    "source": "Sep 18, 2026 · 09:30 ICT — Awaiting approved handling policy",
+    "vi": "Sep 18, 2026 · 09:30 ICT — Chờ chính sách xử lý được phê duyệt",
+    "en": "Sep 18, 2026 · 09:30 ICT — Awaiting approved handling policy",
+    "ko": "Sep 18, 2026 · 09:30 ICT — 승인된 처리 정책 대기 중"
+  },
+  {
+    "source": "Sep 10, 2026 · 08:15 ICT — Request received",
+    "vi": "Sep 10, 2026 · 08:15 ICT — Đã nhận yêu cầu",
+    "en": "Sep 10, 2026 · 08:15 ICT — Request received",
+    "ko": "Sep 10, 2026 · 08:15 ICT — 요청 수신됨"
+  },
+  {
+    "source": "Sep 10, 2026 · 08:15 ICT — Linked booking flagged for review",
+    "vi": "Sep 10, 2026 · 08:15 ICT — Đã đánh dấu lịch hẹn liên quan để xem xét",
+    "en": "Sep 10, 2026 · 08:15 ICT — Linked booking flagged for review",
+    "ko": "Sep 10, 2026 · 08:15 ICT — 연계 예약 검토 표시됨"
+  },
+  {
+    "source": "BK-48291 · Accepted",
+    "vi": "BK-48291 · Đã chấp nhận",
+    "en": "BK-48291 · Accepted",
+    "ko": "BK-48291 · 수락됨"
+  },
+  {
+    "source": "Nothing in This Queue",
+    "vi": "Không có yêu cầu trong hàng chờ",
+    "en": "Nothing in This Queue",
+    "ko": "대기열에 요청이 없습니다"
+  },
+  {
+    "source": "There is no work in deletion requests to review right now.",
+    "vi": "Hiện không có yêu cầu xóa tài khoản cần xem xét.",
+    "en": "There is no work in deletion requests to review right now.",
+    "ko": "현재 검토할 탈퇴 요청이 없습니다."
+  }
+]

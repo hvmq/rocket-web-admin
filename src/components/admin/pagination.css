@@ -1,0 +1,17 @@
+.admin-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  color: var(--admin-ashen);
+  font-size: 12px;
+}
+.admin-pagination > div {
+  display: flex;
+  gap: 8px;
+}
+.admin-pagination button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}

@@ -1,0 +1,32 @@
+.admin-list-state {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  min-height: 240px;
+  padding: 40px 28px;
+  border: 1px solid var(--admin-chalk);
+  border-radius: 12px;
+  background: var(--admin-paper);
+}
+.admin-list-state > .admin-icon {
+  width: 28px;
+  height: 28px;
+}
+.admin-list-state h2 {
+  margin: 0;
+  color: var(--admin-ink);
+  font-size: 20px;
+  font-weight: 600;
+}
+.admin-list-state p {
+  color: var(--admin-ashen);
+}
+.admin-list-state .admin-kicker {
+  margin: 0 0 6px;
+}
+.admin-list-state small {
+  display: block;
+  margin-bottom: 16px;
+  color: var(--admin-ashen);
+  overflow-wrap: anywhere;
+}

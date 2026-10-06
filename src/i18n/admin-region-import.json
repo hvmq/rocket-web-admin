@@ -1,0 +1,332 @@
+[
+  {
+    "source": "Region catalogue",
+    "en": "Region catalogue",
+    "vi": "Danh mục khu vực",
+    "ko": "지역 목록"
+  },
+  {
+    "source": "Import JSON",
+    "en": "Import JSON",
+    "vi": "Nhập JSON",
+    "ko": "JSON 가져오기"
+  },
+  {
+    "source": "Add Manually",
+    "en": "Add Manually",
+    "vi": "Thêm thủ công",
+    "ko": "수동 추가"
+  },
+  {
+    "source": "Import JSON to manage many regions at once, or add individual regions manually.",
+    "en": "Import JSON to manage many regions at once, or add individual regions manually.",
+    "vi": "Nhập dữ liệu JSON để thêm nhiều khu vực cùng lúc, hoặc thêm thủ công từng khu vực.",
+    "ko": "JSON으로 여러 지역을 한 번에 가져오거나 개별 지역을 수동으로 추가하세요."
+  },
+  {
+    "source": "{count} regions",
+    "en": "{count} regions",
+    "vi": "{count} khu vực",
+    "ko": "지역 {count}개"
+  },
+  {
+    "source": "{count} regions imported.",
+    "en": "{count} regions imported.",
+    "vi": "Đã nhập {count} khu vực từ JSON.",
+    "ko": "JSON에서 지역 {count}개를 가져왔습니다."
+  },
+  {
+    "source": "Close JSON importer",
+    "en": "Close JSON importer",
+    "vi": "Đóng cửa sổ nhập JSON",
+    "ko": "JSON 가져오기 닫기"
+  },
+  {
+    "source": "Import a region catalogue in bulk. Upload a JSON file or paste its contents, then review before applying.",
+    "en": "Import a region catalogue in bulk. Upload a JSON file or paste its contents, then review before applying.",
+    "vi": "Tải lên file JSON hoặc dán nội dung để nhập danh mục hàng loạt. Kiểm tra và xem trước dữ liệu trước khi áp dụng.",
+    "ko": "JSON 파일을 업로드하거나 내용을 붙여넣어 지역 목록을 일괄 가져오세요. 적용 전에 데이터를 검토하세요."
+  },
+  {
+    "source": "Choose a JSON file",
+    "en": "Choose a JSON file",
+    "vi": "Chọn file JSON",
+    "ko": "JSON 파일 선택"
+  },
+  {
+    "source": "Reading file…",
+    "en": "Reading file…",
+    "vi": "Đang đọc file…",
+    "ko": "파일 읽는 중…"
+  },
+  {
+    "source": "JSON files up to 5 MB",
+    "en": "JSON files up to 5 MB",
+    "vi": "File JSON, dung lượng tối đa 5 MB",
+    "ko": "최대 5 MB의 JSON 파일"
+  },
+  {
+    "source": "Browse Files",
+    "en": "Browse Files",
+    "vi": "Chọn file",
+    "ko": "파일 선택"
+  },
+  {
+    "source": "JSON content",
+    "en": "JSON content",
+    "vi": "Nội dung JSON",
+    "ko": "JSON 내용"
+  },
+  {
+    "source": "Upload or paste",
+    "en": "Upload or paste",
+    "vi": "Tải file hoặc dán nội dung",
+    "ko": "업로드 또는 붙여넣기"
+  },
+  {
+    "source": "JSON format and sample",
+    "en": "JSON format and sample",
+    "vi": "Định dạng JSON và file mẫu",
+    "ko": "JSON 형식 및 예제"
+  },
+  {
+    "source": "Use the same provinces and wards structure as the app area selector. Codes become stable region IDs; the array order becomes the display order.",
+    "en": "Use the same provinces and wards structure as the app area selector. Codes become stable region IDs; the array order becomes the display order.",
+    "vi": "Sử dụng cấu trúc tỉnh thành và phường xã tương tự bộ chọn khu vực của ứng dụng. Mã khu vực sẽ trở thành ID cố định; thứ tự trong danh sách sẽ là thứ tự hiển thị.",
+    "ko": "앱 지역 선택기와 동일하게 provinces 및 wards 구조를 사용하세요. 코드는 고정 지역 ID가 되며, 배열 순서가 표시 순서가 됩니다."
+  },
+  {
+    "source": "Download Sample JSON",
+    "en": "Download Sample JSON",
+    "vi": "Tải JSON mẫu",
+    "ko": "JSON 예제 다운로드"
+  },
+  {
+    "source": "For other countries or an intermediate level, use a regions array with id, name, level, parentId, order and status.",
+    "en": "For other countries or an intermediate level, use a regions array with id, name, level, parentId, order and status.",
+    "vi": "Với các quốc gia khác hoặc cấp trung gian, sử dụng danh sách regions gồm id, name, level, parentId, order và status.",
+    "ko": "다른 국가나 중간 계층의 경우 id, name, level, parentId, order, status가 포함된 regions 배열을 사용하세요."
+  },
+  {
+    "source": "Import method",
+    "en": "Import method",
+    "vi": "Cách nhập dữ liệu",
+    "ko": "가져오기 방식"
+  },
+  {
+    "source": "Add and update",
+    "en": "Add and update",
+    "vi": "Thêm và cập nhật",
+    "ko": "추가 및 업데이트"
+  },
+  {
+    "source": "Replace catalogue",
+    "en": "Replace catalogue",
+    "vi": "Thay thế danh mục",
+    "ko": "목록 교체"
+  },
+  {
+    "source": "Update matching IDs and add new regions. Keep other existing regions.",
+    "en": "Update matching IDs and add new regions. Keep other existing regions.",
+    "vi": "Cập nhật khu vực trùng ID và thêm khu vực mới. Giữ các khu vực còn lại.",
+    "ko": "일치하는 ID를 업데이트하고 새 지역을 추가합니다. 다른 기존 지역은 유지합니다."
+  },
+  {
+    "source": "Use this JSON as the complete catalogue. Existing regions missing from the file will be removed from this catalogue.",
+    "en": "Use this JSON as the complete catalogue. Existing regions missing from the file will be removed from this catalogue.",
+    "vi": "Dùng JSON này làm toàn bộ danh mục. Khu vực hiện có nhưng không có trong file sẽ được loại khỏi danh mục.",
+    "ko": "이 JSON을 전체 목록으로 사용합니다. 파일에 없는 기존 지역은 목록에서 제외됩니다."
+  },
+  {
+    "source": "Import preview",
+    "en": "Import preview",
+    "vi": "Xem trước dữ liệu nhập",
+    "ko": "가져오기 미리보기"
+  },
+  {
+    "source": "JSON validated",
+    "en": "JSON validated",
+    "vi": "JSON hợp lệ",
+    "ko": "JSON 검증 완료"
+  },
+  {
+    "source": "{count} regions ready to import.",
+    "en": "{count} regions ready to import.",
+    "vi": "{count} khu vực sẵn sàng để nhập.",
+    "ko": "지역 {count}개를 가져올 준비가 되었습니다."
+  },
+  {
+    "source": "New regions",
+    "en": "New regions",
+    "vi": "Khu vực mới",
+    "ko": "새 지역"
+  },
+  {
+    "source": "Updated regions",
+    "en": "Updated regions",
+    "vi": "Khu vực cập nhật",
+    "ko": "업데이트할 지역"
+  },
+  {
+    "source": "Removed regions",
+    "en": "Removed regions",
+    "vi": "Khu vực loại bỏ",
+    "ko": "제외할 지역"
+  },
+  {
+    "source": "Catalogue preview",
+    "en": "Catalogue preview",
+    "vi": "Xem trước danh mục",
+    "ko": "지역 목록 미리보기"
+  },
+  {
+    "source": "Showing the first {count} regions.",
+    "en": "Showing the first {count} regions.",
+    "vi": "Hiển thị {count} khu vực đầu tiên.",
+    "ko": "처음 {count}개 지역을 표시합니다."
+  },
+  {
+    "source": "{count} existing regions will leave this catalogue when you apply the import.",
+    "en": "{count} existing regions will leave this catalogue when you apply the import.",
+    "vi": "{count} khu vực hiện có sẽ được loại khỏi danh mục khi áp dụng.",
+    "ko": "적용하면 기존 지역 {count}개가 목록에서 제외됩니다."
+  },
+  {
+    "source": "Apply Import",
+    "en": "Apply Import",
+    "vi": "Áp dụng dữ liệu",
+    "ko": "가져오기 적용"
+  },
+  {
+    "source": "Validate and Preview",
+    "en": "Validate and Preview",
+    "vi": "Kiểm tra và xem trước",
+    "ko": "검증 및 미리보기"
+  },
+  {
+    "source": "Choose a JSON file or paste JSON data.",
+    "en": "Choose a JSON file or paste JSON data.",
+    "vi": "Chọn file JSON hoặc dán dữ liệu JSON.",
+    "ko": "JSON 파일을 선택하거나 데이터를 붙여넣으세요."
+  },
+  {
+    "source": "The JSON file must be 5 MB or smaller.",
+    "en": "The JSON file must be 5 MB or smaller.",
+    "vi": "Dung lượng file JSON phải từ 5 MB trở xuống.",
+    "ko": "JSON 파일은 5 MB 이하여야 합니다."
+  },
+  {
+    "source": "Unable to read this JSON file. Try another file.",
+    "en": "Unable to read this JSON file. Try another file.",
+    "vi": "Không thể đọc file JSON này. Hãy chọn file khác.",
+    "ko": "이 JSON 파일을 읽을 수 없습니다. 다른 파일을 선택하세요."
+  },
+  {
+    "source": "Expected a JSON object.",
+    "en": "Expected a JSON object.",
+    "vi": "Dữ liệu phải là một đối tượng JSON.",
+    "ko": "JSON 객체가 필요합니다."
+  },
+  {
+    "source": "Enter a non-empty text value.",
+    "en": "Enter a non-empty text value.",
+    "vi": "Giá trị phải là chuỗi văn bản không rỗng.",
+    "ko": "비어 있지 않은 텍스트 값이 필요합니다."
+  },
+  {
+    "source": "Status must be Active or Inactive.",
+    "en": "Status must be Active or Inactive.",
+    "vi": "Trạng thái phải là Hoạt động (Active) hoặc Không hoạt động (Inactive).",
+    "ko": "상태는 Active(활성) 또는 Inactive(비활성)여야 합니다."
+  },
+  {
+    "source": "The province list must be a non-empty array.",
+    "en": "The province list must be a non-empty array.",
+    "vi": "Danh sách provinces phải là mảng không rỗng.",
+    "ko": "provinces는 비어 있지 않은 배열이어야 합니다."
+  },
+  {
+    "source": "Each province must have a wards array.",
+    "en": "Each province must have a wards array.",
+    "vi": "Mỗi tỉnh/thành phố phải có mảng wards.",
+    "ko": "각 시/도에는 wards 배열이 필요합니다."
+  },
+  {
+    "source": "Too many regions in this JSON.",
+    "en": "Too many regions in this JSON.",
+    "vi": "JSON chứa quá nhiều khu vực. Giới hạn là 20.000 khu vực.",
+    "ko": "JSON의 지역 수가 너무 많습니다. 최대 20,000개입니다."
+  },
+  {
+    "source": "Catalogue counts do not match the JSON data.",
+    "en": "Catalogue counts do not match the JSON data.",
+    "vi": "Số lượng khu vực trong meta không khớp với dữ liệu JSON.",
+    "ko": "meta의 지역 수가 JSON 데이터와 일치하지 않습니다."
+  },
+  {
+    "source": "The region list must be a non-empty array.",
+    "en": "The region list must be a non-empty array.",
+    "vi": "Danh sách khu vực phải là mảng không rỗng.",
+    "ko": "지역 목록은 비어 있지 않은 배열이어야 합니다."
+  },
+  {
+    "source": "Choose a supported region level.",
+    "en": "Choose a supported region level.",
+    "vi": "Cấp khu vực phải là Country, Province / City, Intermediate Area hoặc Ward / Commune.",
+    "ko": "지역 단계는 Country, Province / City, Intermediate Area 또는 Ward / Commune이어야 합니다."
+  },
+  {
+    "source": "Invalid JSON. Check quotes, commas and brackets.",
+    "en": "Invalid JSON. Check quotes, commas and brackets.",
+    "vi": "JSON không hợp lệ. Kiểm tra dấu ngoặc kép, dấu phẩy và dấu ngoặc.",
+    "ko": "JSON이 올바르지 않습니다. 따옴표, 쉼표와 괄호를 확인하세요."
+  },
+  {
+    "source": "Use a provinces object or a regions array.",
+    "en": "Use a provinces object or a regions array.",
+    "vi": "Sử dụng đối tượng provinces hoặc danh sách regions.",
+    "ko": "provinces 객체 또는 regions 배열을 사용하세요."
+  },
+  {
+    "source": "Duplicate region ID.",
+    "en": "Duplicate region ID.",
+    "vi": "ID khu vực bị trùng.",
+    "ko": "지역 ID가 중복되었습니다."
+  },
+  {
+    "source": "Parent region was not found.",
+    "en": "Parent region was not found.",
+    "vi": "Không tìm thấy khu vực cấp trên.",
+    "ko": "상위 지역을 찾을 수 없습니다."
+  },
+  {
+    "source": "Parent level is incompatible with this region.",
+    "en": "Parent level is incompatible with this region.",
+    "vi": "Cấp của khu vực cha không phù hợp với khu vực này.",
+    "ko": "상위 지역 단계가 이 지역과 호환되지 않습니다."
+  },
+  {
+    "source": "Page {page} of {pages} · {count} regions",
+    "en": "Page {page} of {pages} · {count} regions",
+    "vi": "Trang {page}/{pages} · {count} khu vực",
+    "ko": "{page}/{pages}페이지 · 지역 {count}개"
+  },
+  {
+    "source": "Region pages",
+    "en": "Region pages",
+    "vi": "Phân trang khu vực",
+    "ko": "지역 페이지"
+  },
+  {
+    "source": "Previous",
+    "en": "Previous",
+    "vi": "Trước",
+    "ko": "이전"
+  },
+  {
+    "source": "Next",
+    "en": "Next",
+    "vi": "Sau",
+    "ko": "다음"
+  }
+]
