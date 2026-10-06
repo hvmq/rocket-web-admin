@@ -68,6 +68,7 @@ export function AdminShell({
   const t = translate ?? ((source: string) => dashboardT(locale, source))
   const router = useRouter()
   const [accountOpen, setAccountOpen] = useState(false)
+  const [pendingRoute, setPendingRoute] = useState<string | null>(null)
   const account = useRef<HTMLDivElement>(null)
   const accountTrigger = useRef<HTMLButtonElement>(null)
   const accountMenuId = useId()
@@ -110,9 +111,12 @@ export function AdminShell({
           {navigation.map((item) => (
             <Link
               key={item.slug}
-              className={`admin-nav-item${item.slug === active ? ' is-active' : ''}`}
+              className={`admin-nav-item${item.slug === (pendingRoute ?? active) ? ' is-active' : ''}`}
               href={adminRoute(item.slug, locale)}
+              prefetch
+              onNavigate={() => setPendingRoute(item.slug)}
               aria-current={item.slug === active ? 'page' : undefined}
+              aria-busy={item.slug === pendingRoute || undefined}
             >
               <span className="admin-nav-item__icon">
                 <AdminIcon name={item.icon} />
