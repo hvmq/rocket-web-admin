@@ -1,10 +1,6 @@
 import { AdminBrand } from '@/components/admin/AdminBrand'
-import {
-  AdminButton,
-  AdminCheckbox,
-  AdminField,
-  AdminPanel,
-} from '@/components/admin/AdminForm'
+import { AdminPanel } from '@/components/admin/AdminForm'
+import { AdminSignInForm } from '@/components/admin/AdminSignInForm'
 import { getAdminAccessCopy, type Locale } from '@/i18n/admin-access'
 import type { Metadata } from 'next'
 
@@ -38,26 +34,7 @@ export default async function Home({ searchParams }: PageProps) {
         />
 
         <AdminPanel title={copy.adminSignIn}>
-          <form className="admin-auth-form">
-            <AdminField
-              id="admin-identifier"
-              name="identifier"
-              label={copy.adminIdentifier}
-              placeholder={copy.emailOrSupportedIdentifier}
-              autoComplete="username"
-            />
-            <AdminField
-              id="admin-password"
-              name="password"
-              label={copy.password}
-              placeholder={copy.enterYourPassword}
-              type="password"
-              autoComplete="current-password"
-            />
-            <AdminCheckbox id="admin-show-password" label={copy.showPassword} />
-            <div className="admin-form-feedback" aria-live="polite" />
-            <AdminButton>{copy.signIn}</AdminButton>
-          </form>
+          <AdminSignInForm locale={locale} />
         </AdminPanel>
       </div>
     </main>

@@ -1,12 +1,10 @@
-import type { HTMLInputTypeAttribute, ReactNode } from 'react'
+import type { InputHTMLAttributes, ReactNode } from 'react'
 
-type AdminFieldProps = {
+type AdminFieldProps = InputHTMLAttributes<HTMLInputElement> & {
   id: string
   name: string
   label: string
   placeholder: string
-  type?: HTMLInputTypeAttribute
-  autoComplete?: string
 }
 
 export function AdminField({
@@ -15,7 +13,7 @@ export function AdminField({
   label,
   placeholder,
   type = 'text',
-  autoComplete,
+  ...inputProps
 }: AdminFieldProps) {
   return (
     <label className="admin-field" htmlFor={id}>
@@ -24,17 +22,21 @@ export function AdminField({
         id={id}
         name={name}
         type={type}
-        autoComplete={autoComplete}
         placeholder={placeholder}
+        {...inputProps}
       />
     </label>
   )
 }
 
-export function AdminCheckbox({ id, label }: { id: string; label: string }) {
+export function AdminCheckbox({
+  id,
+  label,
+  ...inputProps
+}: InputHTMLAttributes<HTMLInputElement> & { id: string; label: string }) {
   return (
     <label className="admin-check" htmlFor={id}>
-      <input id={id} type="checkbox" />
+      <input {...inputProps} id={id} type="checkbox" />
       <span>{label}</span>
     </label>
   )
@@ -43,12 +45,14 @@ export function AdminCheckbox({ id, label }: { id: string; label: string }) {
 export function AdminButton({
   children,
   type = 'button',
+  disabled,
 }: {
   children: ReactNode
   type?: 'button' | 'submit'
+  disabled?: boolean
 }) {
   return (
-    <button className="admin-primary-button" type={type}>
+    <button className="admin-primary-button" type={type} disabled={disabled}>
       {children}
     </button>
   )

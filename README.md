@@ -42,6 +42,15 @@ pnpm dev
 
 Mở [http://localhost:3000](http://localhost:3000). Cổng chạy theo `PORT` trong `.env`.
 
+### Đăng nhập demo
+
+Tại trang đăng nhập, dùng email `admin@rocket.demo` và mật khẩu `Rocket2026!`.
+Bấm **Đăng nhập** hoặc nhấn Enter để mở Dashboard, giữ nguyên ngôn ngữ đang chọn.
+Form báo lỗi nếu bỏ trống hoặc nhập sai thông tin; **Hiện mật khẩu** cho phép kiểm tra nội dung đã nhập.
+
+Luồng này chỉ dùng để xem giao diện demo, kiểm tra thông tin ở trình duyệt và không tạo phiên Supabase.
+Các trang demo vẫn có thể được mở trực tiếp. Cần bổ sung xác thực Supabase và phân quyền khi kết nối dữ liệu thật.
+
 Khi chia sẻ dev server qua ngrok, thêm hostname của tunnel vào `.env` để Next.js cho phép tải JavaScript, font và kết nối HMR:
 
 ```dotenv

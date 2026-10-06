@@ -1,0 +1,45 @@
+.admin-dashboard-screen .admin-nav-item.is-pending {
+  background: rgb(234 88 12 / 8%);
+  color: var(--admin-clay);
+}
+
+.admin-loading-spinner {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--admin-chalk);
+  border-top-color: var(--admin-clay);
+  border-radius: 50%;
+}
+
+.admin-navigation-content {
+  position: relative;
+}
+
+.admin-navigation-content__body[inert] {
+  visibility: hidden;
+}
+
+.admin-page-loading {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  min-height: 240px;
+  padding: 64px 24px;
+  background: var(--admin-canvas);
+}
+
+.admin-page-loading .admin-loading-spinner {
+  width: 32px;
+  height: 32px;
+  border-width: 3px;
+}
+
+.admin-page-loading p {
+  margin: 0;
+  color: var(--admin-ashen);
+  font-size: 14px;
+}

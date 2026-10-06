@@ -156,6 +156,16 @@
 .admin-form-feedback {
   min-height: 16px;
   margin-top: -4px;
+  color: #b91c1c;
+}
+
+.admin-auth-form .admin-field input[aria-invalid='true'] {
+  border-color: #b91c1c;
+}
+
+.admin-auth-form .admin-primary-button:disabled {
+  cursor: wait;
+  opacity: 0.7;
 }
 
 .admin-primary-button {

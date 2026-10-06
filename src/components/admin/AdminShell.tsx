@@ -2,11 +2,20 @@
 
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
-import { useEffect, useId, useRef, useState, type ReactNode } from 'react'
+import {
+  useEffect,
+  useId,
+  useRef,
+  useState,
+  useTransition,
+  type ReactNode,
+} from 'react'
 import { AdminBrand } from './AdminBrand'
 import { AdminIcon, type IconName } from './AdminIcon'
+import { AdminPageLoading } from './AdminPageLoading'
 import { dashboardT } from '@/i18n/admin-dashboard'
 import type { Locale } from '@/i18n/admin-access'
+import './navigation-loading.css'
 
 const navigation: {
   label: string
@@ -67,8 +76,12 @@ export function AdminShell({
 }) {
   const t = translate ?? ((source: string) => dashboardT(locale, source))
   const router = useRouter()
+  const [isNavigating, startNavigation] = useTransition()
+  const [pendingSlug, setPendingSlug] = useState<string | null>(null)
+  const pendingItem = isNavigating
+    ? navigation.find((item) => item.slug === pendingSlug)
+    : undefined
   const [accountOpen, setAccountOpen] = useState(false)
-  const [pendingRoute, setPendingRoute] = useState<string | null>(null)
   const account = useRef<HTMLDivElement>(null)
   const accountTrigger = useRef<HTMLButtonElement>(null)
   const accountMenuId = useId()
@@ -111,15 +124,35 @@ export function AdminShell({
           {navigation.map((item) => (
             <Link
               key={item.slug}
-              className={`admin-nav-item${item.slug === (pendingRoute ?? active) ? ' is-active' : ''}`}
+              className={`admin-nav-item${item.slug === active ? ' is-active' : ''}${item === pendingItem ? ' is-pending' : ''}`}
               href={adminRoute(item.slug, locale)}
-              prefetch
-              onNavigate={() => setPendingRoute(item.slug)}
+              prefetch={true}
               aria-current={item.slug === active ? 'page' : undefined}
-              aria-busy={item.slug === pendingRoute || undefined}
+              aria-busy={item === pendingItem || undefined}
+              onNavigate={(event) => {
+                event.preventDefault()
+                const href = adminRoute(item.slug, locale)
+                if (
+                  !isNavigating &&
+                  href ===
+                    `${window.location.pathname}${window.location.search}`
+                ) {
+                  return
+                }
+                setPendingSlug(item.slug)
+                setAccountOpen(false)
+                startNavigation(() => router.push(href))
+              }}
             >
               <span className="admin-nav-item__icon">
-                <AdminIcon name={item.icon} />
+                {item === pendingItem ? (
+                  <span
+                    className="admin-loading-spinner admin-motion-spin"
+                    aria-hidden="true"
+                  />
+                ) : (
+                  <AdminIcon name={item.icon} />
+                )}
               </span>
               <span>{t(item.label)}</span>
               {item.count && <small>{item.count}</small>}
@@ -196,10 +229,22 @@ export function AdminShell({
       </aside>
       <main className="admin-main">
         <header className="admin-topbar admin-motion-enter">
-          <h1>{t(title)}</h1>
-          <div className="admin-topbar__actions">{actions}</div>
+          <h1>{t(pendingItem?.label ?? title)}</h1>
+          <div className="admin-topbar__actions">
+            {isNavigating ? null : actions}
+          </div>
         </header>
-        <div className="admin-content">{children}</div>
+        <div className="admin-content admin-navigation-content">
+          <div
+            className="admin-navigation-content__body"
+            inert={isNavigating}
+            aria-hidden={isNavigating || undefined}
+            aria-busy={isNavigating}
+          >
+            {children}
+          </div>
+          {isNavigating && <AdminPageLoading locale={locale} />}
+        </div>
       </main>
     </div>
   )

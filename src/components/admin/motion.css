@@ -5,6 +5,7 @@
   --admin-motion-backdrop-duration: 220ms;
   --admin-motion-exit-duration: 180ms;
   --admin-motion-interaction-duration: 180ms;
+  --admin-motion-loading-duration: 800ms;
   --admin-motion-stagger-0: 0ms;
   --admin-motion-stagger-1: 55ms;
   --admin-motion-stagger-2: 110ms;
@@ -18,6 +19,16 @@
     color var(--admin-motion-interaction-duration) ease,
     box-shadow var(--admin-motion-interaction-duration) ease,
     transform var(--admin-motion-interaction-duration) ease;
+}
+
+@keyframes admin-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.admin-motion-spin {
+  animation: admin-spin var(--admin-motion-loading-duration) linear infinite;
 }
 
 @keyframes admin-fade-up {
@@ -125,6 +136,10 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .admin-motion-spin {
+    animation: none;
+  }
+
   .admin-theme *,
   .admin-motion-enter,
   .admin-motion-drawer,

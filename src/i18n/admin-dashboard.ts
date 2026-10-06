@@ -6,6 +6,11 @@ const translations = Object.fromEntries(
 ) as Record<string, { en: string; vi: string; ko: string }>
 
 const additional: Record<string, { en: string; vi: string; ko: string }> = {
+  'Loading page…': {
+    en: 'Loading page…',
+    vi: 'Đang tải trang…',
+    ko: '페이지를 불러오는 중…',
+  },
   Language: { en: 'Language', vi: 'Ngôn ngữ', ko: '언어' },
   'No-show cases': {
     en: 'No-show cases',
